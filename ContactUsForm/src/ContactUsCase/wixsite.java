@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class wixsite {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		
 		System.setProperty("webdriver.chrome.driver", "D:\\Data\\WebDriver\\chromedriver243.exe");
 		WebDriver driver = new ChromeDriver();
@@ -39,13 +39,15 @@ public class wixsite {
 //		 submitButton = driver.findElement(By.xpath("//*[@id=\"comp-jhrgemmllink\"]"));
 		 submitButton.click(); 
 	     
-		 WebElement msg=driver.findElement(By.id("comp-jhrgemmd"));
+		 WebElement msg = driver.findElement(By.id("comp-jhrgemmd"));
 		 
-		 String text=msg.getText();
+		 Thread.sleep(2000);
 		 
-		 WebDriverWait wait = new WebDriverWait(driver, 10);
+		 String text = msg.getText();
+		 String expectedText = "Thanks for submitting!";
+
 		 
-		 if (msg.isEnabled() && text.contains("Thanks for submitting!"))
+		 if (text.contentEquals(expectedText))
 		 { 
 		     System.out.println("Test Passed!");
 		 }else{
