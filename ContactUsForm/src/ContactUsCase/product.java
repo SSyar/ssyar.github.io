@@ -104,7 +104,21 @@ public class product {
 			paymentMethodButton = driver.findElement(By.xpath("//input [@type=\"button\" and @id=\"button-payment-method\"]"));
 			paymentMethodButton.click();
 
-		 
+			Thread.sleep(2000);
+			WebElement confirmOrderButton;
+			confirmOrderButton = driver.findElement(By.xpath("//*[@id=\"button-confirm\"]"));
+			confirmOrderButton.click();
+			
+			Thread.sleep(2000);
+			String actualpagetitle = driver.getTitle();
+			String expectedTitle = "Your order has been placed!";
+			 
+			if (actualpagetitle.contentEquals(expectedTitle)){
+		            System.out.println("Test Passed!");
+		        } else {
+		            System.out.println("Test Failed");
+		        }
+			
 //		driver.close();
 //		
 //		driver.quit();
