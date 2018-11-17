@@ -11,7 +11,7 @@ public class opencart {
 
 	public static void main(String[] args) {
 		
-		System.setProperty("webdriver.chrome.driver", "D:\\Data\\WebDriver\\chromedriver243.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Setups\\Java\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
 		driver.manage().window().maximize();				

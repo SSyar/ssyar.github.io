@@ -6,17 +6,22 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class wixsite {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		System.setProperty("webdriver.chrome.driver", "D:\\Data\\WebDriver\\chromedriver243.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\SSyar\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
 		driver.manage().window().maximize();				
 		driver.get("https://qatestid12.wixsite.com/qaspecialist");	
+		
+		WebElement contactclick;
+		contactclick = driver.findElement(By.id("comp-ifgtula74label"));
+		contactclick.click();
+		 
+		 Thread.sleep(2000);
 
 		 WebElement name;
 		 name = driver.findElement(By.id("comp-jhrgftz1input"));
