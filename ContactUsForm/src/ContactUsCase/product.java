@@ -2,7 +2,10 @@
 
 package ContactUsCase;
 
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -56,7 +59,7 @@ public class product {
 		
 		driver.get("https://demo.opencart.com/index.php?route=checkout/checkout");
 		
-		Thread.sleep(5000);
+		driver.manage().timeouts().implicitlyWait(4, TimeUnit.SECONDS);
 		
 		WebElement msg = driver.findElement(By.xpath("//*[@id=\"collapse-payment-address\"]/div/form/div[1]/label"));
 		
@@ -90,9 +93,10 @@ public class product {
 			deliveryDetails.click(); 
 			
 			Thread.sleep(2000);
-			WebElement deliveryMethod;
-			deliveryMethod = driver.findElement(By.xpath("//*[@id=\"button-shipping-method\"]"));
-			deliveryMethod.click(); 
+			WebElement deliveryMethod  = driver.findElement(By.xpath("//*[@id=\"button-shipping-method\"]"));
+			JavascriptExecutor jse2 = (JavascriptExecutor)driver;
+			jse2.executeScript("arguments[0].scrollIntoView()", deliveryMethod);		
+			deliveryMethod.click();
 			
 			Thread.sleep(2000);			
 			WebElement paymentMethod;
