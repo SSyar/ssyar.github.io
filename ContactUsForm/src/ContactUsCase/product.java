@@ -23,6 +23,7 @@ public class product {
 		WebDriver driver = new ChromeDriver(options);
 	
 		driver.get("https://demo.opencart.com/");
+        System.out.println("Site accessed");
 		
 		WebElement clickMyaccount;
 		clickMyaccount = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/a/span[1]"));
@@ -38,12 +39,14 @@ public class product {
 		WebElement login;
 		login = driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div[2]/div/form/input"));
 		login.click(); 
+        System.out.println("Login successful");
 		
 		driver.findElement(By.xpath("//*[@id=\"search\"]/input")).sendKeys("HP LP3065");
 		
 		WebElement searchClick;
 		searchClick = driver.findElement(By.xpath("//*[@id=\"search\"]/span/button/i"));
 		searchClick.click();
+        System.out.println("Product searched");
 		
 		WebElement clickProduct;
 		clickProduct = driver.findElement(By.xpath("//*[@id=\"content\"]/div[3]/div/div/div[2]/div[1]/h4/a"));
@@ -52,12 +55,14 @@ public class product {
 		WebElement addtocart;
 		addtocart = driver.findElement(By.xpath("//*[@id=\"button-cart\"]"));
 		addtocart.click();
+        System.out.println("Added to cart");
 
 		WebElement checkout;
 		checkout = driver.findElement(By.xpath("//*[@id=\"cart-total\"]"));
 		checkout.click(); 
 		
 		driver.get("https://demo.opencart.com/index.php?route=checkout/checkout");
+        System.out.println("Checkout");
 		
 		driver.manage().timeouts().implicitlyWait(4, TimeUnit.SECONDS);
 		
@@ -91,12 +96,14 @@ public class product {
 		 	WebElement deliveryDetails;
 			deliveryDetails = driver.findElement(By.xpath("//*[@id=\"button-shipping-address\"]"));
 			deliveryDetails.click(); 
+            System.out.println("Delivery details");
 			
 			Thread.sleep(2000);
 			WebElement deliveryMethod  = driver.findElement(By.xpath("//*[@id=\"button-shipping-method\"]"));
 			JavascriptExecutor jse2 = (JavascriptExecutor)driver;
 			jse2.executeScript("arguments[0].scrollIntoView()", deliveryMethod);		
 			deliveryMethod.click();
+            System.out.println("Delivery method");
 			
 			Thread.sleep(2000);			
 			WebElement paymentMethod;
@@ -107,11 +114,13 @@ public class product {
 			WebElement paymentMethodButton;
 			paymentMethodButton = driver.findElement(By.xpath("//input [@type=\"button\" and @id=\"button-payment-method\"]"));
 			paymentMethodButton.click();
+            System.out.println("Payment button");
 
 			Thread.sleep(2000);
 			WebElement confirmOrderButton;
 			confirmOrderButton = driver.findElement(By.xpath("//*[@id=\"button-confirm\"]"));
 			confirmOrderButton.click();
+            System.out.println("Order confirmed");
 			
 			Thread.sleep(2000);
 			String actualpagetitle = driver.getTitle();
