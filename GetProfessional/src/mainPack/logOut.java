@@ -14,12 +14,15 @@ public class logOut {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath="//*[@id=\"column-right\"]/div/a[13]")
-	public WebElement logO;
+	@FindBy(xpath="//*[@id=\"top-links\"]/ul/li[2]/a/span[1]")
+	public WebElement MA;
+	@FindBy(xpath="//*[@id=\"top-links\"]/ul/li[2]/ul/li[5]/a")
+	public WebElement LO;
+	
 	
 	public void LogOut() {
-	logO.click();
-	
+	MA.click();
+	LO.click();
 	}
 	
 	}

@@ -24,9 +24,9 @@ public class Login {
 		public WebElement submit;
 
 		
-		public void MyLog() {
-		emailid.sendKeys("ssyar@yahoo.com");
-		password.sendKeys("abcd1234");
+		public void MyLog(String ID, String PWD) {
+		emailid.sendKeys(ID);
+		password.sendKeys(PWD);
 		submit.click();
 }
 		

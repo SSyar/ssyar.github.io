@@ -1,16 +1,31 @@
 package mytestcase;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import jxl.Sheet;
+import jxl.Workbook;
+import jxl.read.biff.BiffException;
+import mainPack.Login;
+
 public class loop {
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws InterruptedException, BiffException, IOException {
 
-		for (int x=1; x<10; x++) {
+//		for (int x=1; x<10; x++) 
+		
+		{
+			
+			FileInputStream fs = new FileInputStream("C:\\Users\\labit\\Downloads\\Test.xls");
+			Workbook wb = Workbook.getWorkbook(fs);
+			Sheet AddressSheet = wb.getSheet("User_Login");
+			
 			System.setProperty("webdriver.chrome.driver", "C:\\Users\\labit\\Downloads\\chromedriver.exe");
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("start-maximized");
@@ -28,12 +43,15 @@ public class loop {
 			clickLogin = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a"));
 			clickLogin.click(); 	
 			
-			driver.findElement(By.xpath("//*[@id=\"input-email\"]")).sendKeys("ssyar@yahoo.com");
-			driver.findElement(By.xpath("//*[@id=\"input-password\"]")).sendKeys("abcd1234");
+			Login loginobjects = new Login (driver);
+			loginobjects.MyLog(AddressSheet.getCell(0,1).getContents(), AddressSheet.getCell(1,1).getContents());
 			
-			WebElement login;
-			login = driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div[2]/div/form/input"));
-			login.click(); 
+//			driver.findElement(By.xpath("//*[@id=\"input-email\"]")).sendKeys("ssyar@yahoo.com");
+//			driver.findElement(By.xpath("//*[@id=\"input-password\"]")).sendKeys("abcd1234");
+			
+//			WebElement login;
+//			login = driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div[2]/div/form/input"));
+//			login.click(); 
 	        System.out.println("Login successful");
 	        
 	        driver.close();		}
