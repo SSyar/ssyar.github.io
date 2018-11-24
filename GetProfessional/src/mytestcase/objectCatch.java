@@ -5,9 +5,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import mainPack.Login;
-//import mainPack.logOut;
-import mainPack.orderCheckOut;
+//import mainPack.orderCheckOut;
 import mainPack.logAssert;
+import mainPack.logOut;
 
 public class objectCatch {
 	public static void main(String[] args) throws InterruptedException {
@@ -25,11 +25,11 @@ public class objectCatch {
         logAssert logAssIn = new logAssert(driver);
         logAssIn.logAin();
         
-        orderCheckOut orderCheckFirst = new orderCheckOut(driver);
-        orderCheckFirst.oc();
+//        orderCheckOut orderCheckFirst = new orderCheckOut(driver);
+//        orderCheckFirst.oc();
         
-//		logOut logo = new logOut(driver);
-//		logo.LogOut();
+		logOut logo = new logOut(driver);
+		logo.LogOut();
 //        System.out.println("Account Logout First");
 //        
 //        logAssert logAssOut = new logAssert(driver);
