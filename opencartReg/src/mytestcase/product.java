@@ -26,7 +26,7 @@ public class product {
         System.out.println("Site accessed");
 		
 		WebElement clickMyaccount;
-		clickMyaccount = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/a/span[1]"));
+		clickMyaccount = driver.findElement(By.xpath("//*[@title=\"My Account\"]"));
 		clickMyaccount.click(); 
 		
 		WebElement clickLogin;

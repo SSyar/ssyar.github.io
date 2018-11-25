@@ -19,9 +19,9 @@ public class logAssert {
 		String expectedLogInTitle = "My Account";
 		
 		if (LoginPageTitle.contentEquals(expectedLogInTitle)){
-            System.out.println("Test Passed!");
+            System.out.println("Login successful");
         } else {
-            System.out.println("Test Failed");
+            System.out.println("Login failed");
         }
 	}
 	
@@ -30,9 +30,9 @@ public class logAssert {
 		String expectedLogOutTitle = "Account Logout";
 
 		if (LogoutPageTitle.contentEquals(expectedLogOutTitle)){
-            System.out.println("Test Passed!");
+            System.out.println("Logout successful");
         } else {
-            System.out.println("Test Failed");
+            System.out.println("Logout failed");
 	
 	}
 	}

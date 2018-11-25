@@ -105,9 +105,9 @@ public class orderCheckOut {
 			String expectedTitle = "Your order has been placed!";
 			 
 			if (actualpagetitle.contentEquals(expectedTitle)){
-		            System.out.println("Test Passed!");
+		            System.out.println("Order has been placed");
 		        } else {
-		            System.out.println("Test Failed");
+		            System.out.println("Order Failed");
 		        }
 
 

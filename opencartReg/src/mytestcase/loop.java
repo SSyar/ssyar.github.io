@@ -5,7 +5,6 @@ import java.io.IOException;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
@@ -34,14 +33,18 @@ public class loop {
 		
 			driver.get("https://demo.opencart.com/");
 	        System.out.println("Site accessed");
+	        
+	        driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/a/span[1]")).click();
 			
-			WebElement clickMyaccount;
-			clickMyaccount = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/a/span[1]"));
-			clickMyaccount.click(); 
+//			WebElement clickMyaccount;
+//			clickMyaccount = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/a/span[1]"));
+//			clickMyaccount.click(); 
 			
-			WebElement clickLogin;
-			clickLogin = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a"));
-			clickLogin.click(); 	
+	        driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a")).click();
+	        
+//			WebElement clickLogin;
+//			clickLogin = driver.findElement(By.xpath("//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a"));
+//			clickLogin.click(); 	
 			
 			Login loginobjects = new Login (driver);
 			loginobjects.MyLog(AddressSheet.getCell(0,1).getContents(), AddressSheet.getCell(1,1).getContents());
