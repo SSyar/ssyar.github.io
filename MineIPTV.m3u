@@ -15,3 +15,9 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan",Hum News
 https://cdn7.mjunoon.tv:8087/web/Hum-news-80/live/80H/chunks.m3u8?nimblesessionid=4028492&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgNzo0NDoxMSBBTSZoYXNoX3ZhbHVlPXZ4L2M5elZvK2N2a3dzRGdvbXlBa2c9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1230794775755984898/lm86jk2__400x400.jpg" group-title="Pakistan",City 42 News
+https://cdn5.mjunoon.tv:8087/web/City42-144/live/144L/chunks.m3u8?nimblesessionid=294502324&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgNzo0ODozNiBBTSZoYXNoX3ZhbHVlPXJ3ejdnSWVXOUxudGFvUWxucVBlRGc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1190153645775605760/sJXt6SPw_400x400.jpg" group-title="Pakistan",24 News HD
+https://cdn7.mjunoon.tv:8087/web/24HD-146/live/146M/chunks.m3u8?nimblesessionid=4028553&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgNzo1MDo1NCBBTSZoYXNoX3ZhbHVlPW1lMmsvSHVOWlFhRjQ0LzFNSWZEZGc9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/960592284084523009/GVMamU7P_400x400.jpg" group-title="Pakistan",Neo News HD
+https://cdn7.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8?nimblesessionid=4028577&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjAgNzo1Mjo1MyBBTSZoYXNoX3ZhbHVlPUFrOHBaaG1BSFZRc3JFM2I0UHBYMVE9PSZ2YWxpZG1pbnV0ZXM9MQ==
