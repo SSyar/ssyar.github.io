@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Pakistan: Express News tvg-logo="https://i.imgur.com/PRgvj4c.png"
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1249413237.m3u8
+#EXTINF:-1,Pakistn: Geo News tvg-logo="https://i.imgur.com/PRgvj4c.png"
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+#EXTINF:-1,Pakistn: GTV News tvg-logo="https://i.imgur.com/PRgvj4c.png"
+http://202.69.59.164:8080/hls/live.m3u8
+#EXTINF:-1,Pakistn: 92 News HD tvg-logo="https://i.imgur.com/PRgvj4c.png"
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,Pakistn: Dunya News tvg-logo="https://i.imgur.com/PRgvj4c.png"
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1,Pakistn: Lahore News tvg-logo="https://i.imgur.com/PRgvj4c.png"
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
