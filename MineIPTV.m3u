@@ -13,3 +13,5 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162078946168623104/Xmv1VntV_400x400.jpg" group-title="Pakistan",ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan",HUM News
+https://video.fisb5-1.fna.fbcdn.net/hvideo-frc3-ftw/_nc_cat-1/v/rYy7NTMUhB6k07wl-GjL3/live-dash/live-qd-a/1358447237693048_0-init.m4a?ms=m_CN
