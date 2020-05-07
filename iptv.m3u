@@ -20,7 +20,7 @@ https://stream.simpaisa.com/pitvlive2/city42.smil/chunklist_w1036896056_b298000_
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1190153645775605760/sJXt6SPw_400x400.jpg" group-title="Pakistan",24 News HD
 https://stream.simpaisa.com/pitvlive2/channel24.smil/chunklist_w1364447861_b748000_slEng.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/960592284084523009/GVMamU7P_400x400.jpg" group-title="Pakistan",Neo News HD
-https://www.youtube.com/watch?v=i_G8h177ouI
+https://stream.simpaisa.com/pitvlive2/neo.smil/chunklist_w1766125456_b748000_slEng.m3u8
 #EXTINF:-1, tvg-logo="https://www.dawnnews.tv/_img/logo.png" group-title="Pakistan",Dawn News
 https://stream.simpaisa.com/pitvlive2/dawnnews.smil/chunklist_w995997180_b748000_slEng.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162235060696674310/a_X0EXPt_400x400.jpg" group-title="Pakistan",Aaj News
