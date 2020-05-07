@@ -29,3 +29,5 @@ https://stream.simpaisa.com/pitvlive2/saamanews.smil/chunklist_w1007604117_b1548
 https://stream.simpaisa.com/pitvlive2/jaagtv.smil/chunklist_w1325285142_b748000_slEng.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/532868772151832576/KleWdSYN_400x400.png" group-title="India",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1100737961501458433/wpaOvQVd_400x400.png" group-title="India",Zee Bollywood
+http://z5ams.akamaized.net/classic/tracks-v2a1/exp=1588941971~acl=%2f*~data=hdntl~hmac=27bda0a16b60330b50187eff65dd2afcf8e2ea91e43985fe8a85469fa60d30d9/mono.m3u8
