@@ -27,3 +27,5 @@ https://stream.simpaisa.com/pitvlive2/aajnews.smil/chunklist_w743820223_b748000_
 https://stream.simpaisa.com/pitvlive2/saamanews.smil/chunklist_w1007604117_b1548000_slENG.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News
 https://stream.simpaisa.com/pitvlive2/jaagtv.smil/chunklist_w1325285142_b748000_slEng.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1029767090176253952/8mf04e9x_400x400.jpg" group-title="Pakistan",Abb Tak News
+https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/live/133H/l_1038979047_70030.ts?nimblesessionid=294959193&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIwIDU6MzM6MzkgQU0maGFzaF92YWx1ZT03c3pFTXE3Q2lwRjNHaGdwZTlmV3p3PT0mdmFsaWRtaW51dGVzPTE
