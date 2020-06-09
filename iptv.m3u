@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan",Madina TV
-https://playlive.goonj.pk/madinaweb_480p/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1591730846/ei/Po7fXtmUC6GEmLAPzLuYmAY/ip/39.37.185.86/id/GnHhpRg2VB0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfWSpoJ9w8VYCbSO6LU0x2dNvoe88tEKkQw6fPCVGGp0CIQCGjRLMYtj5XXnR6BOm4paatPfT0ItxdxIjskAqpzaj5w%3D%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan",Makkah TV
-https://playlive.goonj.pk/makkahweb_480p/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1591730756/ei/5I3fXsDdLfCOxN8PvceO6A0/ip/39.37.185.86/id/7bfQJS5Thec.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKQollarcn6zqabO1L0EwpFYRFDv2cH3k9KwOTXeTRH3AiEA1cJNuq7ExZbizuowO_nkiY8gUwpNRmBDsbAtJ6qWcf4%3D/file/index.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",Express News
