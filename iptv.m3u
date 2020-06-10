@@ -52,13 +52,13 @@ https://playlive.goonj.pk/samaaweb_480p/index.m3u8
 
 https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="Pakistan",Abb Tak News
-
-http://configuration.tn:8000/riadh3295/chaaben3295/7523
-
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News
 
 https://playlive.goonj.pk/gnnweb_480p/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="Pakistan",Abb Tak News
+
+http://configuration.tn:8000/riadh3295/chaaben3295/7523
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" group-title="Pakistan",GEO Entertainment
 
