@@ -16,7 +16,7 @@ https://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp2/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan",Hum News
-https://vidcdn.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1252482149.m3u8
+http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan",Neo News
