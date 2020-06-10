@@ -1,39 +1,81 @@
 #EXTM3U
+
 #EXTINF:-1, tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan",Madina TV
+
 https://playlive.goonj.pk/madinaweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan",Makkah TV
+
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan",Geo News
+
 https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",Express News
+
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w607546443.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News HD
+
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162092475131092995/-Ih-fRMX_400x400.jpg" group-title="Pakistan",Dunya News
+
 https://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan",Lahore News
+
 https://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
+
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp2/chunks.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan",Hum News
+
 http://95.211.211.168/live/humnews0189/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
+
 https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan",Neo News
+
 https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
+
 https://playlive.goonj.pk/samaaweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="Pakistan",Aaj News
+
 https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="Pakistan",Abb Tak News
+
+http://configuration.tn:8000/riadh3295/chaaben3295/7523
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News
+
 https://playlive.goonj.pk/gnnweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" group-title="Pakistan",GEO Entertainment
+
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
+
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",HUM TV World
+
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7537.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
+
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7555.m3u8
+
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/14494583.548597b56b924.jpg" group-title="Pakistan",HUM Sitaray
+
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7538.m3u8
