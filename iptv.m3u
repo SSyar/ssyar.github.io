@@ -8,6 +8,10 @@ https://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",ARY  QTV
+
+https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan",Geo News
 
 https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
@@ -68,13 +72,35 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1171659779783168000/Dy9nPNqs_400x400.jpg" group-title="Pakistan",AAJ Entertainment
+
+https://playlive.goonj.pk/aajentweb_480p/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Pakistan",A Plus
+
+https://playlive.goonj.pk/aplusweb_480p/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
+
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
+
+https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" group-title="Pakistan",8xm
+
+https://playlive.goonj.pk/8xmweb_480p/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Zindagi
+
+https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",HUM TV World
 
 http://configuration.tn:8000/live/riadh3295/chaaben3295/7537.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
-
-http://configuration.tn:8000/live/riadh3295/chaaben3295/7555.m3u8
 
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/14494583.548597b56b924.jpg" group-title="Pakistan",HUM Sitaray
 
