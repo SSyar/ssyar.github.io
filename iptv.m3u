@@ -60,10 +60,6 @@ https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
 
 https://playlive.goonj.pk/gnnweb_480p/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="Pakistan",Abb Tak News
-
-http://configuration.tn:8000/riadh3295/chaaben3295/7523
-
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" group-title="Pakistan",Such News
 
 https://ctr-10041-ap-pk.dailymotion-live-hls-2.qwilted-cds.cqloud.com/sec(YrrUAJd7Mkrt71XkqWdXrfhyy9HQbkmU6hAfzTEsi58)/dm/3/x72hrde/s/live-2.m3u8
@@ -100,12 +96,3 @@ https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",HUM TV World
-
-http://configuration.tn:8000/live/riadh3295/chaaben3295/7537.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/14494583.548597b56b924.jpg" group-title="Pakistan",HUM Sitaray
-
-http://configuration.tn:8000/live/riadh3295/chaaben3295/7538.m3u8
