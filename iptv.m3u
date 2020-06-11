@@ -68,6 +68,10 @@ https://ctr-10041-ap-pk.dailymotion-live-hls-2.qwilted-cds.cqloud.com/sec(YrrUAJ
 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Pakistan",GEO Kahani
+
+http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
 
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
