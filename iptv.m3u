@@ -59,8 +59,6 @@ https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News
 
 https://playlive.goonj.pk/gnnweb_480p/index.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News YT
-https://www.youtube.com/embed/ecEuf6z-BrI
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" group-title="Pakistan",Such News
 
