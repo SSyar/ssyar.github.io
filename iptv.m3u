@@ -102,4 +102,4 @@ https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN YT News
 
-https://www.youtube.com/watch?v=ecEuf6z-BrI
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=ecEuf6z-BrI
