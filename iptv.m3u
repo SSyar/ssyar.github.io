@@ -64,11 +64,11 @@ https://playlive.goonj.pk/gnnweb_480p/index.m3u8
 
 https://ctr-10041-ap-pk.dailymotion-live-hls-2.qwilted-cds.cqloud.com/sec(YrrUAJd7Mkrt71XkqWdXrfhyy9HQbkmU6hAfzTEsi58)/dm/3/x72hrde/s/live-2.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",City 42
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="Pakistan",City 42
 
 https://streams.simpaisa.com:8443/pitvlive3/city42.smil/playlist.m3u8?
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="Pakistan",24 News
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
 
 https://streams.simpaisa.com:8443/pitvlive3/channel24.smil/playlist.m3u8?
 
