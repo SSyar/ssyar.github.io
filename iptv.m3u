@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-url="" group-title="" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="Pakistan", Madina TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-url="" group-title="Pakistan" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="", Madina TV
 
 https://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
