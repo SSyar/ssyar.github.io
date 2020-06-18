@@ -18,7 +18,7 @@ https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",Express News
 
-https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w607546443.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/expressnews.smil/playlist.m3u8?
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News HD
 
@@ -63,6 +63,10 @@ https://playlive.goonj.pk/gnnweb_480p/index.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" group-title="Pakistan",Such News
 
 https://streams.simpaisa.com:8443/pitvlive3/sachtv.smil/playlist.m3u8?
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="Pakistan",Metro 1 News
+
+https://streams.simpaisa.com:8443/pitvlive3/metro.smil/playlist.m3u8?
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="Pakistan",City 42
 
