@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" tvg-country="PK" tvg-url="" group-title="",8X Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" tvg-country="" tvg-url="" group-title="Pakistan",8X Music
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="" tvg-url="" group-title="Pakistan",Madina TV
 
 https://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-url="" tvg-country="" group-title="Pakistan" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg",Makkah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" tvg-country="" tvg-url="" group-title="Pakistan",Makkah TV
 
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
