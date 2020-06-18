@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="" tvg-url="" group-title="Pakistan", Madina TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="" tvg-url="" group-title="Pakistan",Madina TV
 
 https://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-url="" tvg-country="" group-title="Pakistan" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg", Makkah TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-url="" tvg-country="" group-title="Pakistan" tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg",Makkah TV
 
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
-#EXTINF:-1, ARY  QTV, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" tvg-country="Pakistan"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" tvg-country="Pakistan",ARY QTV
 
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 
