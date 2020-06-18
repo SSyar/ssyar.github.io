@@ -1,125 +1,125 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-name="Madina TV" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan"
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-url="" group-title="" tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" tvg-country="Pakistan", Madina TV
 
 https://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
-#EXTINF:-1, Makkah TV, tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan"
+#EXTINF:-1, Makkah TV, tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
-#EXTINF:-1, ARY  QTV, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan"
+#EXTINF:-1, ARY  QTV, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" tvg-country="Pakistan"
 
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, GEO News, tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, GEO News, tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
 
-#EXTINF:-1, Express News, tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Express News, tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/expressnews.smil/playlist.m3u8?
 
-#EXTINF:-1, 92 News HD, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan"
+#EXTINF:-1, 92 News HD, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" tvg-country="Pakistan"
 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1, Dunya News, tvg-logo="https://pbs.twimg.com/profile_images/1162092475131092995/-Ih-fRMX_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Dunya News, tvg-logo="https://pbs.twimg.com/profile_images/1162092475131092995/-Ih-fRMX_400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
 
-#EXTINF:-1, Lahore News, tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Lahore News, tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8
 
-#EXTINF:-1, ARY News, tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan"
+#EXTINF:-1, ARY News, tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" tvg-country="Pakistan"
 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp2/chunks.m3u8
 
-#EXTINF:-1, Hum News, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Hum News, tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" tvg-country="Pakistan"
 
 http://95.211.211.168/live/humnews0189/playlist.m3u8
 
-#EXTINF:-1, Dawn News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan"
+#EXTINF:-1, Dawn News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
 
-#EXTINF:-1, Neo News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan"
+#EXTINF:-1, Neo News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
 
-#EXTINF:-1, Samaa News, tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Samaa News, tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/samaaweb_480p/index.m3u8
 
-#EXTINF:-1, Aaj News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="Pakistan"
+#EXTINF:-1, Aaj News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
 
-#EXTINF:-1, GNN News, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, GNN News, tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/gnnweb_480p/index.m3u8
 
-#EXTINF:-1, Such News, tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, Such News, tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/sachtv.smil/playlist.m3u8?
 
-#EXTINF:-1, Metro 1 News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="Pakistan"
+#EXTINF:-1, Metro 1 News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/metro.smil/playlist.m3u8?
 
-#EXTINF:-1, City 42, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="Pakistan"
+#EXTINF:-1, City 42, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/city42.smil/playlist.m3u8?
 
-#EXTINF:-1, 24 News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan"
+#EXTINF:-1, 24 News, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/channel24.smil/playlist.m3u8?
 
-#EXTINF:-1, GEO Entertainment, tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, GEO Entertainment, tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" tvg-country="Pakistan"
 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
 
-#EXTINF:-1, GEO Kahani, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Pakistan"
+#EXTINF:-1, GEO Kahani, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" tvg-country="Pakistan"
 
 http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 
-#EXTINF:-1, Hum TV, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan"
+#EXTINF:-1, Hum TV, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" tvg-country="Pakistan"
 
 https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8?
 
-#EXTINF:-1, Express Entertainment, tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan"
+#EXTINF:-1, Express Entertainment, tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
 
-#EXTINF:-1, AAJ Entertainment, tvg-logo="https://pbs.twimg.com/profile_images/1171659779783168000/Dy9nPNqs_400x400.jpg" group-title="Pakistan"
+#EXTINF:-1, AAJ Entertainment, tvg-logo="https://pbs.twimg.com/profile_images/1171659779783168000/Dy9nPNqs_400x400.jpg" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/aajentweb_480p/index.m3u8
 
-#EXTINF:-1, A Plus, tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Pakistan"
+#EXTINF:-1, A Plus, tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" tvg-country="Pakistan"
 
 https://playlive.goonj.pk/aplusweb_480p/index.m3u8
 
-#EXTINF:-1, ARY Digital, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan"
+#EXTINF:-1, ARY Digital, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" tvg-country="Pakistan"
 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" tvg-country="Pakistan",ARY Zindagi
 
 https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" group-title="Pakistan",8xm
+#EXTINF:-1, tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" tvg-country="Pakistan",8xm
 
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" tvg-country="Pakistan",ARY Musik
 
 https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistan",Hum Masala
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" tvg-country="Pakistan",Hum Masala
 
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/playlist.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Pakistan",Discover Pakistan
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" tvg-country="Pakistan",Discover Pakistan
 
 https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
