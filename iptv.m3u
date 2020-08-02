@@ -104,6 +104,10 @@ https://playlive.goonj.pk/aajentweb_480p/index.m3u8
 
 https://playlive.goonj.pk/aplusweb_480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",A Plus
+
+https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
@@ -131,3 +135,7 @@ https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="Pakistan",Cartoon Network
 
 https://playlive.goonj.pk/cartoonweb_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Pakistan",Baby TV
+
+https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8?
