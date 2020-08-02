@@ -88,6 +88,10 @@ http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Pakistan",TV One
+
+https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
 
 https://playlive.goonj.pk/expressentweb_480p/index.m3u8
