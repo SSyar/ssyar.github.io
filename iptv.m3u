@@ -108,6 +108,10 @@ https://playlive.goonj.pk/aplusweb_480p/index.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://seetv.pk/wp-content/uploads/2020/06/logo-big-300x300.png" group-title="Pakistan",SEE TV
+
+https://streams.simpaisa.com:8443/pitvlive3/seetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
