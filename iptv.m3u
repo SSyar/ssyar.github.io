@@ -76,6 +76,22 @@ https://streams.simpaisa.com:8443/pitvlive3/city42.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/channel24.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
+
+https://5ed6c4979aac2.streamlock.net/ptvnews/myStream/playlis.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Pakistan",PTV World
+
+https://5ed6c4979aac2.streamlock.net/ptvworld/myStream/playlis.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pakistan",PTV Home
+
+https://5ed6c4979aac2.streamlock.net/ptvhome/myStream/playlis.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Pakistan",PTV National
+
+https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" group-title="Pakistan",GEO Entertainment
 
 https://playlive.goonj.pk/geoentweb_480p/index.m3u8
@@ -87,6 +103,10 @@ http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",Hum TV
 
 https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Pakistan",Hum Sitaray
+
+https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Pakistan",TV One
 
