@@ -144,6 +144,10 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.bolentertainment.com/wp-content/themes/bolentertainment/assets/images/logo.jpg" group-title="Pakistan",BOL Entertainment
+
+http://playlive.goonj.pk/bolentweb_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" group-title="Pakistan",8xm
 
 https://playlive.goonj.pk/8xmweb_480p/index.m3u8
