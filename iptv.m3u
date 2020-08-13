@@ -172,6 +172,14 @@ https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Pakistan",Ten Sports
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
 
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Sony Six
+
+http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Sony Ten 1
+
+http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
