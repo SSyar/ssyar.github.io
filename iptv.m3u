@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan",Madina TV
 
-https://playlive.goonj.pk/madinaweb_480p/index.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan",Makkah TV
 
-https://playlive.goonj.pk/makkahweb_480p/index.m3u8
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/media_w645109402_189629.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",ARY QTV
 
@@ -14,7 +14,7 @@ https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan",GEO News
 
-https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",Express News
 
@@ -26,7 +26,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162092475131092995/-Ih-fRMX_400x400.jpg" group-title="Pakistan",Dunya News
 
-https://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
+https://vidcdn.dunyanews.tv/livehttp/_definst_/dunyalive_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan",Lahore News
 
@@ -42,23 +42,23 @@ http://95.211.211.168/live/humnews0189/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
-https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan",Neo News
 
-https://playlive.goonj.pk/neonewsweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/neo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
 
-https://playlive.goonj.pk/samaaweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/saamanews.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="Pakistan",Aaj News
 
-https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/aajnews.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242186178478116872/frl8s47W_400x400.jpg" group-title="Pakistan",GNN News
 
-https://playlive.goonj.pk/gnnweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/jaagtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162672286006218753/ffQKPmNE_400x400.jpg" group-title="Pakistan",Such News
 
@@ -114,15 +114,15 @@ https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
 
-https://playlive.goonj.pk/expressentweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171659779783168000/Dy9nPNqs_400x400.jpg" group-title="Pakistan",AAJ Entertainment
 
-https://playlive.goonj.pk/aajentweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Pakistan",A Plus
 
-https://playlive.goonj.pk/aplusweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",ATV
 
@@ -131,10 +131,6 @@ https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://seetv.pk/wp-content/uploads/2020/06/logo-big-300x300.png" group-title="Pakistan",SEE TV
 
 https://streams.simpaisa.com:8443/pitvlive3/seetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
-
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
@@ -150,7 +146,7 @@ http://playlive.goonj.pk/bolentweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyXgGs79l6kmCs5LQWaqwc6yFBwoWg0IRHtucXd-w=s100-c-k-c0xffffffff-no-rj-mo" group-title="Pakistan",Play Entertainment
 
-https://playlive.goonj.pk/playtvweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" group-title="Pakistan",8xm
 
@@ -170,8 +166,12 @@ https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="Pakistan",Cartoon Network
 
-https://playlive.goonj.pk/cartoonweb_480p/index.m3u8
+https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Pakistan",Baby TV
 
-https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8?
+https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Pakistan",Ten Sports
+
+http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
