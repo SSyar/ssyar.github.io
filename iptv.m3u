@@ -192,6 +192,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 
 http://midesi2.hopto.org:8001/tv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/1SPORTS.png" group-title="Sports",Willow Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/1SPORTS.png" group-title="Sports",1 Sports
 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
