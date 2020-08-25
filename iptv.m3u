@@ -186,7 +186,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
+http://103.214.202.218:8081/live/sonysix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="Sports",Sony Ten 1
 
