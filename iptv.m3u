@@ -192,6 +192,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/49.m3u8
 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports",Sony Ten 2 HD
+
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Sports",Willow Sports
 
 http://midesi2.hopto.org:8001/tv2.m3u8
@@ -208,9 +212,9 @@ https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet Hindi
 
-https://streams.simpaisa.com:8443/pitvlive3/animal_360p/playlist.m3u8
+http://103.214.202.218:8081/live/animalplanet-13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel
 
