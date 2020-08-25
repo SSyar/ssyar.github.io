@@ -164,9 +164,13 @@ https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/playlist.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Pakistan",Discover Pakistan
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
 https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
+
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Pakistan",Cartoon Network
 
