@@ -172,6 +172,10 @@ https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Pakistan",PTV Teleschool
+
+https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
 
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
@@ -210,12 +214,12 @@ https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png" group-title="Information",National Geographic
 
-https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png" group-title="Information",Nat Geo Wild
 
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/500px-New_NatGeo_People_logo.svg.png" group-title="Information",Nat Geo People
 
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/playlist.m3u8
