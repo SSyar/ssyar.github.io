@@ -164,22 +164,6 @@ https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/playlist.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
-
-https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
-
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet
-
-https://streams.simpaisa.com:8443/pitvlive3/animal_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel
-
-https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Pakistan",Cartoon Network
 
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
@@ -207,3 +191,27 @@ http://midesi2.hopto.org:8001/tv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/1SPORTS.png" group-title="Sports",1 Sports
 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
+
+https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
+
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet
+
+https://streams.simpaisa.com:8443/pitvlive3/animal_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel
+
+https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png" group-title="Information",Nat Geo Wild
+
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/500px-New_NatGeo_People_logo.svg.png" group-title="Information",Nat Geo People
+
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
