@@ -200,7 +200,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Sports",Willow Sports
+#EXTINF:-1 tvg-logo="www.midesi.net/uploads/2/3/9/5/2395887/published/midesi-logo-512x512.png" group-title="Sports",Midesi Sports
 
 http://midesi2.hopto.org:8001/tv2.m3u8
 
