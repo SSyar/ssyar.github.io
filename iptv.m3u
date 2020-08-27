@@ -12,7 +12,7 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/media_w645109402_1
 
 https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171679170822365186/8ySlaFg__400x400.jpg" group-title="Pakistan",GEO News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295314575638827009/QW_1CHY2.jpg" group-title="Pakistan",GEO News
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
 
@@ -96,7 +96,7 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/playlist.m3u8
 
 https://playlive.goonj.pk/geoentweb_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Pakistan",GEO Kahani
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/758286734421549056/Ie-o_tUZ.jpg" group-title="Pakistan",GEO Kahani
 
 http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 
@@ -228,7 +228,7 @@ https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8
 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png" group-title="Information",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1053389314166611970/0M82G6Q4.jpg" group-title="Information",Nat Geo Wild
 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
 
