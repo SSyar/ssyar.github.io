@@ -212,7 +212,7 @@ http://midesi2.hopto.org:8001/tv2.m3u8
 
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg" group-title="Sports",Sky Sports Cricket
 
 http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
 
