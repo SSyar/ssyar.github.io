@@ -239,3 +239,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/500px-New_NatGeo_People_logo.svg.png" group-title="Information",Nat Geo People
 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Information",BBC Earth
+
+http://139.99.17.52:8081/liveorigin/sd-bbcearth_480/playlist.m3u8
