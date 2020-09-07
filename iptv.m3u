@@ -220,22 +220,14 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovry Science Hindi
+
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="Information",Discovry Science Hindi
+
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel
 
 https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png" group-title="Information",National Geographic
-
-https://itpolly.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1053389314166611970/0M82G6Q4.jpg" group-title="Information",Nat Geo Wild
-
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/500px-New_NatGeo_People_logo.svg.png" group-title="Information",Nat Geo People
-
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Information",BBC Earth
-
-http://139.99.17.52:8081/liveorigin/sd-bbcearth_480/playlist.m3u8
