@@ -228,6 +228,6 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel Hindi
 
-https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8
+http://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
