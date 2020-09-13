@@ -40,7 +40,7 @@ https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162219377724252163/rbF6T9NG_400x400.jpg" group-title="Pakistan",Hum News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png" group-title="Pakistan",Hum News
 
 http://95.211.211.168/live/humnews0189/playlist.m3u8
 
@@ -96,7 +96,7 @@ https://5ed6c4979aac2.streamlock.net/ptvhome/myStream/playlis.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162093766573998082/5DOgTwNN_400x400.jpg" group-title="Pakistan",GEO Entertainment
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Geo_TV_Logo.svg/371px-Geo_TV_Logo.svg.png" group-title="Pakistan",GEO Entertainment
 
 https://playlive.goonj.pk/geoentweb_480p/index.m3u8
 
@@ -120,7 +120,7 @@ https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171659779783168000/Dy9nPNqs_400x400.jpg" group-title="Pakistan",AAJ Entertainment
+#EXTINF:-1 tvg-logo="http://aajentertainment.tv/wp-content/uploads/2020/09/aaj-ent.png" group-title="Pakistan",AAJ Entertainment
 
 https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8
 
