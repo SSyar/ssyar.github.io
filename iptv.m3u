@@ -160,6 +160,10 @@ https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/masala.smil/playlist.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Pakistan",PTV Teleschool
+
+https://streams.simpaisa.com:8443/pitvlive3/ptvglobal.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Pakistan",Cartoon Network
 
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
