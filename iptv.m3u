@@ -98,7 +98,7 @@ https://streams.simpaisa.com:8443/pitvlive3/ptvnational.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Geo_TV_Logo.svg/371px-Geo_TV_Logo.svg.png" group-title="Pakistan",GEO Entertainment
 
-https://playlive.goonj.pk/geoentweb_480p/index.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/758286734421549056/Ie-o_tUZ.jpg" group-title="Pakistan",GEO Kahani
 
@@ -147,10 +147,6 @@ https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyXgGs79l6kmCs5LQWaqwc6yFBwoWg0IRHtucXd-w=s100-c-k-c0xffffffff-no-rj-mo" group-title="Pakistan",Play Entertainment
 
 https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://8xm.tv/wp-content/uploads/2019/02/512X512p.png" group-title="Pakistan",8xm
-
-https://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
 
