@@ -174,7 +174,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",SkySports Cricket
 
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
+http://digitalxpress.gcdn.co/live1/skycricket/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
