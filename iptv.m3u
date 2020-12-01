@@ -168,9 +168,13 @@ https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",SkySports Cricket
+
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
