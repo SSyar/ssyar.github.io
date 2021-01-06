@@ -120,7 +120,7 @@ https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://aajentertainment.tv/wp-content/uploads/2020/09/aaj-ent.png" group-title="Pakistan",AAJ Entertainment
+#EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
 
 https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8
 
