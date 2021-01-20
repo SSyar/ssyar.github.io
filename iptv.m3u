@@ -168,6 +168,22 @@ https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/tap/smil:eurosports.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
+
+https://streams.simpaisa.com:8443/pitvlive3/bbcnews.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
+
+https://streams.simpaisa.com:8443/pitvlive3/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/voa_tv_us.png" group-title="Information",VOA
+
+https://streams.simpaisa.com:8443/pitvlive3/voa.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
+
+https://streams.simpaisa.com:8443/pitvlive3/motorvision.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
 https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
