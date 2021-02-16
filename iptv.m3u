@@ -102,11 +102,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/74ab12d403a2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_kahani_pk.png" group-title="Pakistan",GEO Kahani
 
-http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/0ef5507754e871c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",Hum TV
 
-https://streams.simpaisa.com:8443/pitvlive3/humtvnew3/playlist.m3u8
+https://streams.simpaisa.com:8443/tap/smil:humtvnewone.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Pakistan",Hum Sitaray
 
