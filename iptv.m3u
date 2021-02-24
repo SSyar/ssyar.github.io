@@ -199,19 +199,3 @@ https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet Hindi
-
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovry Science Hindi
-
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="Information",Discovry Trubo
-
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="Information",Discovery Channel Hindi
-
-http://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
