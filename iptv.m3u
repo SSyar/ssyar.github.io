@@ -184,6 +184,10 @@ https://streams.simpaisa.com:8443/pitvlive4/bbcnews.smil/playlist.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive4/cnn.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png" group-title="Information",Al Jazeera
+
+https://live-hls-aje-ak.getaj.net/AJE/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/voa_tv_us.png" group-title="Information",VOA
 
 https://streams.simpaisa.com:8443/pitvlive4/voa.smil/playlist.m3u8?
@@ -195,6 +199,10 @@ https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
 https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Information",CGTN Documentary
+
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 
