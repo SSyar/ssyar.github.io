@@ -42,7 +42,7 @@ https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -138,11 +138,11 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-http://stream-e30453a4b.nmbs.top/m3u/Pakistan/74d55309db.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
-https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
+https://stream.arylive.com/ZindagiLive/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Pakistan",Play Entertainment
 
@@ -150,7 +150,7 @@ https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
 
-https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
+https://stream.arylive.com/MusikLive/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistan",Hum Masala
 
