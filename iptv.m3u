@@ -22,7 +22,7 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="Pakistan",GEO News
 
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",Express News
 
@@ -34,11 +34,11 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="Pakistan",Dunya News
 
-https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b892928.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan",Lahore News
 
-https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+https://imob.dunyanews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w764432099_b1200128.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
