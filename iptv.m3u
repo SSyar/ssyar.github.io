@@ -210,7 +210,7 @@ https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
-https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Information",CGTN Documentary
 
