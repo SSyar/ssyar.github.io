@@ -210,7 +210,7 @@ https://livecdn.live247stream.com/discoverpakistan/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Information",CGTN Documentary
 
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 
