@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan",Madina TV
 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+http://m.live.net.sa:1935/live/quran/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan",Makkah TV
 
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",ARY QTV
 
