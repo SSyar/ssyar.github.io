@@ -138,11 +138,11 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream2/chunks.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
-https://stream.arylive.com/ZindagiLive/tracks-v2a1/mono.m3u8
+https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Pakistan",Play Entertainment
 
@@ -150,11 +150,11 @@ https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
 
-https://stream.arylive.com/MusikLive/tracks-v2a1/mono.m3u8
+https://stream.arylive.com/MusikLive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistan",Hum Masala
 
-https://streams.simpaisa.com:8443/pitvlive4/masala.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Pakistan",PTV Teleschool
 
