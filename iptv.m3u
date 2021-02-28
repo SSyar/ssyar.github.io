@@ -130,7 +130,7 @@ https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",ATV
 
-https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="Pakistan",SEE TV
 
@@ -162,11 +162,11 @@ https://streams.simpaisa.com:8443/pitvlive4/ptvglobal.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Pakistan",Cartoon Network
 
-https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Pakistan",Baby TV
 
-https://streams.simpaisa.com:8443/pitvlive4/babytv.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/babytv.smil/chunklist_w367911383_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="Sports",GEO Super
 
@@ -178,7 +178,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 
-https://streams.simpaisa.com:8443/tap/smil:eurosports.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/tap/smil:eurosports.smil/chunklist_w1539531632_b1248000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
