@@ -180,6 +180,10 @@ https://streams.simpaisa.com:8443/tap/smil:eurosports.smil/chunklist_w1539531632
 
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
+
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
