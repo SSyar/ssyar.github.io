@@ -184,7 +184,7 @@ https://streams.simpaisa.com:8443/tap/smil:ptvsportsnew.smil/chunklist_w64714100
 
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",PSL 6 - When Match is Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/PSL_6_2021_Logo.png" group-title="Sports",PSL 6 - Match Time Only
 
 https://wmoy86e8d2a7-hls-live.5centscdn.com/pslstreamap/6297d8182101c6d5795d6c512afdc519.sdp/pslstreamap/pslap3/chunks.m3u8
 
