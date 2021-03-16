@@ -188,6 +188,22 @@ https://streams.simpaisa.com:8443/tap/smil:ptvsportsnew.smil/chunklist_w64714100
 
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1hd.png" group-title="Sports",Sony Ten 1
+
+http://hitectv.live/hls/stream40.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
+
+http://hitectv.live/hls/stream34.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
+
+http://hitectv.live/hls/stream15.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
+
+http://hitectv.live/hls/stream16.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
 http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
