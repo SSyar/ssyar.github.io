@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn2.vectorstock.com/i/thumb-large/62/56/gumbad-e-khazra-vector-23676256.jpg" group-title="Pakistan",Madina TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Pakistan",Quran TV
 
 http://m.live.net.sa:1935/live/quran/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.vectorstock.com/i/thumb-large/15/33/hand-drawing-kaaba-of-mecca-vector-18461533.jpg" group-title="Pakistan",Makkah TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Pakistan",Sunnah TV
 
 http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
@@ -238,7 +238,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0480_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 
-https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/chunklist_w1150834309_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
