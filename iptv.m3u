@@ -100,10 +100,6 @@ https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/playlist.m3u8
 
 https://bcovlive-a.akamaihd.net/0eb8d182cffc4b0ba4f46e1d9ca82ed8/ap-southeast-1/6100381078001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_kahani_pk.png" group-title="Pakistan",GEO Kahani
-
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/0ef5507754e871c.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Pakistan",GEO Tezz
 
 https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/geoTez/Live1/chunks_dvr.m3u8
