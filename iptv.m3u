@@ -10,7 +10,7 @@ http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",ARY QTV
 
-https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
+http://stream.arylive.com/aryqtv/myStream/tracks-v2a1/mono.m3u8`
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Pakistan",Minhaj TV
 
