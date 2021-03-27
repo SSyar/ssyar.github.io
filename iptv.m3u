@@ -228,6 +228,10 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1750000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
+
+http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1957
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet Hindi
 
 https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
