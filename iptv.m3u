@@ -180,14 +180,6 @@ https://streams.simpaisa.com:8443/tap/smil:ptvsportsnew.smil/chunklist_w64714100
 
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1946
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1544
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
 http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
@@ -235,22 +227,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1750000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_people_asia.png" group-title="Information",NAT GEO People
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1925
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1701
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1905
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-
-http://a.laoxiang.cf/jqkjzy/crtv.php/index.m3u8?id=1957
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet Hindi
 
