@@ -176,6 +176,10 @@ https://streams.simpaisa.com:8443/tap/smil:eurosports.smil/chunklist_w1539531632
 
 https://streams.simpaisa.com:8443/tap/smil:ptvsportsnew.smil/chunklist_w647141004_b1248000_slEng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="Sports",GEO Super
+
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
@@ -254,4 +258,4 @@ https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
