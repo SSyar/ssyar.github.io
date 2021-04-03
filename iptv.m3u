@@ -98,7 +98,7 @@ https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Pakistan",GEO Entertainment
 
-https://stream-04.sg1.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2gwp1xQOUWnwrY3Sghia9M8)/dm/3/x803laj/d/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://stream-04.sg1.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2gwp1xQOUWnwrY3Sghia9M8)/dm/3/x803laj/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Pakistan",GEO Tezz
 
@@ -178,7 +178,7 @@ https://streams.simpaisa.com:8443/tappak/smil:ptvsportsnew.smil/chunklist_w64714
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="Sports",GEO Super
 
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/034dac64188949b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
