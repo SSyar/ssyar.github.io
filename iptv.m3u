@@ -196,6 +196,10 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
+
+https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 
 http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/220.m3u8
