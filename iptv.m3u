@@ -200,10 +200,6 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/220.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-
-http://tvmedia2.com:8080/andrea/andrea/173220.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
 http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
