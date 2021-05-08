@@ -170,7 +170,7 @@ https://streams.simpaisa.com:8443/pitvlive4/babytv.smil/chunklist_w367911383_b74
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 
-https://streams.simpaisa.com:8443/tappak/smil:eurosports.smil/chunklist_w1539531632_b1248000_slEng.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/eurosports.smil/chunklist_w1658384551_b1248000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 
@@ -234,7 +234,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0480_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 
-https://tapmadlive.r.worldssl.net/tappak/motorvision.smil/chunklist_w990825088_b1548000_slENG.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/chunklist_w858524701_b1548000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
