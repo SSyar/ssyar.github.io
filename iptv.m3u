@@ -192,6 +192,10 @@ https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
+
+https://tap.mymovemedia.nl/ten/sports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy=s250" group-title="Sports",GEO Super
 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1d0b7e2816cc883.m3u8
