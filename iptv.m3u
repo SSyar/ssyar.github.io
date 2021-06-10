@@ -234,7 +234,8 @@ http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 
-http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
 
