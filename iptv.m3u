@@ -276,6 +276,10 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/
 
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
+
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1750000.m3u8
