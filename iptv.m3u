@@ -42,7 +42,8 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
+#https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2475881
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -146,7 +147,8 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
+#https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2475888
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
@@ -182,13 +184,11 @@ https://streams.simpaisa.com:8443/pitvlive4/eurosports.smil/chunklist_w165838455
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/3590
-#https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/3591
-#https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 
@@ -208,17 +208,15 @@ http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/3586
-#https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/3588
-#https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/1965
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484213
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 
@@ -226,7 +224,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://clientportal.link:80/Martinho2/bW5Wwb2436/14750
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2485213
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
 
@@ -300,8 +298,9 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
+#http://212.224.98.196:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
+#https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet Hindi
 
