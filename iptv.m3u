@@ -145,7 +145,7 @@ https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b7480
 
 https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2475888
@@ -214,17 +214,17 @@ https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484213
+#http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2484213
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
+##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2485213
+#http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2485213
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
 
