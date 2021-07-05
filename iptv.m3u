@@ -191,8 +191,8 @@ https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
+http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
+#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="Sports",Ten Sports
 
@@ -217,15 +217,15 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 
-#http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/10225
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-#http://dragoniptv.iptf.me:8080/123/123/10422
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
 
