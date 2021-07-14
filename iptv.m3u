@@ -194,6 +194,10 @@ https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
 http://stream.tvtap.live:8081/live/itv1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/243px-NBC_Sports_2012.svg.png" group-title="Sports",NBCSN
+
+http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 FR
 
 http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8
