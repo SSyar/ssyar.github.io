@@ -212,9 +212,7 @@ https://tap.mymovemedia.nl/ten/sports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy=s250" group-title="Sports",GEO Super
 
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1d0b7e2816cc883.m3u8
-#http://89.41.180.253:8080/PAKISTANI_GEO_SUPER/tracks-v1a1/mono.m3u8
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 
