@@ -214,15 +214,15 @@ https://tap.mymovemedia.nl/ten/sports.stream/playlist.m3u8
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
 http://212.224.98.207:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten1.png" group-title="Sports",TEN 1
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
 http://212.224.98.207:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-ten2.png" group-title="Sports",TEN 2
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
 http://212.224.98.207:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 
