@@ -47,7 +47,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCMmpL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
-https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/chunklist_w560733284_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan",Neo News
 
@@ -64,11 +64,11 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UC5mwD
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
 
-https://streams.simpaisa.com:8443/pitvlive4/saamanews.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/saamanews.smil/chunklist_w986661342_b1548000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="Pakistan",Aaj News
 
-https://streams.simpaisa.com:8443/pitvlive4/aajnews.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/aajnews.smil/chunklist_w1547226818_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" group-title="Pakistan",GNN News
 
@@ -76,7 +76,7 @@ https://streams.simpaisa.com:8443/pitvlive4/jaagtv.smil/chunklist_w2081010335_b7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="Pakistan",Such News
 
-https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/chunklist_w1066833509_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="Pakistan",Metro 1 News
 
