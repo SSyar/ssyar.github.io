@@ -43,7 +43,7 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
-http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/24025
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -60,7 +60,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UC0Um3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/a4d177e9121831e.m3u8
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
 
@@ -148,8 +148,7 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-#https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
-http://dragoniptv.iptf.me:8080/Piro30/h4hqN31m/23271
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
@@ -219,15 +218,15 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://212.224.98.207:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
+#http://212.224.98.207:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://212.224.98.207:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#http://212.224.98.207:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://212.224.98.207:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#http://212.224.98.207:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
