@@ -55,7 +55,6 @@ https://streams.simpaisa.com:8443/pitvlive4/neo.smil/chunklist_w202313700_b74800
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
 
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/73146f04d996d6c.m3u8
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
