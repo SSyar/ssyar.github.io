@@ -43,7 +43,8 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live&quality=480p
+#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live&quality=480p
+https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
