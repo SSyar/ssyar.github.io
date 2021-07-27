@@ -56,11 +56,11 @@ https://streams.simpaisa.com:8443/pitvlive4/neo.smil/chunklist_w202313700_b74800
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
 
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/73146f04d996d6c.m3u8
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
 
@@ -256,7 +256,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
 
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 
