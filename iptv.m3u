@@ -81,9 +81,21 @@ https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/chunklist_w1066833509_b7
 
 https://streams.simpaisa.com:8443/pitvlive4/metro.smil/chunklist_w1857168006_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="Pakistan",City 42
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="Pakistan",City 41
+
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="Pakistan",City 42
 
 https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b748000_slEng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="Pakistan",Rohi TV
+
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
+
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
 
