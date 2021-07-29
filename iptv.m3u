@@ -227,6 +227,10 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 http://tv.pmcon.net/hls/stream34.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
+
+http://iptv.tvmalaysia.cc:80/624850/624850/6717
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy=s250" group-title="Sports",GEO Super
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
