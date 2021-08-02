@@ -225,7 +225,7 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_cricket_in.png" group-title="Sports",Ten Cricket
 
-http://tv.pmcon.net/hls/stream34.m3u8
+#http://tv.pmcon.net/hls/stream34.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
@@ -237,15 +237,15 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://tv.pmcon.net/hls/stream10.m3u8
+#http://tv.pmcon.net/hls/stream10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://tv.pmcon.net/hls/stream40.m3u8
+#http://tv.pmcon.net/hls/stream40.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://tv.pmcon.net/hls/stream39.m3u8
+#http://tv.pmcon.net/hls/stream39.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
