@@ -223,9 +223,9 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 #https://tap.mymovemedia.nl/ten/sports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_cricket_in.png" group-title="Sports",Ten Cricket
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 
-#http://tv.pmcon.net/hls/stream34.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1755
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
@@ -237,7 +237,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-#http://tv.pmcon.net/hls/stream10.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1367
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
