@@ -201,12 +201,12 @@ https://streams.simpaisa.com:8443/pitvlive4/eurosports.smil/chunklist_w165838455
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
 
-#http://stream.tvtap.live:8081/live/es-eurosport1.stream/playlist.m3u8
+#http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
 https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
 
-#http://stream.tvtap.live:8081/live/es-eurosport2.stream/playlist.m3u8
+#http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
 https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="Sports",ITV 1
@@ -255,13 +255,13 @@ http://watchindia.net:8880/live/60275/20486/1757.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
-#https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
 
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
-#https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 
