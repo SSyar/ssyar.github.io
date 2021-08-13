@@ -18,7 +18,6 @@ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Pakistan",Peace TV Urdu
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/659
-#http://watchindia.net:8880/live/60275/20486/1063.m3u8
 #https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="Pakistan",GEO News
@@ -105,7 +104,7 @@ https://streams.simpaisa.com:8443/pitvlive4/channel24.smil/chunklist_w808834996_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
 
-http://watchindia.net:8880/live/60275/20486/1026.m3u8
+http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71157
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
 
@@ -145,7 +144,6 @@ https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/686
-#http://watchindia.net:8880/live/60275/20486/1029.m3u8
 #https://linkastream.co/headless?url=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
@@ -166,7 +164,6 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/665
-#http://watchindia.net:8880/live/60275/20486/1018.m3u8
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
@@ -230,7 +227,6 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1372
-#http://watchindia.net:8880/live/60275/20486/1068.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 
@@ -250,12 +246,10 @@ http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1367
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-#http://watchindia.net:8880/live/60275/20486/1756.m3u8
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/497
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-#http://watchindia.net:8880/live/60275/20486/1757.m3u8
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/513
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
@@ -361,7 +355,6 @@ http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 #http://89.17.204.38/ch41/index.m3u8
-#http://watchindia.net:8880/live/60275/20486/789.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet Hindi
 
