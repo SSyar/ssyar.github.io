@@ -42,7 +42,7 @@ https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b
 https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457282816_b1200128.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
-http://watchindia.net:8880/live/60275/20486/1042.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/664
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live&quality=480p
 
@@ -60,7 +60,7 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WG
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
-http://watchindia.net:8880/live/60275/20486/1062.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/670
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
@@ -144,7 +144,8 @@ https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/chunklist_w131234936
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
-http://watchindia.net:8880/live/60275/20486/1029.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/686
+#http://watchindia.net:8880/live/60275/20486/1029.m3u8
 #https://linkastream.co/headless?url=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
@@ -164,7 +165,8 @@ https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b7480
 https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
-http://watchindia.net:8880/live/60275/20486/1018.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/665
+#http://watchindia.net:8880/live/60275/20486/1018.m3u8
 #https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
