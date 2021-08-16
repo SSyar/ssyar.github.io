@@ -54,8 +54,8 @@ https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/chunklist_w560733284_b
 https://streams.simpaisa.com:8443/pitvlive4/neo.smil/chunklist_w202313700_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
-
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/676
+#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
@@ -104,7 +104,7 @@ https://streams.simpaisa.com:8443/pitvlive4/channel24.smil/chunklist_w808834996_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
 
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/71157
+http://tigeriptv.vip:8080/600/600/147786
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
 
