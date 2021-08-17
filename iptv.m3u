@@ -17,8 +17,8 @@ http://stream.arylive.com/aryqtv/myStream/index.m3u8
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Pakistan",Peace TV Urdu
+
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/659
-#https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="Pakistan",GEO News
 
@@ -41,9 +41,8 @@ https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b
 https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457282816_b1200128.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
+
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/664
-#https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream2/chunks.m3u8
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -95,8 +94,8 @@ https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b7
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
-
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
+http://tigeriptv.vip:8080/600/600/147805
+#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
 
@@ -163,8 +162,8 @@ https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b7480
 https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
+
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/665
-#https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
@@ -288,7 +287,6 @@ http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 
-#http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
@@ -351,8 +349,6 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
-#http://212.224.98.196:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 #http://89.17.204.38/ch41/index.m3u8
 
