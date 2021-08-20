@@ -82,8 +82,8 @@ https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/chunklist_w1066833509_b7
 https://streams.simpaisa.com:8443/pitvlive4/metro.smil/chunklist_w1857168006_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="Pakistan",City 41
-
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
+http://new-pro.tv:8080/Hotel-2021/Allroom/71162
+#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="Pakistan",City 42
 
@@ -94,7 +94,7 @@ https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b7
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
-http://tigeriptv.vip:8080/600/600/147805
+http://tigeriptv.vip:8080/846/846/147805
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
@@ -103,7 +103,7 @@ https://streams.simpaisa.com:8443/pitvlive4/channel24.smil/chunklist_w808834996_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
 
-http://tigeriptv.vip:8080/600/600/147786
+http://tigeriptv.vip:8080/846/846/147786
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
 
