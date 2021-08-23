@@ -16,9 +16,9 @@ http://stream.arylive.com/aryqtv/myStream/index.m3u8
 
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Pakistan",Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Pakistan",Peace TV
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/659
+http://new-pro.tv:8080/Hotel-2021/Allroom/178088
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="Pakistan",GEO News
 
@@ -42,7 +42,7 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/664
+http://new-pro.tv:8080/Hotel-2021/Allroom/71156
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -53,12 +53,12 @@ https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/chunklist_w560733284_b
 https://streams.simpaisa.com:8443/pitvlive4/neo.smil/chunklist_w202313700_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/676
+http://new-pro.tv:8080/Hotel-2021/Allroom/66978
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/670
+http://new-pro.tv:8080/Hotel-2021/Allroom/66986
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
@@ -90,11 +90,11 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/71162
 https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="Pakistan",Rohi TV
-
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
+http://new-pro.tv:8080/Hotel-2021/Allroom/71164
+#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
-http://tigeriptv.vip:8080/846/846/147805
+http://new-pro.tv:8080/Hotel-2021/Allroom/72679
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
@@ -103,23 +103,23 @@ https://streams.simpaisa.com:8443/pitvlive4/channel24.smil/chunklist_w808834996_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
 
-http://tigeriptv.vip:8080/846/846/147786
+http://new-pro.tv:8080/Hotel-2021/Allroom/71157
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvnews.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/ptvnews.smil/chunklist_w240761907_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Pakistan",PTV World
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvworld.smil/playlist.m3u8?
+https://streams.simpaisa.com:8443/pitvlive4/ptvworld.smil/chunklist_w386951948_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pakistan",PTV Home
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/ptvhome.smil/chunklist_w199236987_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Pakistan",PTV National
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Pakistan",GEO Entertainment
 
@@ -139,19 +139,19 @@ https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/chunklist_w131234936
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Pakistan",TV One
 
-https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/chunklist_w19576965_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/686
+http://new-pro.tv:8080/Hotel-2021/Allroom/67000
 #https://linkastream.co/headless?url=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
 
-https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Pakistan",A Plus
 
-https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/chunklist_w2073652368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",ATV
 
@@ -159,11 +159,11 @@ https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b7480
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="Pakistan",SEE TV
 
-https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/chunklist_w1008544171_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/665
+http://new-pro.tv:8080/Hotel-2021/Allroom/66993
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
@@ -171,7 +171,7 @@ https://stream.arylive.com/zindagi/myStream/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Pakistan",Play Entertainment
 
-https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/playlist.m3u8
+https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
 
@@ -241,15 +241,15 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1367
+http://new-pro.tv:8080/Hotel-2021/Allroom/72073
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/497
+http://new-pro.tv:8080/Hotel-2021/Allroom/72074
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/513
+http://new-pro.tv:8080/Hotel-2021/Allroom/72075
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
