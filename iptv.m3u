@@ -224,8 +224,8 @@ http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-
-https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
+http://new-pro.tv:8080/Hotel-2021/Allroom/84128
+#https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
