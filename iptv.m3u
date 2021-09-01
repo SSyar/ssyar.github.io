@@ -227,6 +227,10 @@ http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
+
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/553
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
 http://iptv.tvmalaysia.cc:80/624850/624850/6717
