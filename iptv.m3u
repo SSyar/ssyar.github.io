@@ -94,7 +94,8 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/71164
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
-http://new-pro.tv:8080/Hotel-2021/Allroom/72679
+http://spidertv.xyz:80/713289/FPSTCN/93159
+#http://new-pro.tv:8080/Hotel-2021/Allroom/72679
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
@@ -207,10 +208,6 @@ https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
 https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="Sports",ITV 1
-
-http://stream.tvtap.live:8081/live/itv1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/243px-NBC_Sports_2012.svg.png" group-title="Sports",NBCSN
 
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
@@ -244,12 +241,12 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 http://new-pro.tv:8080/Hotel-2021/Allroom/72073
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-
-http://new-pro.tv:8080/Hotel-2021/Allroom/72074
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43013
+#http://new-pro.tv:8080/Hotel-2021/Allroom/72074
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
-
-http://new-pro.tv:8080/Hotel-2021/Allroom/72075
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43014
+#http://new-pro.tv:8080/Hotel-2021/Allroom/72075
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
