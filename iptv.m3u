@@ -279,8 +279,8 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 #https://linkastream.co/headless?url=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
-
-http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#http://84.47.174.140/hlsl/2/BBC_World/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 
@@ -345,7 +345,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1750000.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
+#http://84.17.41.7/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 #http://89.17.204.38/ch41/index.m3u8
 
