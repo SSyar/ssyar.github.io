@@ -42,7 +42,7 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/87319
+http://14.199.164.20:4001/play/a0vo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -163,7 +163,7 @@ https://streams.simpaisa.com:8443/pitvlive4/seetv.smil/chunklist_w1008544171_b74
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
 
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/87316
+http://14.199.164.20:4001/play/a0zd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
 
