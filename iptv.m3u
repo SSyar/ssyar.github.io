@@ -43,6 +43,7 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
 
 http://14.199.164.20:4001/play/a0vo/index.m3u8
+#https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
 
@@ -53,13 +54,12 @@ https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/chunklist_w560733284_b
 https://streams.simpaisa.com:8443/pitvlive4/neo.smil/chunklist_w202313700_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/87362
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
+
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
 
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49209
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
 
@@ -82,20 +82,20 @@ https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/chunklist_w1066833509_b7
 https://streams.simpaisa.com:8443/pitvlive4/metro.smil/chunklist_w1857168006_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="Pakistan",City 41
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49212
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
+
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="Pakistan",City 42
 
 https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="Pakistan",Rohi TV
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49223
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
+
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/87147
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
+
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
 
@@ -103,7 +103,7 @@ https://streams.simpaisa.com:8443/pitvlive4/channel24.smil/chunklist_w808834996_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
 
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/87149
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
 
@@ -142,8 +142,8 @@ https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/chunklist_w131234936
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/chunklist_w19576965_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49167
-#https://linkastream.co/headless?url=https://dai.ly/x7zrwyl
+
+https://iptv.dc-team.com/query?url=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
 
@@ -275,7 +275,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
 
-#https://linkastream.co/headless?url=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
+#https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
