@@ -69,7 +69,7 @@ https://streams.simpaisa.com:8443/pitvlive4/saamanews.smil/chunklist_w986661342_
 
 https://streams.simpaisa.com:8443/pitvlive4/aajnews.smil/chunklist_w1547226818_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PC-3K-URbal4cD_RaAPhYqpIwDOKOg8lPz92iuFSlrWr_t8ySaj0sWGjXgoIPbksVus=s250" group-title="Pakistan",GNN News
+#EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="Pakistan",GNN News
 
 https://streams.simpaisa.com:8443/pitvlive4/jaagtv.smil/chunklist_w2081010335_b748000_slEng.m3u8
 
@@ -93,7 +93,7 @@ https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b7
 
 https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ILHOXs4TJ5_5EK-3nZj9fq4Xnp-kl3Vj4iLox2nW2wAxb7JFMCf2wntMu-9c8xhtZw=s250" group-title="Pakistan",Lahore Rang
+#EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="Pakistan",Lahore Rang
 
 https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
@@ -207,7 +207,7 @@ http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
 #https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/243px-NBC_Sports_2012.svg.png" group-title="Sports",NBCSN
+#EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
@@ -231,7 +231,7 @@ https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
 http://iptv.tvmalaysia.cc:80/624850/624850/6717
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy=s250" group-title="Sports",GEO Super
+#EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
