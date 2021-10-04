@@ -81,13 +81,17 @@ https://streams.simpaisa.com:8443/pitvlive4/sachtv.smil/chunklist_w1066833509_b7
 
 https://streams.simpaisa.com:8443/pitvlive4/metro.smil/chunklist_w1857168006_b748000_slEng.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zV79K9butRmRMYKPnRrU-ieosJZAPJ_SOk5hWeKPnLDnXbIczODdH2feqcPZouFjaH9dribP=s250" group-title="Pakistan",City 21
+
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live&quality=480p
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="Pakistan",City 41
 
 https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="Pakistan",City 42
 
-https://streams.simpaisa.com:8443/pitvlive4/city42.smil/chunklist_w1763953917_b748000_slEng.m3u8
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="Pakistan",Rohi TV
 
