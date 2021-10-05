@@ -121,7 +121,7 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/c/PTVNewsOfficial/liv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Pakistan",PTV World
 
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=480p
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=360p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pakistan",PTV Home
 
