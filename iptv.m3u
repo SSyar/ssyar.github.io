@@ -129,7 +129,7 @@ https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 
@@ -145,11 +145,11 @@ https://cdn.ta.tapmad.com/taptv/12b09556e156c9f7e3337173ac16b21f.sdp/taptv/humtv
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
 
-https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Entertainment",TV One
 
-https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/chunklist_w19576965_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/tvone.smil/chunklist_w19576965_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
 
@@ -157,7 +157,7 @@ http://free.fullspeed.tv/query?url=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 
-https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Entertainment",A Plus
 
@@ -165,7 +165,7 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Entertainment",ATV
 
-https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
 
@@ -178,11 +178,11 @@ http://14.199.164.20:4001/play/a0vj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 
-https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
 
-https://streams.simpaisa.com:8443/pitvlive4/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 
@@ -194,15 +194,15 @@ http://14.199.164.20:4001/play/a0wk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
 
-https://streams.simpaisa.com:8443/pitvlive4/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 
-https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 
-https://streams.simpaisa.com:8443/pitvlive4/babytv.smil/chunklist_w367911383_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/babytv.smil/chunklist_w367911383_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 
@@ -333,7 +333,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/be8402c9-9eeb-4fdc-a4c5-ee4d9af5e8c6/0.m3u8
-#https://streams.simpaisa.com:8443/pitvlive4/motorvision.smil/chunklist_w858524701_b1548000_slENG.m3u8
+#https://streamone.simpaisa.com:8443/pitvlive1/motorvision.smil/chunklist_w858524701_b1548000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 
