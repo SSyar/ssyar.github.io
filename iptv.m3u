@@ -1,184 +1,188 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Pakistan",Quran TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Religious",Quran TV
 https://iptv--iptv.repl.co/Arabic/Quran_TV/
 #http://m.live.net.sa:1935/live/quran/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Pakistan",Sunnah TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
 https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
 #http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",ARY QTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
 
 http://stream.arylive.com/aryqtv/myStream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Pakistan",Minhaj TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Pakistan",Peace TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
 
 http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49274
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="Pakistan",GEO News
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="Pakistan",Express News
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
 
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1019764827.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="Pakistan",Dunya News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="News",Dunya News
 
 https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b892928.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3md2awd" group-title="Pakistan",Lahore News
+#EXTINF:-1 tvg-logo="https://bit.ly/3md2awd" group-title="News",Lahore News
 
 https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457282816_b1200128.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="Pakistan",ARY News
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
 
 http://14.199.164.20:4001/play/a0vo/index.m3u8
 #http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistan",Dawn News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
 #https://cdn.ta.tapmad.com/dawnnews/811c56dd105be0350728279af7d6be77.sdp/dawnnews/dawnnew2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="Pakistan",Neo News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="News",Neo News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCAar7QgfQkr98OT1ujudIiw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="Pakistan",Hum News
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="Pakistan",AbbTak News
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="Pakistan",Samaa News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live&quality=480p
 #https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/tapmadpak/tensports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="Pakistan",Aaj News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="News",Aaj News
 
 https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajnewsp1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="Pakistan",GNN News
+#EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="News",GNN
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCm196ve-ym3PGUemNL6tkGA/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="Pakistan",Such News
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 
 http://free.fullspeed.tv/query?url=https://dai.ly/x72hrde
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="Pakistan",Metro 1 News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="News",Metro 1 News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/c/metro1news/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zV79K9butRmRMYKPnRrU-ieosJZAPJ_SOk5hWeKPnLDnXbIczODdH2feqcPZouFjaH9dribP=s250" group-title="Pakistan",City 21
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zV79K9butRmRMYKPnRrU-ieosJZAPJ_SOk5hWeKPnLDnXbIczODdH2feqcPZouFjaH9dribP=s250" group-title="News",City 21
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="Pakistan",City 41
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="Pakistan",City 42
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="Pakistan",Rohi TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="Pakistan",Lahore Rang
+#EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="Pakistan",24 News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/24_News.jpg" group-title="News",24 News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="Pakistan",GTV News
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="Pakistan",Capital TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/c/CapitalTVLive/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistan",PTV News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="News",PTV News
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/c/PTVNewsOfficial/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Pakistan",PTV World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=360p
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pakistan",PTV Home
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Pakistan",PTV National
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 
 https://streams.simpaisa.com:8443/pitvlive4/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Pakistan",GEO Entertainment
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Pakistan",GEO Tezz
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
 
 https://zkpywe62ybeg-hls-live.5centscdn.com/geoAk/f0774392a2bb84b9f02749fdc9b5d65f.sdp/geoAk/Tez1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan",Hum TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 
 https://cdn.ta.tapmad.com/taptv/12b09556e156c9f7e3337173ac16b21f.sdp/taptv/humtvp2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Pakistan",Hum Sitaray
+#EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
 
 https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Pakistan",TV One
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Entertainment",TV One
 
 https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/chunklist_w19576965_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Pakistan",Express Entertainment
+#EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
 
 http://free.fullspeed.tv/query?url=https://dai.ly/x7zrwyl
 
-#EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Pakistan",AAJ Entertainment
+#EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 
 https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Pakistan",A Plus
+#EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Entertainment",A Plus
 
 https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Pakistan",ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Entertainment",ATV
 
 https://streams.simpaisa.com:8443/pitvlive4/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan",ARY Digital
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
 
 http://14.199.164.20:4001/play/a0zd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pakistan",ARY Zindagi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
 
 http://14.199.164.20:4001/play/a0vj/index.m3u8
 #https://stream.arylive.com/zindagi/myStream/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Pakistan",Play Entertainment
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 
 https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
+
+https://streams.simpaisa.com:8443/pitvlive4/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 
@@ -188,19 +192,15 @@ http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Pakistan",Hum Masala
-
-https://streams.simpaisa.com:8443/pitvlive4/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Pakistan",PTV Teleschool
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
 
 https://streams.simpaisa.com:8443/pitvlive4/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Pakistan",Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 
 https://streams.simpaisa.com:8443/pitvlive4/cartooneng.smil/chunklist_w1273921531_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Pakistan",Baby TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 
 https://streams.simpaisa.com:8443/pitvlive4/babytv.smil/chunklist_w367911383_b748000_slEng.m3u8
 
