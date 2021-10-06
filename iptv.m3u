@@ -180,11 +180,11 @@ http://14.199.164.20:4001/play/a0vj/index.m3u8
 
 https://streams.simpaisa.com:8443/pitvlive4/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistan",ARY Musik
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 
 http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Pakistan",B4U Music
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 
