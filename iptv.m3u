@@ -22,7 +22,7 @@ http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49274
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
+https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/ap-southeast-1/6100381078001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
 
@@ -248,7 +248,7 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6717
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
