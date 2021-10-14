@@ -279,8 +279,8 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/624850/624850/6619
+#http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
 
