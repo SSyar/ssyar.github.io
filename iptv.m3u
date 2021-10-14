@@ -193,8 +193,8 @@ http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
-
-https://streamone.simpaisa.com:8443/pitvlive1/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
+http://103.17.201.18:8000/play/a00u/index.m3u8
+#https://streamone.simpaisa.com:8443/pitvlive1/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 
