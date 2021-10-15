@@ -210,13 +210,11 @@ https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosp
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
 
-http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
-#https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
 
-http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
-#https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
@@ -224,7 +222,7 @@ https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master_2.m3u
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 
-http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://103.17.201.18:8000/play/a00v/index.m3u8
@@ -268,6 +266,7 @@ https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
+#https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
