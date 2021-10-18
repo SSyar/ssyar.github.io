@@ -209,7 +209,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/babytv.smil/chunklist_w367911383_b
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://tv.iptvforver.com:25461/0E5j8CvaAj/2ueojuD9Vl/69163
+http://185.236.229.21:9981/play/a064
 #https://www.livedoomovie.com:4431/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
