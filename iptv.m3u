@@ -232,7 +232,7 @@ http://103.17.201.18:8000/play/a00v/index.m3u8
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-200,resizemode-4/85450736.jpg" group-title="Sports",ICC T20 WC
 
 https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
