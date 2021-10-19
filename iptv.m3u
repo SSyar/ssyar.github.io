@@ -236,9 +236,9 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCiWrjBhlICf_
 
 https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-#http://new-pro.tv:8080/Hotel-2021/Allroom/88697
-#https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
+
+https://bit.ly/3G3Zj23
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
