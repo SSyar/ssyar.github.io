@@ -210,11 +210,11 @@ https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosp
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
 
-http://starshare.live:8080/Roy0990/4585576586/1065
+https://bit.ly/3aYj2BX
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
 
-http://starshare.live:8080/Roy0990/4585576586/1078
+https://bit.ly/3C8sHl5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 
@@ -244,7 +244,7 @@ http://110.93.240.198:8000/play/a04g/index.m3u8
 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-200,resizemode-4/85450736.jpg" group-title="Sports",ICC T20 WC
+#EXTINF:-1 tvg-logo="https://bit.ly/3GeIpxs" group-title="Sports",ICC T20 WC
 
 https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
