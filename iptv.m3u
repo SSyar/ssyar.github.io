@@ -193,8 +193,8 @@ http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
+
 http://103.17.201.18:8000/play/a00u/index.m3u8
-#https://streamone.simpaisa.com:8443/pitvlive1/ptvglobal.smil/chunklist_w713081454_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 
@@ -209,24 +209,20 @@ https://streamone.simpaisa.com:8443/pitvlive1/babytv.smil/chunklist_w367911383_b
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
+
 http://starshare.live:8080/Roy0990/4585576586/1065
-#https://www.livedoomovie.com:4431/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://tv.iptvforver.com:25461/0E5j8CvaAj/2ueojuD9Vl/72743
-#https://www.livedoomovie.com:4431/02_EUROHD2_720p/chunklist.m3u8
+
+http://starshare.live:8080/Roy0990/4585576586/1078
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
 http://50.7.66.234:8080/alexi/1234/53905
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
+
 http://103.17.201.18:8000/play/a00v/index.m3u8
-#http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 
@@ -261,9 +257,8 @@ http://103.153.39.34:8000/play/a042/index.m3u8
 http://103.153.39.34:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://tv.iptvforver.com:25461/0E5j8CvaAj/2ueojuD9Vl/72848
-#http://iptv.tvmalaysia.cc:80/624850/624850/6619
-#http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+http://110.93.240.198:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 
