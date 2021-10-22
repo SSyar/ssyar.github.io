@@ -216,6 +216,10 @@ http://starshare.live:8080/Roy0990/4585576586/1065
 
 http://starshare.live:8080/Roy0990/4585576586/1078
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
+
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
 http://50.7.66.234:8080/alexi/1234/53905
@@ -227,6 +231,18 @@ http://103.17.201.18:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live&quality=480p
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
+
+http://110.93.240.198:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
+
+http://110.93.240.198:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
+
+http://93.152.174.144:4000/play/ss2in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-200,resizemode-4/85450736.jpg" group-title="Sports",ICC T20 WC
 
@@ -252,26 +268,11 @@ http://103.153.39.34:8000/play/a042/index.m3u8
 
 http://103.153.39.34:8000/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-
-http://110.93.240.198:8000/play/a06g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-
-http://110.93.240.198:8000/play/a04g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-
-http://93.152.174.144:4000/play/ss2in/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
-#http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-#http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
