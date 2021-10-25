@@ -234,11 +234,11 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCiWrjBhlICf_
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://110.93.240.198:8000/play/a06g/index.m3u8
+https://bit.ly/3npoxzk
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 
-http://110.93.240.198:8000/play/a04g/index.m3u8
+https://bit.ly/3jyVpEI
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 
