@@ -209,12 +209,12 @@ https://streamone.simpaisa.com:8443/pitvlive1/babytv.smil/chunklist_w367911383_b
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-
-https://bit.ly/3aYj2BX
+http://88.87.235.195:4444/stream/channelid/1780958391?profile=pass
+#https://bit.ly/3aYj2BX
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-
-https://bit.ly/3C8sHl5
+http://88.87.235.195:4444/stream/channelid/426210107?profile=pass
+#https://bit.ly/3C8sHl5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 
