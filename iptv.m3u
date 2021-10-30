@@ -239,6 +239,10 @@ http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
+
+http://bx1ogd.61a7bfaa4b47.cdn.fdcservers.com/new/sports_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live&quality=480p
@@ -250,10 +254,6 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/139270
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
 http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-
-http://bx1ogd.61a7bfaa4b47.cdn.fdcservers.com/new/sports_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3GeIpxs" group-title="Sports",ICC T20 WC
 
