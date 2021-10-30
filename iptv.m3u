@@ -251,14 +251,6 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
 
 http://bx1ogd.61a7bfaa4b47.cdn.fdcservers.com/new/sports_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-
-http://maxx-iptv2.ddns.net:8080/z5muy0PKVA/6XMvAR1TZm/8114
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-
-http://maxx-iptv2.ddns.net:8080/z5muy0PKVA/6XMvAR1TZm/8115
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3GeIpxs" group-title="Sports",ICC T20 WC
 
 https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
@@ -271,17 +263,25 @@ https://bit.ly/3G3Zj23
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
+
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65334
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
+
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65335
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://maxx-iptv2.ddns.net:8080/z5muy0PKVA/6XMvAR1TZm/34105
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65345
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://maxx-iptv2.ddns.net:8080/z5muy0PKVA/6XMvAR1TZm/34490
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65337
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://maxx-iptv2.ddns.net:8080/z5muy0PKVA/6XMvAR1TZm/34491
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65338
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
