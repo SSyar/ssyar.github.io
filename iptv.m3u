@@ -349,7 +349,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0480_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 
-http://185.236.229.21:9981/play/a04z
+http://45.153.35.221:8000/play/418
 #https://cdn.ta.tapmad.com/motorvision/bcded471f46d663ed6bb7cd7813357fc.sdp/motorvision/streammotor2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
@@ -369,11 +369,11 @@ https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-
-http://iptv.tvmalaysia.cc:80/624850/624850/7075
+http://78.58.133.179:28000/play/a104/index.m3u8
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/96296
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://185.236.229.21:9981/play/a06f
+http://45.153.35.221:8000/play/302
 #https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
