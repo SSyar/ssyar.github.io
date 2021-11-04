@@ -224,8 +224,8 @@ http://88.87.235.195:4444/stream/channelid/426210107?profile=pass
 #https://bit.ly/3C8sHl5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
