@@ -381,8 +381,8 @@ http://45.153.35.221:8000/play/302
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://103.153.39.34:8000/play/a05m/index.m3u8
-#http://iptv.tvmalaysia.cc:80/624850/624850/7233
+
+http://iptv.tvmalaysia.cc:80/624850/624850/7233
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet Hindi
 
