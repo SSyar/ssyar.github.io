@@ -185,8 +185,8 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753
 https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-
-http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0vn/index.m3u8
+#http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
 
