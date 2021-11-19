@@ -283,6 +283,10 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65337
 
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65338
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
+
+https://last.gcdn.co/IND425/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16488
 #http://93.152.174.144:4000/play/btsport1/index.m3u8
