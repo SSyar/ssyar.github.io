@@ -1,12 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Religious",Quran TV
-https://iptv--iptv.repl.co/Arabic/Quran_TV/
-#http://m.live.net.sa:1935/live/quran/index.m3u8
+#https://iptv--iptv.repl.co/Arabic/Quran_TV/
+http://m.live.net.sa:1935/live/quran/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
-https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
-#http://m.live.net.sa:1935/live/sunnah/index.m3u8
+#https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
 
@@ -261,7 +261,7 @@ https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
-https://bit.ly/3G3Zj23
+#https://bit.ly/3G3Zj23
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 
