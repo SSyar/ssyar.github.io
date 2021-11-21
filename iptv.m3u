@@ -257,7 +257,11 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3GeIpxs" group-title="Sports",ICC T20 WC
 
-https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
+#https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
+
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/115099
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
