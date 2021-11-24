@@ -18,7 +18,7 @@ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
 
-http://grcts.velkas.net:2082/simo2_326835/GpmFPCsu/49274
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/115
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 
@@ -26,7 +26,7 @@ https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrxeg
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrxeg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 
@@ -39,28 +39,28 @@ https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
 
 http://14.199.164.20:4001/play/a0vo/index.m3u8
-#https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
 #https://cdn.ta.tapmad.com/dawnnews/811c56dd105be0350728279af7d6be77.sdp/dawnnews/dawnnew2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="News",Neo News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAar7QgfQkr98OT1ujudIiw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAar7QgfQkr98OT1ujudIiw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live&quality=480p
 #https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/tapmadpak/tensports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/AAJ_News.png" group-title="News",Aaj News
@@ -69,31 +69,31 @@ https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajne
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="News",GNN
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://dai.ly/x72hrde
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x72hrde
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="News",Metro 1 News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/metro1news/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/metro1news/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zV79K9butRmRMYKPnRrU-ieosJZAPJ_SOk5hWeKPnLDnXbIczODdH2feqcPZouFjaH9dribP=s250" group-title="News",City 21
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3md2awd" group-title="News",Lahore News
 
@@ -101,27 +101,27 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1429482794825224198/_y2UeTde_400x400.jpg" group-title="News",24 News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/CapitalTVLive/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CapitalTVLive/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="News",PTV News
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/PTVNewsOfficial/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVNewsOfficial/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=360p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=360p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 
@@ -153,7 +153,7 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98953
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 
@@ -235,6 +235,10 @@ http://50.7.66.234:8080/alexi/1234/53905
 
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65206
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
+
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/98
+
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
@@ -245,7 +249,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
@@ -254,10 +258,6 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/139270
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
 http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3GeIpxs" group-title="Sports",ICC T20 WC
-
-#https://tap.mymovemedia.nl/ten/sports.stream/ten/sports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 
@@ -289,7 +289,7 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65338
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
 
-https://last.gcdn.co/IND425/index.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/767
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16488
@@ -317,7 +317,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
 
-#https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
