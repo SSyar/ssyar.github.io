@@ -101,7 +101,7 @@ https://pkimob.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w457
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOk8Fks45kU3yhuwqxm1uvA/live&quality=480p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCY05g0PjqYkQvyIMVSugksw/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1429482794825224198/_y2UeTde_400x400.jpg" group-title="News",24 News
 
@@ -132,12 +132,12 @@ https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
-
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks_dvr.m3u8
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/119
+#https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-
-https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks_dvr.m3u8
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/120
+#https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 
@@ -233,7 +233,7 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/8539
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://sonyiptv.net:8080/jamal/jamal/81319
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/89
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65206
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
@@ -241,7 +241,7 @@ http://sonyiptv.net:8080/jamal/jamal/81319
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/98
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65215
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/101
 #https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
@@ -289,7 +289,7 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65337
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65338
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-http://sonyiptv.net:8080/jamal/jamal/159389
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/767
 #http://starshare.live:8080/cOrldiscord/6aihXYFqTX/767
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
