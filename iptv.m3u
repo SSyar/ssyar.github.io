@@ -18,7 +18,7 @@ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
 
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/115
+http://103.153.39.36:9981/stream/channelid/240462744?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/17176
@@ -39,7 +39,7 @@ https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
 
-http://14.199.164.20:4001/play/a0vo/index.m3u8
+http://103.153.39.36:9981/stream/channelid/1433177807?profile=pass
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -169,12 +169,12 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98927
+http://103.153.39.36:9981/stream/channelid/1342636490?profile=pass
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98927
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/132700
+http://103.153.39.36:9981/stream/channelid/1592792835?profile=pass
+#http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/132700
 #https://stream.arylive.com/zindagi/myStream/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
@@ -186,7 +186,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753
 https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-http://14.199.164.20:4001/play/a0vn/index.m3u8
+http://103.153.39.36:9981/stream/channelid/1417718373?profile=pass
 #http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
@@ -195,15 +195,15 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98919
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 
-http://14.199.164.20:4001/play/a0wk/index.m3u8
+http://103.153.39.36:9981/stream/channelid/1771537692?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
 
-http://14.199.164.20:4001/play/a0mt/index.m3u8
+http://103.153.39.36:9981/stream/channelid/1320414054?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
-
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98947
+http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98947
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone2/chunks.m3u8
@@ -234,7 +234,8 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/8539
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98949
+http://103.153.39.36:9981/stream/channelid/2015951772?profile=pass
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98949
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65206
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
