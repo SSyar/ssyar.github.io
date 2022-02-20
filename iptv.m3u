@@ -38,8 +38,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b892928.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-
-http://103.153.39.36:9981/stream/channelid/1433177807?profile=pass
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65160
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -138,7 +137,7 @@ http://103.153.39.36:9981/stream/channelid/1907529516?profile=pass
 #https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/120.ts
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65162
 #https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
@@ -170,11 +169,11 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://103.153.39.36:9981/stream/channelid/1342636490?profile=pass
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65190
 #http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98927
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://103.153.39.36:9981/stream/channelid/1592792835?profile=pass
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/132700
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/132700
 #https://stream.arylive.com/zindagi/myStream/tracks-v2a1/mono.m3u8
 
@@ -196,11 +195,11 @@ http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98919
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 
-http://103.153.39.36:9981/stream/channelid/1771537692?profile=pass
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65231
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
 
-http://103.153.39.36:9981/stream/channelid/1320414054?profile=pass
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
 http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
