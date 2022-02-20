@@ -199,8 +199,7 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65231
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
-http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
-#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98947
+http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98947
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone2/chunks.m3u8
