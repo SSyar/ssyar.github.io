@@ -235,7 +235,7 @@ http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65206
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/20586
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
