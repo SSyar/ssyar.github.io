@@ -200,7 +200,7 @@ http://103.153.39.36:9981/stream/channelid/1320414054?profile=pass
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98947
+http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone2/chunks.m3u8
@@ -223,8 +223,8 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16493
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 #http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/133316
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/133316
+#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
@@ -244,8 +244,8 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/20586
 http://103.153.39.36:9981/stream/channelid/1504409017?profile=pass
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/101
-#https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
+#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/101
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/GeoSuper/Primary1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://103.153.39.36:9981/stream/channelid/1955753637?profile=pass
@@ -268,7 +268,7 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/10155
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/115099
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/27496
+http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
 #https://bit.ly/3G3Zj23
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
