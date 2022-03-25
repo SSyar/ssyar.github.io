@@ -222,8 +222,8 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16493
 #https://bit.ly/3C8sHl5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-#http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/133316
+
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
@@ -237,7 +237,7 @@ http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/20586
+http://iptv.tvmalaysia.cc:80/136915/136915/7116
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
@@ -257,15 +257,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/139270
+http://iptv.tvmalaysia.cc:80/136915/136915/6717
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/10155
+http://iptv.tvmalaysia.cc:80/136915/136915/6619
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/115099
+http://iptv.tvmalaysia.cc:80/136915/136915/6583
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
@@ -295,16 +295,16 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65338
 http://opplex.tv:8080/Anthony/Anthony/153122
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16488
-#http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16489
-#http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16490
-#http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png" group-title="Sports",Free Sports
 
