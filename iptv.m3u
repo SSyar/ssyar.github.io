@@ -214,7 +214,7 @@ https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babyt
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16492
+http://193.228.193.179:8000/play/a04y
 #https://bit.ly/3aYj2BX
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
@@ -335,8 +335,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_200
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
-
-http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+http://185.205.201.44:8001/play/a02g/index.m3u8
+#http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="Information",TRT World
@@ -393,7 +393,7 @@ https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 
-http://iptv.tvmalaysia.cc:80/136915/136915/7233
+http://193.228.193.179:8000/play/a08x
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://cdn.ta.tapmad.com/taptv/e902ac718b85b4ff38f46707e5c4a0bc.sdp/taptv/animalps1/chunks.m3u8
@@ -404,7 +404,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u
 #https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/8104
+http://193.228.193.179:8000/play/a08j
 #https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
