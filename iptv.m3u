@@ -339,6 +339,9 @@ http://185.205.201.44:8001/play/a02g/index.m3u8
 #http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/69a70fdf-6f93-4607-9d78-6e75c82f517f:BRU/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="Information",TRT World
 
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
