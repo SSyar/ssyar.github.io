@@ -326,7 +326,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://cdn.erost.win:8080/sidneym1/92468083m1/55169
+http://185.79.153.10:6500/play/a03y
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://84.22.33.214/bbc/index.m3u8
