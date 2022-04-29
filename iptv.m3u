@@ -263,11 +263,11 @@ http://iptv.tvmalaysia.cc:80/136915/136915/6717
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://iptv.tvmalaysia.cc:80/136915/136915/6619
+http://new-pro.tv:8080/Fernando/123321/68485
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 
-http://iptv.tvmalaysia.cc:80/136915/136915/6583
+http://new-pro.tv:8080/Fernando/123321/60933
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
@@ -275,23 +275,23 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 
-http://smartsw.xyz:8080/tom/tom123/400005
+http://new-pro.tv:8080/Fernando/123321/72041
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 
-http://smartsw.xyz:8080/tom/tom123/400004
+http://new-pro.tv:8080/Fernando/123321/72042
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://smartsw.xyz:8080/tom/tom123/400001
+http://new-pro.tv:8080/Fernando/123321/72073
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://smartsw.xyz:8080/tom/tom123/400008
+http://new-pro.tv:8080/Fernando/123321/72074
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://smartsw.xyz:8080/tom/tom123/400007
+http://new-pro.tv:8080/Fernando/123321/72075
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.112.55.107:9090/play/a02g/index.m3u8
