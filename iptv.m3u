@@ -230,7 +230,7 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
 
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/8539
+http://new-pro.tv:8080/Fernando/123321/179485
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
@@ -239,7 +239,7 @@ http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://iptv.tvmalaysia.cc:80/136915/136915/7116
+http://new-pro.tv:8080/Fernando/123321/68575
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
@@ -328,7 +328,8 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://185.79.153.10:6500/play/a03y
+http://new-pro.tv:8080/Fernando/123321/70360
+#http://185.79.153.10:6500/play/a03y
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
