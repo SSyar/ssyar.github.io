@@ -24,7 +24,7 @@ http://103.153.39.36:9981/stream/channelid/240462744?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 http://103.153.39.36:9981/stream/channelid/1761305084?profile=pass
-#https://zkpywe62ybeg-hls-live.5centscdn.com/GeoNews/83d97660e78cc57886c47f48b3fa819b.sdp/GeoNews/Stream11/chunks.m3u8
+#https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_vt34wimdCzdkrzVejwX9g/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
@@ -310,7 +310,7 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png" group-title="Sports",Free Sports
 
-http://194.76.186.79:8000/play/a04t
+http://new-pro.tv:8080/Fernando/123321/72716
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 
