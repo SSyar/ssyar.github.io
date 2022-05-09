@@ -117,25 +117,28 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CapitalTVLive/live&quality=480p
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="News",PTV News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVNewsOfficial/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=360p
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 
-https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA&quality=480p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 
 https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_bolan_pk.png" group-title="Entertainment",PTV Bolan
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=q1NZFC2yolM&quality=480p
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 http://103.153.39.36:9981/stream/channelid/1907529516?profile=pass
-#http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/119.ts
 #https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
@@ -162,7 +165,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
 
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="Entertainment",A Plus
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/865895520417533953/4WISx12s_400x400.jpg" group-title="Entertainment",A Plus
 
 https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp2/chunks.m3u8
 
@@ -172,11 +175,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b74
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
 http://103.153.39.36:9981/stream/channelid/1342636490?profile=pass
-#http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65190
-#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98927
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-https://stream.arylive.com/zindagi/myStream/tracks-v1a1/mono.m3u8
+http://103.153.39.36:9981/stream/channelid/1592792835?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 
@@ -191,7 +192,7 @@ http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
 
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/98919
+http://103.153.39.36:9981/stream/channelid/1293013444?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://103.153.39.36:9981/stream/channelid/143471434?profile=pass
