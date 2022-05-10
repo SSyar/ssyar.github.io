@@ -240,7 +240,7 @@ http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://new-pro.tv:8080/Fernando/123321/68575
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/5496
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
@@ -264,14 +264,14 @@ http://iptv.tvmalaysia.cc:80/136915/136915/6717
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 
-http://new-pro.tv:8080/Fernando/123321/68485
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/2462
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 
 http://new-pro.tv:8080/Fernando/123321/60933
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/48272
 #https://bit.ly/3G3Zj23
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
@@ -284,11 +284,11 @@ http://103.132.16.98:8080/starsports2hd/mpegts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 
-http://new-pro.tv:8080/Fernando/123321/72073
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/5630
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://new-pro.tv:8080/Fernando/123321/72074
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/887
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
@@ -329,7 +329,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://new-pro.tv:8080/Fernando/123321/70360
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3246
 #http://185.79.153.10:6500/play/a03y
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
@@ -342,7 +342,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_200
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
 
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/04.m3u8
+http://linear116-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynewsinternational)/05_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
 http://185.205.201.44:8001/play/a02g/index.m3u8
