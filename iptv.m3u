@@ -345,6 +345,12 @@ http://185.205.201.44:8001/play/a02g/index.m3u8
 #http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live&quality=480p
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s250" group-title="Information",ABC News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live&quality=480p
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="Information",TRT World
 
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
