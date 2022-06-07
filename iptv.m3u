@@ -285,11 +285,11 @@ http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/5436
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/887
+http://182.50.65.213:8888/udp/239.239.0.33:3001
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 
-http://new-pro.tv:8080/Fernando/123321/72075
+http://182.50.65.213:8888/udp/239.239.0.34:3001
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.112.55.107:9090/play/a02g/index.m3u8
