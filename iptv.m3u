@@ -237,15 +237,15 @@ http://new-pro.tv:8080/Fernando/123321/179485
 http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/95010
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 
 http://103.153.39.36:9981/stream/channelid/1504409017?profile=pass
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/101
-https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/GeoSuper/Primary1/chunks.m3u8
+http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
+#https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/GeoSuper/Primary1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://103.153.39.36:9981/stream/channelid/1955753637?profile=pass
