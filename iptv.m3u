@@ -294,6 +294,9 @@ http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.112.55.107:9090/play/a02g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
+http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/677818
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -318,9 +321,13 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
 
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
+
+EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
@@ -331,6 +338,7 @@ http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3246
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
+#http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
 #http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
@@ -350,6 +358,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNe
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s250" group-title="Information",ABC News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live&quality=480p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/320px-Global_News.svg.png" group-title="Information",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_world_tr.png" group-title="Information",TRT World
 
