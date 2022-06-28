@@ -197,7 +197,7 @@ http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
 http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-http://103.153.39.36:9981/stream/channelid/1504409017?profile=pass
+https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
