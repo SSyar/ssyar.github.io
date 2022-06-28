@@ -178,10 +178,13 @@ https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babyt
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://193.228.193.179:8000/play/a04y
+http://45.92.69.77:8000/play/a025/index.m3u8
+#http://45.92.69.203:1982/play/a05p
+#http://79.132.4.75:8000/play/a06z
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692294
+#http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692294
+http://79.132.4.75:8000/play/a071
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
