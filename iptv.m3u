@@ -274,7 +274,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3246
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #http://185.79.153.10:6500/play/a03y
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
@@ -289,7 +289,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_200
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
-http://185.205.201.44:8001/play/a02g/index.m3u8
+http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/678142
 #http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v2a1/mono.m3u8
 
