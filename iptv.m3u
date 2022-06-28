@@ -344,7 +344,7 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b1800000.m3
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://193.228.193.179:8000/play/a08x
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://cdn.ta.tapmad.com/taptv/e902ac718b85b4ff38f46707e5c4a0bc.sdp/taptv/animalps1/chunks.m3u8
