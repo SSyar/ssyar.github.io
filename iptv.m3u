@@ -267,7 +267,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
 
-EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
@@ -290,8 +290,7 @@ https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/678142
-#http://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-#https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v2a1/mono.m3u8
+#http://84.112.18.204:8001/1:0:1:749B:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live&quality=480p
@@ -344,7 +343,9 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b1800000.m3
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+http://nox20b.xyz:80/live/necat/necat21/116431.ts
+#http://78.83.191.18:8000/play/a05o
+#http://45.92.69.203:1982/play/a03i
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://cdn.ta.tapmad.com/taptv/e902ac718b85b4ff38f46707e5c4a0bc.sdp/taptv/animalps1/chunks.m3u8
@@ -355,7 +356,8 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u
 #https://itvoign.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://193.228.193.179:8000/play/a08j
+http://212.18.115.194:3531/play/a01c/index.m3u8
+#http://201.220.134.44:8185/play/a00d/index.m3u8
 #https://itvoign.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
