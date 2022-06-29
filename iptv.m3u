@@ -17,8 +17,7 @@ http://stream.arylive.com/aryqtv/myStream/index.m3u8
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://103.153.39.36:9981/stream/channelid/240462744?profile=pass
-#http://199.223.252.162:8032/urdu_adaptive/tracks-v2a1/mono.m3u8
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157334
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 http://103.153.39.36:9981/stream/channelid/1761305084?profile=pass
@@ -35,7 +34,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b892928.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://103.153.39.36:9981/stream/channelid/1433177807?profile=pass
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1397
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -111,12 +110,10 @@ https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w174991
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4XuwyU2ls9oygwRqef8LiA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
-http://103.153.39.36:9981/stream/channelid/1907529516?profile=pass
-#https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/Live1/chunks_dvr.m3u8
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1389
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://103.153.39.36:9981/stream/channelid/449329814?profile=pass
-#https://jk3lz82elw79-hls-live.5centscdn.com/geoTez/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks_dvr.m3u8
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5106
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://cdn.ta.tapmad.com/humtvp/humtvpchannel.stream/humtvp/humtvpchannel2/chunks.m3u8
@@ -125,7 +122,7 @@ https://cdn.ta.tapmad.com/humtvp/humtvpchannel.stream/humtvp/humtvpchannel2/chun
 https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Entertainment",TV One
-http://103.153.39.36:9981/stream/channelid/685067437?profile=pass
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5108
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
@@ -140,10 +137,10 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://103.153.39.36:9981/stream/channelid/1342636490?profile=pass
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49510
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://103.153.39.36:9981/stream/channelid/1592792835?profile=pass
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1396
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -155,7 +152,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b
 http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://103.153.39.36:9981/stream/channelid/1293013444?profile=pass
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/82577
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
@@ -198,7 +195,7 @@ http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
 https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://221.120.204.4:8080/geo-super-LOCKLE/index.m3u8
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/16626
 #https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/GeoSuper/Primary1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
