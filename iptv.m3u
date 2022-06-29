@@ -158,8 +158,7 @@ http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 http://103.153.39.36:9981/stream/channelid/1293013444?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://103.153.39.36:9981/stream/channelid/143471434?profile=pass
-#http://103.153.39.36:9981/stream/channelid/1737744858?profile=pass
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
 http://103.153.39.36:9981/stream/channelid/1320414054?profile=pass
@@ -188,13 +187,9 @@ http://79.132.4.75:8000/play/a071
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/95953
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Wp75RY" group-title="Sports",NBCSN
-http://new-pro.tv:8080/Fernando/123321/179485
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://103.153.39.36:9981/stream/channelid/1859618963?profile=pass
+http://103.55.144.46/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
@@ -227,15 +222,13 @@ http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/686915
 #https://bit.ly/3G3Zj23
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-#http://103.132.16.98:8080/starsports1hd/mpegts
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/5431
+http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-#http://103.132.16.98:8080/starsports2hd/mpegts
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/5430
+http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/5436
+http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 http://182.50.65.213:8888/udp/239.239.0.33:3001
@@ -244,7 +237,7 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-http://103.112.55.107:9090/play/a02g/index.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/677818
