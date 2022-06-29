@@ -20,7 +20,7 @@ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157334
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1391
+http://208.86.19.13:81/621.stream/index.m3u8
 #https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8
 #https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_vt34wimdCzdkrzVejwX9g/live&quality=480p
 
@@ -115,10 +115,10 @@ https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w174991
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4XuwyU2ls9oygwRqef8LiA/live&quality=480p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1389
+http://208.86.19.13:81/603.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5106
+http://208.86.19.13:81/622.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://cdn.ta.tapmad.com/humtvp/humtvpchannel.stream/humtvp/humtvpchannel2/chunks.m3u8
@@ -204,7 +204,7 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/16626
 #https://jk3lz82elw79-hls-live.5centscdn.com/GeoSuper/074de7e7c226d5c60f8af14c20725352.sdp/GeoSuper/Primary1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://103.153.39.36:9981/stream/channelid/1955753637?profile=pass
+http://208.86.19.13:81/602.stream/index.m3u8
 #http://opplex.tv:8080/Anthony/Anthony/219689
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
