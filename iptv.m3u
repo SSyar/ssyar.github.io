@@ -179,6 +179,9 @@ https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/carto
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png" group-title="Kids",Nick Toons
+http://208.86.19.13:81/15.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 
