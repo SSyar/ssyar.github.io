@@ -181,8 +181,8 @@ https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babyt
 https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-#http://103.55.144.46/hls/ptv.m3u8
-https://cdn.ta.tapmad.com/tappak/8a1141370cd54c4c67bb94ae3faf9700.sdp/tappak/ptvsportsloc3/chunks.m3u8
+http://103.55.144.46/hls/ptv.m3u8
+#https://cdn.ta.tapmad.com/tappak/8a1141370cd54c4c67bb94ae3faf9700.sdp/tappak/ptvsportsloc3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://208.86.19.13:81/602.stream/index.m3u8
@@ -214,7 +214,7 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/16626
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://iptv.tvmalaysia.cc:80/136915/136915/6717
+http://sonyiptv.net:8080/56/56/6280
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692344
@@ -234,13 +234,14 @@ http://103.55.144.46/hls/stersports1hd.m3u8
 http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://103.55.144.46/hls/sonysix.m3u8
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonysix/playlist.m3u8
+#http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
-http://182.50.65.213:8888/udp/239.239.0.34:3001
+http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.55.144.46/hls/t-sports.m3u8
