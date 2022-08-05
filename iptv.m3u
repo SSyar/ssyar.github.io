@@ -25,7 +25,8 @@ http://208.86.19.13:81/621.stream/index.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_vt34wimdCzdkrzVejwX9g/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrxeg
+http://208.86.19.13:81/642.stream/index.m3u8
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrxeg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -131,7 +132,8 @@ http://208.86.19.13:81/692.stream/index.m3u8
 http://sonyiptv.net:8080/56/56/32118
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
+http://208.86.19.13:81/643.stream/index.m3u8
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
