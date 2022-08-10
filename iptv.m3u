@@ -230,12 +230,12 @@ http://sonyiptv.net:8080/56/56/6284
 http://sonyiptv.net:8080/56/56/6286
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-#http://208.86.19.13:81/710.stream/index.m3u8
-http://103.55.144.46/hls/stersports1hd.m3u8
+http://208.86.19.13:81/710.stream/index.m3u8
+#http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-#http://208.86.19.13:81/715.stream/index.m3u8
-http://103.55.144.46/hls/starsports2.m3u8
+http://208.86.19.13:81/715.stream/index.m3u8
+#http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://0nelivezer0.rbtvnw.com:21190/neptune/sonysix/playlist.m3u8
