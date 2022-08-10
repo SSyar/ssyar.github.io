@@ -129,7 +129,7 @@ http://208.86.19.13:81/692.stream/index.m3u8
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Entertainment",TV One
-http://sonyiptv.net:8080/56/56/32118
+http://iptv12k.com:35461/80301070602/456776/7124
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
 http://208.86.19.13:81/643.stream/index.m3u8
@@ -148,7 +148,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b74
 http://208.86.19.13:81/665.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://sonyiptv.net:8080/56/56/32152
+http://iptv12k.com:35461/80301070602/456776/7169
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -161,7 +161,7 @@ http://208.86.19.13:81/691.stream/index.m3u8
 http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://sonyiptv.net:8080/56/56/32155
+http://iptv12k.com:35461/80301070602/456776/7229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
@@ -218,16 +218,16 @@ http://208.86.19.13:81/725.stream/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://sonyiptv.net:8080/56/56/6280
+http://iptv12k.com:35461/80301070602/456776/684
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://sonyiptv.net:8080/56/56/6285
+http://iptv12k.com:35461/80301070602/456776/5298
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://sonyiptv.net:8080/56/56/6284
+http://iptv12k.com:35461/80301070602/456776/5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://sonyiptv.net:8080/56/56/6286
+http://iptv12k.com:35461/80301070602/456776/3391
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
