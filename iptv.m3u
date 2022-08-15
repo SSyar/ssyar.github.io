@@ -230,11 +230,13 @@ http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/688714
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/686915
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://208.86.19.13:81/710.stream/index.m3u8
+http://103.179.246.243:8000/play/a00c
+#http://208.86.19.13:81/710.stream/index.m3u8
 #http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://208.86.19.13:81/715.stream/index.m3u8
+http://103.179.246.243:8000/play/a00d
+#http://208.86.19.13:81/715.stream/index.m3u8
 #http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
@@ -353,8 +355,7 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b1800000.m3
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://nox20b.xyz:80/live/necat/necat21/116431.ts
-#http://78.83.191.18:8000/play/a05o
+http://78.83.191.18:8000/play/a05o
 #http://45.92.69.203:1982/play/a03i
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
@@ -366,8 +367,8 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u
 #https://itvoign.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://212.18.115.194:3531/play/a01c/index.m3u8
-#http://201.220.134.44:8185/play/a00d/index.m3u8
+#http://82.80.132.222:8000/play/Discovery_science_HD/index.m3u8
+http://190.83.119.67:8000/play/a0ny/index.m3u8
 #https://itvoign.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
