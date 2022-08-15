@@ -145,7 +145,7 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://208.86.19.13:81/665.stream/index.m3u8
+http://87.212.248.44:60530/play/a095
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
 http://iptv12k.com:35461/80301070602/456776/7169
@@ -256,10 +256,12 @@ http://103.55.144.46/hls/t-sports.m3u8
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/677818
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://85.245.237.73:8082/play/a009
+#http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://85.245.237.73:8082/play/a00a
+#http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
