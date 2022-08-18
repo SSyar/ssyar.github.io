@@ -11,7 +11,7 @@ http://185.236.229.31:9981/play/a017
 #http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://stream.arylive.com/aryqtv/myStream/index.m3u8
+http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
@@ -35,7 +35,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w333018464_b892928.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://sonyiptv.net:8080/56/56/77
+http://flix12.site:8080/rodiansun/l5ele3ynuh/9243
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -145,10 +145,10 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://87.212.248.44:60530/play/a095
+http://208.86.19.13:81/821.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://iptv12k.com:35461/80301070602/456776/7169
+http://208.86.19.13:81/825.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -158,13 +158,14 @@ http://208.86.19.13:81/691.stream/index.m3u8
 #https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/824.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
 http://iptv12k.com:35461/80301070602/456776/7229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#http://208.86.19.13:81/833.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
 http://208.86.19.13:81/733.stream/index.m3u8
@@ -193,6 +194,9 @@ http://103.55.144.46/hls/ptv.m3u8
 http://208.86.19.13:81/602.stream/index.m3u8
 #http://opplex.tv:8080/Anthony/Anthony/219689
 
+#EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
+http://208.86.19.13:81/725.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
@@ -211,9 +215,6 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
 
-#EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://208.86.19.13:81/725.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
 
@@ -230,13 +231,11 @@ http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/688714
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/686915
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://103.179.246.243:8000/play/a00c
-#http://208.86.19.13:81/710.stream/index.m3u8
+http://208.86.19.13:81/710.stream/index.m3u8
 #http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://103.179.246.243:8000/play/a00d
-#http://208.86.19.13:81/715.stream/index.m3u8
+http://208.86.19.13:81/715.stream/index.m3u8
 #http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
