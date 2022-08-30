@@ -188,6 +188,7 @@ https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tenspor
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://flix12.site:8080/rodiansun/l5ele3ynuh/9212
+#http://mains.services:2086/lorre/3Jy14gb2kR/94869
 #http://103.55.144.46/hls/ptv.m3u8
 #https://cdn.ta.tapmad.com/tappak/8a1141370cd54c4c67bb94ae3faf9700.sdp/tappak/ptvsportsloc3/chunks.m3u8
 
@@ -202,14 +203,10 @@ http://208.86.19.13:81/725.stream/index.m3u8
 https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://flix12.site:8080/rodiansun/l5ele3ynuh/18690
-#http://45.92.69.77:8000/play/a025/index.m3u8
-#http://45.92.69.203:1982/play/a05p
-#http://79.132.4.75:8000/play/a06z
+http://mains.services:2086/lorre/3Jy14gb2kR/72659
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-#http://flix12.site:8080/rodiansun/l5ele3ynuh/18689
-#http://79.132.4.75:8000/play/a071
+http://mains.services:2086/lorre/3Jy14gb2kR/72660
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -224,7 +221,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/694217
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://iptv12k.com:35461/80301070602/456776/5298
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3886
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/688714
@@ -234,18 +231,15 @@ http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/686915
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
-#http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://208.86.19.13:81/715.stream/index.m3u8
-#http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonysix/playlist.m3u8
-#http://103.55.144.46/hls/sonysix.m3u8
+http://mains.services:2086/lorre/3Jy14gb2kR/94770
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten1/playlist.m3u8
+http://mains.services:2086/lorre/3Jy14gb2kR/91817
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
@@ -268,7 +262,7 @@ http://85.245.237.73:8082/play/a00a
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png" group-title="Sports",Free Sports
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/94918
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3923
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
@@ -277,7 +271,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/313px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports
-http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
+#http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
+http://mains.services:2086/lorre/3Jy14gb2kR/92911
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
