@@ -286,7 +286,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/USamMyyzeUMudhnLBiEXruUoRod8bKU-F19ixiDyUHX2KZEmyijqKdAkpYQapACWmLJwnyFD8Q" group-title="Sports",VUSport(Live Events Only)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/VUSportStreaming
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/VUSportStreaming/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
