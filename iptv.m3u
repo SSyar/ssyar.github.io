@@ -184,7 +184,8 @@ https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babyt
 http://208.86.19.13:81/15.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
+#https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
+https://tapmadlive.akamaized.net/originlive/streamtensports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://flix12.site:8080/rodiansun/l5ele3ynuh/9212
@@ -200,7 +201,8 @@ http://208.86.19.13:81/602.stream/index.m3u8
 http://208.86.19.13:81/725.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
-https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
+#https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
+https://tapmadlive.akamaized.net/originlive/eurosports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
 http://mains.services:2086/lorre/3Jy14gb2kR/72659
