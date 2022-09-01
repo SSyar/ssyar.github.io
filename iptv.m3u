@@ -214,7 +214,7 @@ http://mains.services:2086/lorre/3Jy14gb2kR/72660
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://mytv.fun:8080/y8xfv99zd/325698vnbgtv/692278
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3887
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
@@ -248,6 +248,9 @@ http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.55.144.46/hls/t-sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",GTV
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/677818
