@@ -249,7 +249,7 @@ http://0nelivezer0.rbtvnw.com:21190/neptune/sonyten2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.55.144.46/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",GTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
