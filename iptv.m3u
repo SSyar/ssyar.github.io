@@ -280,7 +280,7 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 http://mains.services:2086/lorre/3Jy14gb2kR/92911
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
+#https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
