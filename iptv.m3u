@@ -344,7 +344,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+http://78.83.191.18:8000/play/a05u
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
@@ -373,9 +373,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u
 #https://itvoign.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-#http://82.80.132.222:8000/play/Discovery_science_HD/index.m3u8
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-#https://itvoign.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+http://103.162.136.235:4500/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1800000.m3u8
