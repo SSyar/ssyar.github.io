@@ -82,7 +82,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/city42.smil/chunklist_w1531197988_
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCHlCp7kL8jC9HJrSVJuNJzA/live
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3md2awd" group-title="News",Lahore News
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w691316167_b995328.m3u8
