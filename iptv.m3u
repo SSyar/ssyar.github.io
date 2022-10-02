@@ -175,7 +175,7 @@ http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/26011
-#https://cdn.ta.tapmad.com/taptv/67f55d48b500c9f6f72972c5547dadbd.sdp/taptv/cartoone2/chunks.m3u8
+#http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
