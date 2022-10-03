@@ -11,7 +11,8 @@ http://185.236.229.31:9981/play/a017
 #http://m.live.net.sa:1935/live/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://208.86.19.13:81/822.stream/index.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3161
+#http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
@@ -250,7 +251,7 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2820
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2809
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
-http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90471
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2807
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.55.144.46/hls/t-sports.m3u8
