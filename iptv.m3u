@@ -158,7 +158,8 @@ http://208.86.19.13:81/691.stream/index.m3u8
 #https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-http://208.86.19.13:81/824.stream/index.m3u8
+#http://208.86.19.13:81/824.stream/index.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3163
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5642
@@ -170,15 +171,12 @@ http://208.86.19.13:81/833.stream/index.m3u8
 http://208.86.19.13:81/733.stream/index.m3u8
 #http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65229
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleschool-pk.png" group-title="Kids",PTV Teleschool
-http://103.153.39.36:9981/stream/channelid/516145737?profile=pass
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/26011
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
-https://cdn.ta.tapmad.com/taptv/f388295d92b478457e91bcd9516b9944.sdp/taptv/babytvp1/chunks.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/62292
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png" group-title="Kids",Nick Toons
 http://208.86.19.13:81/15.stream/index.m3u8
@@ -195,10 +193,7 @@ http://208.86.19.13:81/14.stream/index.m3u8
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25932
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90477
-#http://mains.services:2086/lorre/3Jy14gb2kR/94869
-#http://103.55.144.46/hls/ptv.m3u8
-#https://cdn.ta.tapmad.com/tappak/8a1141370cd54c4c67bb94ae3faf9700.sdp/tappak/ptvsportsloc3/chunks.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43650
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 https://stream1.aryzap.com/d07525e6f34273ca963b733724961695/633aee5c/v1/0182f8a158d80b8ed5aa6eddaece/0182f8b509730b8ed5aa6eddaed1/main.m3u8
@@ -249,10 +244,10 @@ http://103.162.136.235:4500/play/a015/index.m3u8
 http://208.86.19.13:81/715.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90438
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2820
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90470
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2809
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
 http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90471
