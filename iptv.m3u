@@ -188,6 +188,12 @@ http://208.86.19.13:81/10.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
 http://208.86.19.13:81/14.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
+http://103.162.136.235:4500/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
+http://103.162.136.235:4500/play/a01k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 #https://tapmadlive.akamaized.net/originlive/streamtensports1/chunklist.m3u8
@@ -245,13 +251,13 @@ http://103.162.136.235:4500/play/a015/index.m3u8
 http://208.86.19.13:81/715.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2820
+http://103.162.136.235:4500/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2809
+http://103.162.136.235:4500/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",TEN 2
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2807
+http://103.162.136.235:4500/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://103.55.144.46/hls/t-sports.m3u8
