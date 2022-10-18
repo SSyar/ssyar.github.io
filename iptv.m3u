@@ -367,12 +367,10 @@ http://78.83.191.18:8000/play/a05u
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1800000.m3u8 
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/24795
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b1800000.m3u8
-#http://45.153.35.221:8000/play/302
-#https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+http://87.118.164.52:8888/udp/238.194.12.1:5501
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
@@ -382,12 +380,11 @@ http://78.83.191.18:8000/play/a05o
 #http://45.92.69.203:1982/play/a03i
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
-https://cdn.ta.tapmad.com/taptv/e902ac718b85b4ff38f46707e5c4a0bc.sdp/taptv/animalps1/chunks.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/14590
 #https://itvoign.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u8
-#https://itvoign.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/19390
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
 http://78.83.191.18:8000/play/a04z
