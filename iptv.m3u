@@ -307,10 +307,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36033
+#https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#http://185.79.153.10:6500/play/a03y
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36025
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
@@ -325,7 +325,6 @@ https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
 http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36031
-#http://84.112.18.204:8001/1:0:1:749B:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live
