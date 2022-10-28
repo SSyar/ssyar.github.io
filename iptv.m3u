@@ -306,7 +306,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/OfficialCPLT20/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
-https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36033
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -324,7 +324,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_200
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
-http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/678142
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36031
 #http://84.112.18.204:8001/1:0:1:749B:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
@@ -361,7 +361,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://78.83.191.18:8000/play/a05u
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36243
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
@@ -387,10 +387,10 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/14590
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/19390
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://78.83.191.18:8000/play/a04z
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36220
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1800000.m3u8
+http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36149
 #https://itvoign.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
