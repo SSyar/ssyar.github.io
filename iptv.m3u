@@ -200,6 +200,9 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2824
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/M4X3Lb_NoSlwZ4WeLA4ke1VuoVnlr1_B550AN-paj1zAByZ_6_mSfAW5ZISu1vomEKiVp36opA4=s250" group-title="Kids",Paw Patrol
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/OfficialPawPatrol/live
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8254
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 #https://tapmadlive.akamaized.net/originlive/streamtensports1/chunklist.m3u8
