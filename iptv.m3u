@@ -206,6 +206,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Of
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7786
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-1-uk.svg" group-title="Sports",ITV 1
+http://flix12.site:80/yhc3poipve/cbhbghty67r/692485
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
 #https://tapmadlive.akamaized.net/originlive/streamtensports1/chunklist.m3u8
