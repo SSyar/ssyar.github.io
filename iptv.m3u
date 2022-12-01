@@ -315,7 +315,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/OfficialCPLT20/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
-http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36033
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@business/live
 #https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/60c87d0baf322e6c8282d3cfad74c681.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
