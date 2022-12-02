@@ -284,13 +284,13 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 http://ksiptv.bestipbox.com:8000/geniptvservice/TJ3Nvo1IJJ/90478
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128229
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128230
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128231
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png" group-title="Sports",Free Sports
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3923
