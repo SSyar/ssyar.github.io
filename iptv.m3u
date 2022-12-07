@@ -381,16 +381,16 @@ http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36243
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/24795
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/116
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://87.118.164.52:8888/udp/238.194.12.1:5501
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1079
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://78.83.191.18:8000/play/a05o
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115624
 #http://45.92.69.203:1982/play/a03i
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
@@ -401,10 +401,10 @@ https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36220
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11372
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
-http://tv.zaptotv.one:8080/FvNt4HgUw3/Vwa84avrUs/36149
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11362
 #https://itvoign.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
