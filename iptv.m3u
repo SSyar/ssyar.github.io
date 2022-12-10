@@ -209,6 +209,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Of
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7786
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/corp/ss/sbs_au.png" group-title="Sports",SBS
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/28019
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/320px-ITV1_logo_%282022%29.svg.png" group-title="Sports",ITV 1
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11114
 
