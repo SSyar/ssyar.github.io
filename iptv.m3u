@@ -36,7 +36,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://flix12.site:8080/rodiansun/l5ele3ynuh/9243
+http://appleiptv.com:80/7863/7863/20885
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -152,10 +152,10 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://208.86.19.13:81/821.stream/index.m3u8
+http://appleiptv.com:80/7863/7863/43026
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://208.86.19.13:81/825.stream/index.m3u8
+http://appleiptv.com:80/7863/7863/20887
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
