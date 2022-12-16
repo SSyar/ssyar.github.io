@@ -212,6 +212,9 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7786
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/corp/ss/sbs_au.png" group-title="Sports",SBS
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/30000
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
+http://appleiptv.com:80/7863/7863/31717
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/320px-ITV1_logo_%282022%29.svg.png" group-title="Sports",ITV 1
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11114
 
@@ -299,9 +302,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128230
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128231
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/freesports-uk.png" group-title="Sports",Free Sports
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3923
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
