@@ -209,19 +209,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Of
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7786
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/corp/ss/sbs_au.png" group-title="Sports",SBS
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/30000
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
 http://appleiptv.com:80/7863/7863/31717
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/320px-ITV1_logo_%282022%29.svg.png" group-title="Sports",ITV 1
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11114
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-#https://cdn.ta.tapmad.com/tensports/a9eb5f4ba1caf978902d73b1fdf97009.sdp/tensports/streamtensports1/chunks.m3u8
-#https://tapmadlive.akamaized.net/originlive/streamtensports1/chunklist.m3u8
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25932
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/374
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/43650
@@ -243,10 +235,10 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/283005
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/283006
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94486
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/79028
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/24462
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61586
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
