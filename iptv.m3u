@@ -55,10 +55,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live
-https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/tapmadpak/tensports1/chunks.m3u8
+https://tapmadlive.akamaized.net/originlive/saamanews1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="News",Aaj News
-https://cdn.ta.tapmad.com/taptv/f714537cf85fa375b4e045894494e567.sdp/taptv/aajnewsp1/chunks.m3u8
+https://tapmadlive.akamaized.net/originlive/aajnews1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="News",GNN
 https://streamone.simpaisa.com:8443/pitvlive1/jaagtv.smil/chunklist_w2011237647_b748000_slEng.m3u8
@@ -69,7 +69,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/sachtv.smil/chunklist_w1229836470_
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x72hrde
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Metro1_News.jpg" group-title="News",Metro 1 News
-https://streamone.simpaisa.com:8443/pitvlive1/metro.smil/chunklist_w655726941_b748000_slEng.m3u8
+https://streamone.simpaisa.com:8443/pitvlive1/metro1.smil/chunklist_w16343120_b748000_slEng.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/metro1news/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g=s250" group-title="News",City 21
@@ -102,7 +102,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/chunklist_w12775249
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suno-tv-us.png" group-title="News",Suno TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sunotvhd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB82Zom1MYh8VV4q7wXkfGA/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CapitalTVLive/live
