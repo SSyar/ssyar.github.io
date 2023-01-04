@@ -129,7 +129,7 @@ http://208.86.19.13:81/603.stream/index.m3u8
 http://208.86.19.13:81/622.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
-http://208.86.19.13:81/611.stream/index.m3u8
+https://617a5b61818c7.streamlock.net/humtv/humtv/chunklist_w1246953331.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
 http://208.86.19.13:81/692.stream/index.m3u8
