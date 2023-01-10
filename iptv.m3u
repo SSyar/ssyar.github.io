@@ -11,10 +11,10 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3161
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
-https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://208.86.19.13:81/624.stream/index.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25952
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
