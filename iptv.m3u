@@ -152,10 +152,10 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://appleiptv.com:80/7863/7863/43026
+https://arydigital.aryzap.com/5b0655d4699695664bcca947eea89ecf/63bea80b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://appleiptv.com:80/7863/7863/20887
+https://aryzindagi.aryzap.com/c9dfd4a82a1c6c4760e5a2f1c98ad17f/63bea7d0/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -185,8 +185,8 @@ https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2327
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png" group-title="Kids",Nick Toons
-http://208.86.19.13:81/15.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
+https://nick.aryzap.com/2323178485b6f0f5bb297d6f1ea1f6ff/63bea74c/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://208.86.19.13:81/10.stream/index.m3u8
