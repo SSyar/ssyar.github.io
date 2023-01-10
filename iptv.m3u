@@ -76,7 +76,8 @@ https://streamone.simpaisa.com:8443/pitvlive1/metro1.smil/chunklist_w16343120_b7
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/26008
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6UW8OOQQBGdwmnaYLh-qdw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
 https://streamone.simpaisa.com:8443/pitvlive1/city42.smil/chunklist_w1531197988_b748000_slEng.m3u8
@@ -89,10 +90,12 @@ https://streamone.simpaisa.com:8443/pitvlive1/city42.smil/chunklist_w1531197988_
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCY05g0PjqYkQvyIMVSugksw/live
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25974
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCY05g0PjqYkQvyIMVSugksw/live
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@mashriqtvlive1475/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@mashriqtvlive1475/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.mjunoon.tv/mashriq-tv-live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g=s250" group-title="News",24 News
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/chunklist_w1277524999_b1248000_slEng.m3u8
