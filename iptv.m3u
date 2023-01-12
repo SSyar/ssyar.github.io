@@ -152,10 +152,10 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-https://arydigital.aryzap.com/5b0655d4699695664bcca947eea89ecf/63bea80b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/26026
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-https://aryzindagi.aryzap.com/c9dfd4a82a1c6c4760e5a2f1c98ad17f/63bea7d0/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/main.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3158
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -186,7 +186,7 @@ https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2327
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
-https://nick.aryzap.com/2323178485b6f0f5bb297d6f1ea1f6ff/63bea74c/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8
+http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25961
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://208.86.19.13:81/10.stream/index.m3u8
@@ -229,10 +229,10 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3153
 https://tapmadlive.akamaized.net/originlive/eurosports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/283005
+http://ky-iptv.com:80/stevewalker/stevewalker/391450.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/283006
+http://ky-iptv.com:80/stevewalker/stevewalker/1847082.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/79028
@@ -247,13 +247,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/40339
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/283018
+http://ky-iptv.com:80/stevewalker/stevewalker/2210032.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/688714
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/6269
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://satelliteiptv.xyz:8080/afwjt6q91g/m0f41hnena/694748
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/6275
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/52835
@@ -360,7 +360,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://streamone.simpaisa.com:8443/pitvlive1/voa.smil/chunklist_w666594064_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
-https://cdn.ta.tapmad.com/motorvision/bcded471f46d663ed6bb7cd7813357fc.sdp/motorvision/streammotor2/chunks.m3u8
+http://ky-iptv.com:80/stevewalker/stevewalker/2115165.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
