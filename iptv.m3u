@@ -133,10 +133,10 @@ http://208.86.19.13:81/622.stream/index.m3u8
 https://617a5b61818c7.streamlock.net/humtv/humtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://208.86.19.13:81/692.stream/index.m3u8
+http://appleiptv.com:80/7863/7863/20911
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Unramed.png" group-title="Entertainment",TV One
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
 http://flix12.site:8080/rodiansun/l5ele3ynuh/9207
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
@@ -172,7 +172,7 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3163
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5642
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://208.86.19.13:81/833.stream/index.m3u8
+http://appleiptv.com:80/7863/7863/43000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
 http://208.86.19.13:81/733.stream/index.m3u8
@@ -244,7 +244,7 @@ http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61586
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/40339
+http://ky-iptv.com:80/stevewalker/stevewalker/1116403.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://ky-iptv.com:80/stevewalker/stevewalker/2210032.ts
@@ -284,16 +284,16 @@ http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/110315
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13355
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/110315
+http://ky-iptv.com:80/stevewalker/stevewalker/1116407.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128229
+http://ky-iptv.com:80/stevewalker/stevewalker/1846762.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128230
+http://ky-iptv.com:80/stevewalker/stevewalker/1846763.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/128231
+http://ky-iptv.com:80/stevewalker/stevewalker/1846764.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
