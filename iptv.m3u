@@ -189,22 +189,24 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2327
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25961
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
-http://208.86.19.13:81/10.stream/index.m3u8
+http://ky-iptv.com:80/stevewalker/stevewalker/176257.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
-http://208.86.19.13:81/14.stream/index.m3u8
+http://ky-iptv.com:80/stevewalker/stevewalker/176246.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3sBgD3nxejji-sxv0umTnSSa8v5QJvVHf8r8Chw=s250" group-title="Kids",Peacock Jr.
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Peacockjr/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
+http://ky-iptv.com:80/stevewalker/stevewalker/176254.ts
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2824
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/M4X3Lb_NoSlwZ4WeLA4ke1VuoVnlr1_B550AN-paj1zAByZ_6_mSfAW5ZISu1vomEKiVp36opA4=s250" group-title="Kids",Paw Patrol
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/OfficialPawPatrol/live
+http://ky-iptv.com:80/stevewalker/stevewalker/389336.ts
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/OfficialPawPatrol/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/7786
@@ -238,7 +240,7 @@ http://ky-iptv.com:80/stevewalker/stevewalker/1847082.ts
 http://s1.pubnow.info:8080/Aris672882/62728638/99653
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61586
+http://ky-iptv.com:80/stevewalker/stevewalker/1847433.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
@@ -269,7 +271,7 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2813
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2812
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/53380
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/898
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/895
@@ -385,21 +387,18 @@ https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://s1.pubnow.info:8080/Aris672882/62728638/13108
-#http://45.92.69.203:1982/play/a03i
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
-#https://itvoign.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
 https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11372
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/473
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/11362
-#https://itvoign.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+http://appleiptv.com:80/7863/7863/43091
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
