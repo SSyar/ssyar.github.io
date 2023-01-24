@@ -194,6 +194,9 @@ http://ky-iptv.com:80/stevewalker/stevewalker/1859908.ts
 #EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8c414e0ee5b07785d32d14c171664164.jpg" group-title="Kids",Duck Tales
 http://ky-iptv.com:80/stevewalker/stevewalker/1859989.ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Goof_Troop.png/revision/latest?cb=20111206010350" group-title="Kids",Goof Troop
+http://ky-iptv.com:80/stevewalker/stevewalker/1859996.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
 https://bit.ly/3kCw6VJ
 
