@@ -185,6 +185,12 @@ https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 https://bit.ly/3H3g5zt
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/08/32/6d/08326d63ff9421f1d1b9db9934af0d0d--cartoon-images-classic-cartoons.jpg" group-title="Kids",Baby Looney Tunes
+http://ky-iptv.com:80/stevewalker/stevewalker/1859895.ts
+
+#EXTINF:-1 tvg-logo="https://target.scene7.com/is/image/Target/GUEST_92897806-e4ba-4993-b43e-43a24feb4029" group-title="Kids",Bluey
+http://ky-iptv.com:80/stevewalker/stevewalker/1859908.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
 https://bit.ly/3kCw6VJ
 
