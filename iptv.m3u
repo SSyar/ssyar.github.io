@@ -36,7 +36,7 @@ http://appleiptv.com:80/7863/7863/20885
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5653
+http://appleiptv.com:80/7863/7863/43054
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="News",Neo News
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/chunklist_w1121910003_b748000_slEng.m3u8
@@ -161,12 +161,12 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3158
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
-http://208.86.19.13:81/691.stream/index.m3u8
+http://appleiptv.com:80/7863/7863/43031
 #https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 #http://208.86.19.13:81/824.stream/index.m3u8
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3163
+http://appleiptv.com:80/7863/7863/20884
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5642
