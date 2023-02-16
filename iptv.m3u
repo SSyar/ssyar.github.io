@@ -204,7 +204,7 @@ https://bit.ly/3kCw6VJ
 http://ky-iptv.com:80/stevewalker/stevewalker/176257.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
-http://ky-iptv.com:80/stevewalker/stevewalker/176246.ts
+http://208.86.19.13:81/14.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3sBgD3nxejji-sxv0umTnSSa8v5QJvVHf8r8Chw=s250" group-title="Kids",Peacock Jr.
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Peacockjr/live
@@ -251,16 +251,16 @@ http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/768
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/776
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://ky-iptv.com:80/stevewalker/stevewalker/1847433.ts
+http://s1.pubnow.info:8080/Jean0188/016035/118364
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://ky-iptv.com:80/stevewalker/stevewalker/1116403.ts
+http://s1.pubnow.info:8080/Jean0188/016035/118580
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://ky-iptv.com:80/stevewalker/stevewalker/2210032.ts
+http://s1.pubnow.info:8080/Jean0188/016035/122171
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/6269
