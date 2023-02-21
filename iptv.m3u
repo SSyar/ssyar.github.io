@@ -180,9 +180,8 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5642
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://appleiptv.com:80/7863/7863/43000
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_india.png" group-title="Music",Music India
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1358
-#http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxZYTO2.png" group-title="Music",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
