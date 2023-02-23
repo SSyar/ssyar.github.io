@@ -9,14 +9,14 @@ https://edge.taghtia.com/sa/7.m3u8
 https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3161
+http://s1.pubnow.info:8080/Jean0188/016035/86087
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 #https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25952
+http://s1.pubnow.info:8080/Jean0188/016035/86177
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
@@ -175,7 +175,7 @@ http://appleiptv.com:80/7863/7863/43031
 http://appleiptv.com:80/7863/7863/20884
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/5642
+http://s1.pubnow.info:8080/Jean0188/016035/86075
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://appleiptv.com:80/7863/7863/43000
@@ -281,10 +281,10 @@ http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/280192
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 #http://208.86.19.13:81/710.stream/index.m3u8
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2813
+http://s1.pubnow.info:8080/Jean0188/016035/118578
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/2812
+http://s1.pubnow.info:8080/Jean0188/016035/118578
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/898
