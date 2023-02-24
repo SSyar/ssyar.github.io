@@ -208,6 +208,18 @@ https://bit.ly/3kCw6VJ
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
+https://bit.ly/41lplZ7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids Jr.
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/418461
 
