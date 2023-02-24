@@ -205,6 +205,9 @@ https://bit.ly/3H3g5zt
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
 https://bit.ly/3kCw6VJ
 
+#EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/418461
 
@@ -354,7 +357,7 @@ https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 http://appleiptv.com:80/7863/7863/27476
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s250" group-title="Information",ABC News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
