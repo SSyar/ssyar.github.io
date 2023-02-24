@@ -357,8 +357,8 @@ http://appleiptv.com:80/7863/7863/27476
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Iv4QbKjK63MB70UvQ22FnTWF8KN3-2qZ2FqeFDiI-HVmidR7GJKo6UrVSwR6vsyHvmdm1pfirrg=s250" group-title="Information",ABC News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
-
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/320px-Global_News.svg.png" group-title="Information",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
