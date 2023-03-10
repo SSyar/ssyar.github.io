@@ -218,7 +218,7 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
+https://legochannel-vizio.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/418461
