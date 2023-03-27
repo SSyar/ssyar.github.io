@@ -13,7 +13,7 @@ http://s1.pubnow.info:8080/Jean0188/016035/86087
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
-#https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#https://livestream.com/accounts/263040/events/10099734
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
 http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16064
@@ -212,10 +212,10 @@ https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
 https://bit.ly/41lplZ7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids
-https://happykids-roku.amagi.tv/playlist.m3u8
+https://happykids-vizio.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids Jr.
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+https://happykidsjunior-vizio.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
 https://legochannel-vizio.amagi.tv/playlist720p.m3u8
