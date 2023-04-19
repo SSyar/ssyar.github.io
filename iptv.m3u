@@ -340,6 +340,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/250x250.webp?type=color_onWhite" group-title="Sports",UFC
+https://live-content.xumo.com/3345/content/XM0JI8OQHCX2P7/24024475/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/313px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports
 #http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
 http://s1.pubnow.info:8080/Jean0188/016035/112283
@@ -348,7 +351,7 @@ http://s1.pubnow.info:8080/Jean0188/016035/112283
 #https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/yRMhS5M9ZV9nFW4vr5sNcnGxCgNgKEJ20dFKGYwL6vO73z0O26HwJ7VJV_B6rGW9ulGBzY_YJg=s250" group-title="Sports",CPLT20(Match Time Only)
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/OfficialCPLT20/live
@@ -399,7 +402,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://streamone.simpaisa.com:8443/pitvlive1/voa.smil/chunklist_w666594064_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/425260
+https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5d4863e2-1f82-4491-9751-5328b6f902e9/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
@@ -413,11 +416,16 @@ http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1138
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 #https://bit.ly/3IP2YTz
 https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/e76bf22f-78bb-494f-affc-fcb6db0effc0/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1136
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1137
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
+https://xplore-roku.amagi.tv/playlist404-p.m3u8
+#https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/0febcccc-af83-4ba9-9fe3-f8ea11b83aee/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
