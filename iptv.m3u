@@ -340,9 +340,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/250x250.webp?type=color_onWhite" group-title="Sports",UFC
-https://live-content.xumo.com/3345/content/XM0JI8OQHCX2P7/24024475/3.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/313px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports
 #http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
 http://s1.pubnow.info:8080/Jean0188/016035/112283
