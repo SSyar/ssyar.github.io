@@ -317,13 +317,13 @@ http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/894
 http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/851
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://s1.pubnow.info:8080/Jean0188/016035/118338
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146334.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://s1.pubnow.info:8080/Jean0188/016035/118339
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146335.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://s1.pubnow.info:8080/Jean0188/016035/118340
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
@@ -358,7 +358,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139162.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/889f9bd8-8048-4a6a-afad-202fa5e3cced/5.m3u8
@@ -411,17 +411,17 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://appleiptv.com:80/7863/7863/31670
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139209.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 #https://bit.ly/3IP2YTz
 https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/e76bf22f-78bb-494f-affc-fcb6db0effc0/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://appleiptv.com:80/7863/7863/31664
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139218.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://appleiptv.com:80/7863/7863/31629
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139219.ts
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://xplore-roku.amagi.tv/playlist404-p.m3u8
@@ -434,16 +434,18 @@ https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 https://bit.ly/3EZu9d9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
-https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139144.ts
+#https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
-https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139171.ts
+#https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
-http://appleiptv.com:80/7863/7863/31843
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166511.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_hd_world_in.png" group-title="Information",TLC
-http://appleiptv.com:80/7863/7863/43091
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139251.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
