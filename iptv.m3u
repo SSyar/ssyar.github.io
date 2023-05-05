@@ -211,7 +211,7 @@ https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 https://bit.ly/41lplZ7
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids
+#EXTINF:-1 tvg-logo="https://happykids.tv/svg/hkLogoVector.svg" group-title="Kids",Happy Kids
 https://happykids-vizio.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids Jr.
@@ -347,12 +347,6 @@ http://s1.pubnow.info:8080/Jean0188/016035/112283
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
 #https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRPKnIjR500xnn13nvF8y_qKhhMC66DjLJFhZNL=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Windies Cricket(Match Time Only)
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2MHTOXktfTK26aDKyQs3cQ/live
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/yRMhS5M9ZV9nFW4vr5sNcnGxCgNgKEJ20dFKGYwL6vO73z0O26HwJ7VJV_B6rGW9ulGBzY_YJg=s250" group-title="Sports",CPLT20(Match Time Only)
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/OfficialCPLT20/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
