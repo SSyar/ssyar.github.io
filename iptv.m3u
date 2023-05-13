@@ -47,8 +47,8 @@ https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/chunklist_w1121910003_b74
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw/live
-#https://617a5b61818c7.streamlock.net/humnews/humnews/playlist.m3u8
-https://ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
+https://617a5b61818c7.streamlock.net/humnews/humnews/playlist.m3u8
+#https://ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5mwDEzm4FzXKoHPBDnuUQQ/live
