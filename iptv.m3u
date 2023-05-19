@@ -1,22 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Religious",Quran TV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/en/live/qurantvsa
 https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/en/live/sunnatvsa
 https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://s1.pubnow.info:8080/Jean0188/016035/86087
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16116
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 #https://livestream.com/accounts/263040/events/10099734
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/62661
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16064
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
@@ -24,7 +22,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_vt34wimdCzdkrzVejwX9g/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrxeg
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16093
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -33,7 +31,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58004
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16117
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 https://ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
@@ -47,10 +45,9 @@ https://617a5b61818c7.streamlock.net/humnews/humnews/playlist.m3u8
 #https://ythls.onrender.com/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/3165
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16872
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live
 https://tapmadlive.akamaized.net/originlive/saamanews1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="News",Aaj News
@@ -96,10 +93,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB82Zom1MYh8VV4q7wXkfGA/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CapitalTVLive/live
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16106
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVNewsOfficial/live
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16061
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
@@ -116,23 +113,23 @@ https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w174991
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4XuwyU2ls9oygwRqef8LiA/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
-http://208.86.19.13:81/603.stream/index.m3u8
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16086
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://208.86.19.13:81/622.stream/index.m3u8
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16087
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://617a5b61818c7.streamlock.net/humtv/humtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://appleiptv.com:80/7863/7863/20911
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16081
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
-http://flix12.site:8080/rodiansun/l5ele3ynuh/9207
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16049
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7zrwyl
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16094
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
@@ -147,7 +144,7 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b74
 http://1next.live:2082/47474747/47474747/296801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://1next.live:2082/47474747/47474747/296741
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16113
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -161,7 +158,7 @@ http://appleiptv.com:80/7863/7863/43031
 http://appleiptv.com:80/7863/7863/20884
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/72778
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/516973
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://62.182.83.91:80/Mujdeuysl/L8nUgYsyxZAu/15543
@@ -174,7 +171,7 @@ https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
-https://bit.ly/3H3g5zt
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/25337
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/08/32/6d/08326d63ff9421f1d1b9db9934af0d0d--cartoon-images-classic-cartoons.jpg" group-title="Kids",Baby Looney Tunes
 #http://ky-iptv.com:80/stevewalker/stevewalker/1859895.ts
@@ -207,18 +204,16 @@ https://happykidsjunior-vizio.amagi.tv/playlist720lp.m3u8
 https://legochannel-vizio.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/418461
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/10925
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
 http://208.86.19.13:81/14.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/418460
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/disneyjunior/live
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/26587
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
-#https://bit.ly/3ZZrIAk
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/71166
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517210
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/407/741/png-clipart-paw-patrol-logo-paw-patrol-logo-at-the-movies-cartoons-thumbnail.png" group-title="Kids",Paw Patrol
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/459514
@@ -233,63 +228,58 @@ http://appleiptv.com:80/7863/7863/31717
 http://appleiptv.com:80/7863/7863/31166
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://appleiptv.com:80/7863/7863/42937
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16060
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://2hubs.ddns.net:25461/imran/AJodjCDVB0/73114
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58000
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16088
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
-#https://cdn.ta.tapmad.com/eurosports/0e98f3bd57122f21573225a95efedfcc.sdp/eurosports/streameuro1/chunks.m3u8
 https://tapmadlive.akamaized.net/originlive/eurosports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/768
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1423
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/769
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1424
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/776
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/47275
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://62.182.83.91:80/Mujdeuysl/L8nUgYsyxZAu/13898
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-epx8vXAz3mJMY3Wd2B_l2DU4vBA3djM5BQRrew=s250" group-title="Sports",PCB (Live Match Only)
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiWrjBhlICf_L_RK5y6Vrxw/live
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1421
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/377941
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/115614
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://62.182.83.91:80/Mujdeuysl/L8nUgYsyxZAu/13895
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1415
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/68949
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/39417
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/68955
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/39520
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/62429
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/141764
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/425260
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/141762
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-#http://208.86.19.13:81/710.stream/index.m3u8
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58220
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517242
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/69844
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517247
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",TEN 1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",TEN 1
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517223
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/67223
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517224
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58207
@@ -301,7 +291,7 @@ http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58207
 #http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13355
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://62.182.83.91:80/Mujdeuysl/L8nUgYsyxZAu/15966
+http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1416
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146334.ts
@@ -412,8 +402,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/71156
-#https://bit.ly/3EZu9d9
+http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/37948
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139144.ts
