@@ -219,10 +219,10 @@ http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517210
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/459514
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
-http://appleiptv.com:80/7863/7863/28133
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://appleiptv.com:80/7863/7863/31717
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 http://appleiptv.com:80/7863/7863/31166
@@ -346,10 +346,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
-http://appleiptv.com:80/7863/7863/27476
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139374.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="Information",CBS News
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/46492f97-5db7-404f-8517-e45d5278c8bd:SIN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s250" group-title="Information",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
