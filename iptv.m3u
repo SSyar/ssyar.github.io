@@ -81,22 +81,22 @@ https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25974
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
-http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25970
+#http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25970
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g=s250" group-title="News",24 News
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
+#https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suno-tv-us.png" group-title="News",Suno TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB82Zom1MYh8VV4q7wXkfGA/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16106
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fNoVOgw1L4qC1b3845I2nI4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16061
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fD-f3w2FGCDny7YneHHk4Vw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
@@ -104,7 +104,7 @@ https://ythls.onrender.com/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA
-https://ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fF1tXSogAXDCcSi1kNvsHg0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
@@ -113,23 +113,23 @@ https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w174991
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4XuwyU2ls9oygwRqef8LiA/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16086
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fAzGj5X0pk-kMIQhU6knMWs
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16087
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fFAhFnJiyd-R3Ab_q1S-sXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://617a5b61818c7.streamlock.net/humtv/humtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16081
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBfyJp-geGKDHfXSdYk1tn8
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16049
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fP9NUd-4bk2BGQFVa-N6JFo
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16094
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fCV-3D83Xa2GvNncsQannUA
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
@@ -141,7 +141,7 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://1next.live:2082/47474747/47474747/296801
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fDDh1QzKFrcj5jeXHr_RVX0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
 http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16113
@@ -154,14 +154,13 @@ http://appleiptv.com:80/7863/7863/43031
 #https://streamone.simpaisa.com:8443/pitvlive1/masala.smil/chunklist_w779863908_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-#http://208.86.19.13:81/824.stream/index.m3u8
-http://appleiptv.com:80/7863/7863/20884
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJI0M3kQmwpGgJHT6CkthRM
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/516973
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fKHYLHaSTJHmsxYqKJ-cA1s
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://62.182.83.91:80/Mujdeuysl/L8nUgYsyxZAu/15543
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fM6hD25nWsGsgo4aWhL95J4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxZYTO2.png" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
@@ -225,10 +224,10 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-http://appleiptv.com:80/7863/7863/31166
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16060
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fNT09IQiF3bopiIRVfHnn80
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://2hubs.ddns.net:25461/imran/AJodjCDVB0/73114
@@ -258,10 +257,10 @@ http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/115614
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1415
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/39417
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fMVLAIEGnuaJQJNPCzodmP0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/39520
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fAXMGgzVduvvCtWqvthXwdM
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fMtonivv93q5DRSapVa3jhM
@@ -275,14 +274,14 @@ http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fAUrDGXOY0Pl-agX3R-QX6c
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fOxaee5kh8_rag06YvacGAk
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",TEN 1
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517223
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fCozNts_4wFOnQC12xLBb_Y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/517224
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fEIY3gKAY_xktMGhavIE3iA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/58207
+http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJgMSRITBarWlmjDpcmUnNA
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 #http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/110315
