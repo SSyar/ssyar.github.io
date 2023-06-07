@@ -262,6 +262,9 @@ http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fMVLAIEGnuaJQJNPCzodmP0
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fAXMGgzVduvvCtWqvthXwdM
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
+https://hls.rtasport.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fMtonivv93q5DRSapVa3jhM
 
