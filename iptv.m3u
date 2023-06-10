@@ -416,7 +416,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139144.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139171.ts
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_science_in.png" group-title="Information",Discovery Science
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-science-us.svg" group-title="Information",Discovery Science
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/713
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
