@@ -386,8 +386,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/4163
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
-#https://bit.ly/3IP2YTz
-https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/e76bf22f-78bb-494f-affc-fcb6db0effc0/1.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/4177
