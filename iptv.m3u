@@ -331,9 +331,6 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139162.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
-https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/45a57977-c55a-41d5-8630-084d41f0efc2/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
 #http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
@@ -350,7 +347,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1611
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2425ff3e-d03d-402a-b625-67f51e8276f1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
-https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/81162dca-5068-472f-93c2-78156635c9a9/6.m3u8
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NBC-News-Now.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="Information",CBS News
 https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/46492f97-5db7-404f-8517-e45d5278c8bd:SIN/master.m3u8
@@ -374,7 +371,7 @@ https://live-hls-aje-ak.getaj.net/AJE/04.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/voa_tv_us.png" group-title="Information",VOA
-https://streamone.simpaisa.com:8443/pitvlive1/voa.smil/chunklist_w666594064_b748000_slEng.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a2ff8835-f0db-4a00-9825-584133312470/1.m3u8
