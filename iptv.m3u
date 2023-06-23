@@ -335,6 +335,9 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139162.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=HneQ6oxz5xoxLr896ZVm
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
 #http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
