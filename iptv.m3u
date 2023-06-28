@@ -33,7 +33,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://clientsportals.com:80/hAyoxQ3u/mHsKjCKN/16117
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1397
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 https://ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
@@ -406,7 +406,6 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/4178
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://xplore-roku.amagi.tv/playlist404-p.m3u8
-#https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/0febcccc-af83-4ba9-9fe3-f8ea11b83aee/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
