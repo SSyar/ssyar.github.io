@@ -105,7 +105,7 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PT
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PTVWorldOfficial/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
@@ -230,10 +230,10 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/16633
+http://kuchini.site:8080/Raionew/2e1df8e7/16633
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://2hubs.ddns.net:25461/imran/AJodjCDVB0/73114
+http://kuchini.site:8080/Raionew/2e1df8e7/295025
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/16626
