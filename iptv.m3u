@@ -95,17 +95,17 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/cha
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB82Zom1MYh8VV4q7wXkfGA/live
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fNoVOgw1L4qC1b3845I2nI4
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@CapitalTVLive/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fD-f3w2FGCDny7YneHHk4Vw
+#http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fD-f3w2FGCDny7YneHHk4Vw
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PTVNewsOfficial/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1379
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PTVWorldOfficial/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
-#http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fF1tXSogAXDCcSi1kNvsHg0
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMfwlaPLGMn44BKvHv15yzA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 https://streamone.simpaisa.com:8443/pitvlive1/ptvnational.smil/chunklist_w1749911667_b748000_slEng.m3u8
