@@ -392,7 +392,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://kuchini.site:8080/Raionew/2e1df8e7/4163
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
-https://bit.ly/3IP2YTz
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
