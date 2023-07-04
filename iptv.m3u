@@ -368,6 +368,9 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-japan-jp.png" group-title="Information",NHK World Japan
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg" group-title="Information",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png" group-title="Information",Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/04.m3u8
 
@@ -387,6 +390,9 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Information",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rt_doc_ru.png" group-title="Information",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
 http://kuchini.site:8080/Raionew/2e1df8e7/4163
