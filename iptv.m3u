@@ -33,7 +33,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-http://kuchini.site:8080/Raionew/2e1df8e7/1397
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/1397
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 https://ythls.onrender.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
@@ -77,7 +77,7 @@ https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w175417237_b748
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
-http://kuchini.site:8080/Raionew/2e1df8e7/267564
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/267564
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
 #http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/25970
@@ -142,13 +142,13 @@ https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b74
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fDDh1QzKFrcj5jeXHr_RVX0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://kuchini.site:8080/Raionew/2e1df8e7/1396
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/1396
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
-http://kuchini.site:8080/Raionew/2e1df8e7/19746
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/19746
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJI0M3kQmwpGgJHT6CkthRM
@@ -157,17 +157,14 @@ http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJI0M3kQmwpGgJHT6CkthRM
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fKHYLHaSTJHmsxYqKJ-cA1s
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://kuchini.site:8080/Raionew/2e1df8e7/1368
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jxZYTO2.png" group-title="Music",Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/1368
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
-http://kuchini.site:8080/Raionew/2e1df8e7/281177
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/281177
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/08/32/6d/08326d63ff9421f1d1b9db9934af0d0d--cartoon-images-classic-cartoons.jpg" group-title="Kids",Baby Looney Tunes
 #http://ky-iptv.com:80/stevewalker/stevewalker/1859895.ts
@@ -182,7 +179,7 @@ http://kuchini.site:8080/Raionew/2e1df8e7/281177
 #http://ky-iptv.com:80/stevewalker/stevewalker/1859996.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
-http://kuchini.site:8080/Raionew/2e1df8e7/9202
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/9202
 
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
@@ -203,16 +200,16 @@ https://legochannel-vizio.amagi.tv/playlist720p.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
-http://kuchini.site:8080/Raionew/2e1df8e7/157544
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/157544
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
 http://208.86.19.13:81/14.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
-http://kuchini.site:8080/Raionew/2e1df8e7/8608
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/8608
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
-http://kuchini.site:8080/Raionew/2e1df8e7/286732
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/286732
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/407/741/png-clipart-paw-patrol-logo-paw-patrol-logo-at-the-movies-cartoons-thumbnail.png" group-title="Kids",Paw Patrol
 http://ys-users.com:8080/Lolo/jENcZgQKEQ/459514
@@ -227,61 +224,61 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://kuchini.site:8080/Raionew/2e1df8e7/16633
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/16633
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://kuchini.site:8080/Raionew/2e1df8e7/295025
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/295025
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://kuchini.site:8080/Raionew/2e1df8e7/16626
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/16626
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/originlive/eurosports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://kuchini.site:8080/Raionew/2e1df8e7/692
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/692
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://kuchini.site:8080/Raionew/2e1df8e7/1555
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/1555
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://kuchini.site:8080/Raionew/2e1df8e7/100
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/100
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://kuchini.site:8080/Raionew/2e1df8e7/261
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/261
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://kuchini.site:8080/Raionew/2e1df8e7/157565
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/157565
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://kuchini.site:8080/Raionew/2e1df8e7/269
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/269
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://kuchini.site:8080/Raionew/2e1df8e7/11637
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/11637
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://kuchini.site:8080/Raionew/2e1df8e7/194354
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/194354
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://kuchini.site:8080/Raionew/2e1df8e7/279034
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/279034
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-http://kuchini.site:8080/Raionew/2e1df8e7/280192
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/280192
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://kuchini.site:8080/Raionew/2e1df8e7/3630
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/3630
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://kuchini.site:8080/Raionew/2e1df8e7/3631
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/3631
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://kuchini.site:8080/Raionew/2e1df8e7/16622
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/16622
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://kuchini.site:8080/Raionew/2e1df8e7/16621
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/16621
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJgMSRITBarWlmjDpcmUnNA
@@ -323,7 +320,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
-http://kuchini.site:8080/Raionew/2e1df8e7/76006
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/76006
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
@@ -347,7 +344,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
-http://kuchini.site:8080/Raionew/2e1df8e7/1611
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/1611
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2425ff3e-d03d-402a-b625-67f51e8276f1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
@@ -395,17 +392,17 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://kuchini.site:8080/Raionew/2e1df8e7/4163
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/4163
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://kuchini.site:8080/Raionew/2e1df8e7/4177
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/4177
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://kuchini.site:8080/Raionew/2e1df8e7/4178
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/4178
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://xplore-roku.amagi.tv/playlist404-p.m3u8
@@ -414,7 +411,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://kuchini.site:8080/Raionew/2e1df8e7/3630
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/3630
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139144.ts
@@ -425,7 +422,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139171.ts
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-http://kuchini.site:8080/Raionew/2e1df8e7/713
+http://gamsgo.cyou:8080/Raionew/2e1df8e7/713
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
