@@ -411,7 +411,8 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/3630
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/24924
+#http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139144.ts
