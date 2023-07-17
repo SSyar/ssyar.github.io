@@ -290,7 +290,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1416
+http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/215.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146334.ts
