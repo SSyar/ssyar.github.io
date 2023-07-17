@@ -99,10 +99,10 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@Ca
 https://ptvstream2.nayatel.com/transcoder/ptvnewstrc_source/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
-https://z2cltd.akamaized.net/mini01/channels/live/ptv-world-live-separate-beam7mlkywm4pj-14-16/ptv-world-14-16-clear.m3u8
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PTVWorldOfficial/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
-https://z2cltd.akamaized.net/mini01/channels/live/ptv-home-live-separate-beamo9whb3lwrn-8-9/ptv-news-hd-8-9-clear.m3u8
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@PTVHomeEntertainment/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
 https://ptvstream2.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
@@ -281,13 +281,13 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/16622
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/16621
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJgMSRITBarWlmjDpcmUnNA
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-#http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/110315
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-#http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13355
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1416
