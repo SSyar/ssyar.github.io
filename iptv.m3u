@@ -288,7 +288,8 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/ts
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-http://113.212.111.246:8080/hls/col2.m3u8
+#http://113.212.111.246:8080/hls/col2.m3u8
+https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/215.m3u8
