@@ -221,7 +221,8 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
+#http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
+https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/16633
