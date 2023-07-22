@@ -179,7 +179,7 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/281177
 #http://ky-iptv.com:80/stevewalker/stevewalker/1859996.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
-https://nick.aryzap.com/d5d5ce1476b1edc756d7eb3087bbdcf2/64b78b5f/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8?|referer=https://aryzap.com/
+https://nick.aryzap.com/dfb83ed7a7e67b4512ea88b4a1f55be4/64bcdb43/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8?|referer=https://aryzap.com/
 
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
@@ -223,6 +223,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
 https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
+#https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/16633
