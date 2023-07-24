@@ -307,7 +307,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
-https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?X-Plex-Token=fLu1amA_a1gSr3RsUtzP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
@@ -413,7 +413,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/24924
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
 #http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
