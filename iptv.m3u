@@ -212,7 +212,7 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/8608
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/286732
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/407/741/png-clipart-paw-patrol-logo-paw-patrol-logo-at-the-movies-cartoons-thumbnail.png" group-title="Kids",Paw Patrol
-http://ys-users.com:8080/Lolo/jENcZgQKEQ/459514
+http://45.12.1.14:80/MDKraker/GwWZ9I296/39541
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
@@ -221,9 +221,8 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/94156.ts
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139125.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-#http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBe2svMrba0bjSVCXFMrptc
-https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
-#https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+#https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/16633
@@ -238,10 +237,10 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/16626
 https://tapmadlive.akamaized.net/originlive/eurosports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/692
+http://45.12.1.14:80/MDKraker/GwWZ9I296/3590
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/1555
+http://45.12.1.14:80/MDKraker/GwWZ9I296/3591
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/100
@@ -265,22 +264,22 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/194354
 https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/279034
+http://45.12.1.14:80/MDKraker/GwWZ9I296/33654
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/280192
+http://45.12.1.14:80/MDKraker/GwWZ9I296/33656
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/3630
+http://45.12.1.14:80/MDKraker/GwWZ9I296/18807
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/3631
+http://45.12.1.14:80/MDKraker/GwWZ9I296/10165
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/16622
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWLJR9YfpdHjn_9ETP01P4k/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/16621
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJfuRv3GEpYnBRtvAE7lqhVA/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/ts
