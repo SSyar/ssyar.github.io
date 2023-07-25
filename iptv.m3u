@@ -295,13 +295,13 @@ https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/215.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146334.ts
+http://27.0.232.118:80/play/5Nwn3MYzfTbtmBJCfeLeRxgS8meTdhNIVUTtxLejo5I/ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146335.ts
+http://27.0.232.118:80/play/5Nwn3MYzfTbtmBJCfeLeRwmC1Dbe1QcoRPRfdLojUtU/ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
+http://27.0.232.118:80/play/5Nwn3MYzfTbtmBJCfeLeR3SkfHXrBf39na2nbCc3oCQ/ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
