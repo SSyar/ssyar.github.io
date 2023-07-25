@@ -307,7 +307,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?X-Plex-Token=fLu1amA_a1gSr3RsUtzP
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
@@ -394,17 +394,17 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/4163
+http://45.12.1.14:80/MDKraker/GwWZ9I296/14603
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/4177
+http://45.12.1.14:80/MDKraker/GwWZ9I296/28070
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/4178
+http://45.12.1.14:80/MDKraker/GwWZ9I296/17923
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://xplore-roku.amagi.tv/playlist404-p.m3u8
@@ -413,7 +413,8 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
+http://45.12.1.14:80/MDKraker/GwWZ9I296/99916
+#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
 #http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
@@ -425,7 +426,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/139171.ts
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/713
+http://45.12.1.14:80/MDKraker/GwWZ9I296/11618
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
