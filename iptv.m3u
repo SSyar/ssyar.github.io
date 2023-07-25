@@ -353,7 +353,7 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/1611
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NBC-News-Now.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="Information",CBS News
-https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/46492f97-5db7-404f-8517-e45d5278c8bd:SIN/master.m3u8
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/fb91e3c0-a408-43d1-976d-70374d8ad709:SIN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s250" group-title="Information",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
