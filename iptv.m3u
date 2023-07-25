@@ -157,7 +157,7 @@ http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fJI0M3kQmwpGgJHT6CkthRM
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fKHYLHaSTJHmsxYqKJ-cA1s
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/1368
+http://202.176.3.76:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
