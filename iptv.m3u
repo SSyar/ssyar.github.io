@@ -307,7 +307,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/146336.ts
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
+https://edgesports-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-img-edgesports-sportstribal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
