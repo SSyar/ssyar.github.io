@@ -331,7 +331,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://45.12.1.14:80/MDKraker/GwWZ9I296/9028
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341520
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=HneQ6oxz5xoxLr896ZVm
@@ -419,8 +419,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://45.12.1.14:80/MDKraker/GwWZ9I296/99916
-#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?&X-Plex-Token=fLu1amA_a1gSr3RsUtzP
-#http://50.7.237.7:8081/SONYBBCEARTHHD/tracks-v1a1/index.m3u8
+#http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341517
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
