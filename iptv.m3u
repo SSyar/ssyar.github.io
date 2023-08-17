@@ -247,7 +247,7 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/14980
 http://45.12.1.14:80/MDKraker/GwWZ9I296/14926
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://45.12.1.14:80/MDKraker/GwWZ9I296/23450
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341544
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://45.12.1.14:80/MDKraker/GwWZ9I296/14750
@@ -277,10 +277,10 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/10165
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://45.12.1.14:80/MDKraker/GwWZ9I296/10168
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341558
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://45.12.1.14:80/MDKraker/GwWZ9I296/10170
+http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341559
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://103.141.2.37:25461/web/web/577
@@ -309,6 +309,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/edge_sport_uk.png" group-title="Sports",EDGE Sports
 https://edgesports-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-img-edgesports-sportstribal/CDN/playlist.m3u8
+#https://edgesports-sportstribal.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
