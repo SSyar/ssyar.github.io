@@ -87,7 +87,7 @@ https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suno-tv-us.png" group-title="News",Suno TV
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB82Zom1MYh8VV4q7wXkfGA/live
+https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@CapitalTVLive/live
@@ -125,7 +125,7 @@ http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBfyJp-geGKDHfXSdYk1tn8
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fP9NUd-4bk2BGQFVa-N6JFo
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fCV-3D83Xa2GvNncsQannUA
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
