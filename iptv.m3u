@@ -158,7 +158,7 @@ http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/82577
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1368
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
-https://tapmadlive.akamaized.net/originlive/cartoon1/chunklist.m3u8
+https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
@@ -383,8 +383,8 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8?&X-Plex-Token=x5s_JCCsUaDyVNG6syd5
-#https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8?&X-Plex-Token=x5s_JCCsUaDyVNG6syd5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
