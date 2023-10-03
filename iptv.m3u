@@ -103,7 +103,7 @@ https://z2cltd.akamaized.net/mini01/channels/live/ptv-world-live-separate-beamej
 https://z2cltd.akamaized.net/mini01/channels/live/ptv-home-live-separate-beam7z943xn1af-8-9/ptv-news-hd-8-9-clear.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
-https://ptvstream2.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
+https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_bolan_pk.png" group-title="Entertainment",PTV Bolan
 https://ptvstream2.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
@@ -223,7 +223,7 @@ http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/770
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-http://45.12.1.14:80/MDKraker/GwWZ9I296/10244
+http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295025
