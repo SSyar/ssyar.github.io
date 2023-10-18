@@ -333,7 +333,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341520
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=HneQ6oxz5xoxLr896ZVm
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=SzxGCWoQX_1_D3kJyFFd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://185.236.229.31:9981/play/a072
@@ -341,7 +341,9 @@ http://185.236.229.31:9981/play/a072
 #http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#http://208.86.19.13:81/20.stream/index.m3u8
+#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
@@ -414,7 +416,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 #https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wildearth-za.png" group-title="Information",Wild Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=-DwMbnpQi1eaBmk2HGwm
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=ss-rA8FWkHZ4iZrcJ9cN
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://45.12.1.14:80/MDKraker/GwWZ9I296/99916
@@ -422,16 +424,15 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/99916
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#http://45.12.1.14:80/MDKraker/GwWZ9I296/27013
 #https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#http://45.12.1.14:80/MDKraker/GwWZ9I296/11580
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
+#http://208.86.19.13:81/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-http://45.12.1.14:80/MDKraker/GwWZ9I296/11618
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
