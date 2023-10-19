@@ -269,6 +269,7 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/33656
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://121.91.60.67:8010/play/a00r/index.m3u8
+#http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://121.91.60.67:8010/play/a00s/index.m3u8
@@ -423,11 +424,11 @@ http://119.152.56.1:8000/play/a04a/index.m3u8
 #http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341517
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 #http://208.86.19.13:81/31.stream/index.m3u8
 
