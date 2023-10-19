@@ -429,6 +429,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2487/index.m3u8
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 #http://208.86.19.13:81/31.stream/index.m3u8
 
