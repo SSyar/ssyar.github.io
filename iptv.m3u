@@ -253,7 +253,7 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104670&extensi
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104668&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://45.12.1.14:80/MDKraker/GwWZ9I296/28905
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104669&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://45.12.1.14:80/MDKraker/GwWZ9I296/108338
@@ -268,11 +268,11 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104678&extensi
 http://45.12.1.14:80/MDKraker/GwWZ9I296/33656
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://121.91.60.67:8010/play/a00r/index.m3u8
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104673&extension=m3u8
 #http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://121.91.60.67:8010/play/a00s/index.m3u8
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104674&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
@@ -284,7 +284,7 @@ http://121.91.60.67:8010/play/a00t/index.m3u8
 http://121.91.60.67:8010/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://121.91.60.67:8010/play/a00u/index.m3u8
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104671&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
@@ -293,7 +293,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://103.118.76.146:1935/dhakacdn/gtv.stream/chunklist_w1059767291.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/215.m3u8
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
