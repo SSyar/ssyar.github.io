@@ -241,7 +241,7 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/3590
 http://45.12.1.14:80/MDKraker/GwWZ9I296/3591
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://45.12.1.14:80/MDKraker/GwWZ9I296/14980
+http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://45.12.1.14:80/MDKraker/GwWZ9I296/14926
