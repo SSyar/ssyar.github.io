@@ -213,7 +213,7 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/286732
 http://45.12.1.14:80/MDKraker/GwWZ9I296/39541
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/756
+http://113.190.66.239:8889/ultratv.php?id=3918
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/770
@@ -235,16 +235,16 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/10253
 https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://45.12.1.14:80/MDKraker/GwWZ9I296/3590
+http://113.190.66.239:8889/ultratv.php?id=8676
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://45.12.1.14:80/MDKraker/GwWZ9I296/3591
+http://113.190.66.239:8889/ultratv.php?id=8677
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://45.12.1.14:80/MDKraker/GwWZ9I296/14926
+http://113.190.66.239:8889/ultrahd.php?id=17931
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104670&extension=m3u8
@@ -256,7 +256,7 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104668&extensi
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104669&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://45.12.1.14:80/MDKraker/GwWZ9I296/108338
+http://113.190.66.239:8889/ultratv.php?id=294754
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://hls.rtasport.live/hls/stream.m3u8
