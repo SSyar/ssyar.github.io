@@ -9,7 +9,7 @@ https://edge.taghtia.com/sa/6.m3u8
 #http://185.236.229.31:9981/play/a017
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5058
+http://11612603.rsc.cdn77.me/AryQtv/index.m3u8?token=test
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
@@ -112,13 +112,13 @@ https://ptvstream2.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fAzGj5X0pk-kMIQhU6knMWs
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fFAhFnJiyd-R3Ab_q1S-sXU
+http://11612603.rsc.cdn77.me/GeoTez/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://617a5b61818c7.streamlock.net/humtv/humtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fBfyJp-geGKDHfXSdYk1tn8
+http://11612603.rsc.cdn77.me/HumSitaray/index.m3u8?token=test
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
@@ -146,7 +146,7 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/1396
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/19746
+http://11612603.rsc.cdn77.me/HumMasala/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1398
@@ -224,12 +224,13 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
+#http://11612603.rsc.cdn77.me/PTVSports/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295025
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://45.12.1.14:80/MDKraker/GwWZ9I296/10253
+http://11612603.rsc.cdn77.me/GeoSuper/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
