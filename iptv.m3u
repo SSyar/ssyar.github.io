@@ -330,7 +330,7 @@ http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=SzxGCWoQX_1_D3kJyFFd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
-http://185.236.229.31:9981/play/a072
+https://sc2022.stream-link.org/tv2306.php?id=e02
 #http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
 #http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
@@ -342,7 +342,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
 https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Information",FOX News
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592507021420642304/l0FPfXAr_400x400.png" group-title="Information",Live NOW Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2425ff3e-d03d-402a-b625-67f51e8276f1/1.m3u8
 
