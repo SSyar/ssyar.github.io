@@ -168,18 +168,6 @@ https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/281177
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/08/32/6d/08326d63ff9421f1d1b9db9934af0d0d--cartoon-images-classic-cartoons.jpg" group-title="Kids",Baby Looney Tunes
-#http://ky-iptv.com:80/stevewalker/stevewalker/1859895.ts
-
-#EXTINF:-1 tvg-logo="https://target.scene7.com/is/image/Target/GUEST_92897806-e4ba-4993-b43e-43a24feb4029" group-title="Kids",Bluey
-#http://ky-iptv.com:80/stevewalker/stevewalker/1859908.ts
-
-#EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8c414e0ee5b07785d32d14c171664164.jpg" group-title="Kids",Duck Tales
-#http://ky-iptv.com:80/stevewalker/stevewalker/1859989.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Goof_Troop.png/revision/latest?cb=20111206010350" group-title="Kids",Goof Troop
-#http://ky-iptv.com:80/stevewalker/stevewalker/1859996.ts
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
 https://nick.aryzap.com/dfb83ed7a7e67b4512ea88b4a1f55be4/64bcdb43/v1/01847abffd350b8ed59423613265/01847ac04a920b8ed5aa6ed04ab9/main.m3u8?|referer=https://aryzap.com/
 
@@ -213,8 +201,8 @@ http://gamsgo.cyou:8080/Raionew/2e1df8e7/8608
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/286732
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/407/741/png-clipart-paw-patrol-logo-paw-patrol-logo-at-the-movies-cartoons-thumbnail.png" group-title="Kids",Paw Patrol
-http://45.12.1.14:80/MDKraker/GwWZ9I296/39541
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="Kids",Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
 http://113.190.66.239:8889/ultratv.php?id=3918
