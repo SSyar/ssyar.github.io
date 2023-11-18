@@ -413,7 +413,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Token=ss-rA8FWkHZ4iZrcJ9cN
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://119.152.56.1:8000/play/a04a/index.m3u8
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 #http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341517
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
