@@ -391,8 +391,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://45.12.1.14:80/MDKraker/GwWZ9I296/14603
-
+http://198.16.100.90:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
+ 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
