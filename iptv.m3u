@@ -281,10 +281,10 @@ http://103.141.2.37:25461/live/web/web/577.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 #https://live.tsports.com/live/tsports_live_720/index.m3u8
-http://103.141.2.37:25461/live/web/web/586.m3u8
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-http://1161218186.rsc.cdn77.me/GaziTV/index.m3u8?token=test
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh_NGuSAk7fA&expires=1701358456&user=904698ac33f1493f863243acd18ff0a7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extension=m3u8
