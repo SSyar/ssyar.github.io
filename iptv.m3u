@@ -198,8 +198,8 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45587
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="Kids",Sonic
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/286732
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" group-title="Kids",Discovery Kids
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="Kids",Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
