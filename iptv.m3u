@@ -168,8 +168,11 @@ https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
 http://gamsgo.cyou:8080/Raionew/2e1df8e7/281177
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_us.png" group-title="Kids",Nick
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683175
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="Kids",Nick Jr.
+https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/2000.m3u8
@@ -397,6 +400,9 @@ http://198.16.100.90:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=1922
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=985
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 http://103.132.181.118:82/play/a006
