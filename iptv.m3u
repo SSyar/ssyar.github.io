@@ -166,7 +166,7 @@ https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/281177
+http://175.107.244.52:4457/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
