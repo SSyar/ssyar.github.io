@@ -208,10 +208,10 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
-http://113.190.66.239:8889/ultratv.php?id=3918
+https://247.mrgamingstreams.com/mrgamingfs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/770
+https://247c.mrgamingstreams.com/mrgamingtsn1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
@@ -291,6 +291,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extension=m3u8
+#https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2506/index.m3u8
@@ -328,7 +329,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341520
+https://247b.mrgamingstreams.com/mrgamingcnbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=SzxGCWoQX_1_D3kJyFFd
