@@ -293,13 +293,13 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2506/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
+http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-http://195.181.164.130:80/live.ts?channelId=157&deviceUser=deb&devicePass=deb&uid=21781
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
