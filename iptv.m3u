@@ -57,7 +57,7 @@ https://tapmadlive.akamaized.net/originlive/aajnews1/chunklist.m3u8
 https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/chunklist_w202767731_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
-https://streamone.simpaisa.com:8443/pitvlive1/sachtv.smil/chunklist_w1229836470_b748000_slEng.m3u8
+https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g=s250" group-title="News",City 21
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
