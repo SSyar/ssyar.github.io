@@ -161,7 +161,7 @@ http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/82577
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1368
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
-https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8
+https://tapmadlive.akamaized.net/tapmadold/cartoonhindi.smil/playlist.m3u8?
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
@@ -189,7 +189,7 @@ https://happykidsjunior-vizio.amagi.tv/playlist720lp.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=985
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids",PBS Kids
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=177333
