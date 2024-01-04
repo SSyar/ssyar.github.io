@@ -26,7 +26,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="News",Dunya News
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
@@ -158,7 +158,7 @@ http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1398
 http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/82577
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1368
+https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23647
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
@@ -236,7 +236,7 @@ http://89.187.167.94:80/live.ts?channelId=101&deviceUser=jeff1&devicePass=jeff1&
 http://89.187.167.94:80/live.ts?channelId=101&deviceUser=jeff1&devicePass=jeff1&uid=21890
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
+http://onrev.xyz:80/mag00:1A:79:5D:07:DA/PkBQf9ABcQ/187192
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/7339/index.m3u8
@@ -293,10 +293,10 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extensi
 #https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2506/index.m3u8
+http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2505/index.m3u8
+http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2506/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
