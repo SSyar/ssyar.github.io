@@ -230,13 +230,13 @@ http://11612603.rsc.cdn77.me/GeoSuper/index.m3u8?token=test
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://142.54.172.138/premium41/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+http://175.107.244.52:4457/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://142.54.172.138/premium42/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+http://175.107.244.52:4457/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://142.54.172.138/premium91/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+http://175.107.244.52:4457/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/7339/index.m3u8
