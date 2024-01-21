@@ -9,14 +9,14 @@ https://edge.taghtia.com/sa/6.m3u8
 #http://185.236.229.31:9981/play/a017
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://11612603.rsc.cdn77.me/AryQtv/index.m3u8?token=test
+http://103.131.214.129:9985/stream/channelid/737749571?ticket=68E5EE8B501F26F45ECEF10AC9DB569ECDDC3D7C&profile=pass
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 #https://livestream.com/accounts/263040/events/10099734
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157334
+http://103.131.214.129:9985/stream/channelid/1583497929?ticket=B57B884894289C49BC167B237B0F765F9748A711&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
@@ -44,7 +44,7 @@ https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
-https://ythls.armelin.one/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8
+http://103.131.214.129:9985/stream/channelid/318805830?ticket=18B4FD1A7D94C829053CA3DE2BD55268DF9FAA9F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?
@@ -121,7 +121,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0
 http://175.107.244.52:4457/play/a08i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://11612603.rsc.cdn77.me/HumSitaray/index.m3u8?token=test
+http://103.131.214.129:9985/stream/channelid/371593588?ticket=03513AA1A530F9F51BDC975DDC02A6C0E27EA8B2&profile=pass
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
@@ -140,25 +140,25 @@ https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplus
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fDDh1QzKFrcj5jeXHr_RVX0
+http://103.131.214.129:9985/stream/channelid/1821134525?ticket=C2E50445AD812C6DF752158158C80BA6BF301377&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://gamsgo.cyou:8080/Raionew/2e1df8e7/1396
+http://103.131.214.129:9985/stream/channelid/98279771?ticket=186B2DEB1A0919BA8CFBC2C95165CCC167FBA534&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
-http://11612603.rsc.cdn77.me/HumMasala/index.m3u8?token=test
+http://103.131.214.129:9985/stream/channelid/1211501350?ticket=12231317432D6B98E1E73C02445436A2D83CBD5D&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1398
+http://103.131.214.129:9985/stream/channelid/1645737821?ticket=EF3F7604CD3A319CCE78DA52C4F2C6CAD1E4C9E8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/82577
+http://103.131.214.129:9985/stream/channelid/198950354?ticket=9CDFEAF98FC0B447387EEA461BD47DBB93A5B8DA&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=23647
+http://103.131.214.129:9985/stream/channelid/903797591?ticket=94840D4E01D4A951B720ED87B27ECBDE0FFAAFE2&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
@@ -273,13 +273,13 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104674&extensi
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://103.83.23.133:8000/play/a024/index.m3u8
+http://103.131.214.129:9985/stream/channelid/226881119?ticket=5C36F2057C01782F4937ECBFF2C4A03E33680753&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://103.83.23.133:8000/play/a029/index.m3u8
+http://103.131.214.129:9985/stream/channelid/473383358?ticket=035A4EC0FDD861CA6553DD92012FD53FD291AE8C&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://103.141.2.37:25461/live/web/web/577.m3u8
+http://103.131.214.129:9985/stream/channelid/788301201?ticket=E015E3643AC019528A3B49DA4EDBA7E04BE3FC94&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 #https://live.tsports.com/live/tsports_live_720/index.m3u8
@@ -337,6 +337,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 https://sc2022.stream-link.org/tv2306.php?id=e02
+#https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
 #http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
 #http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
