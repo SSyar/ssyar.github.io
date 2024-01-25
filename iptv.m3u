@@ -221,7 +221,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #http://11612603.rsc.cdn77.me/PTVSports/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295025
+http://103.131.214.129:9985/stream/channelid/48687924?ticket=96223BBEDDB5222009131341C781681DCCB0D972&profile=pass
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 http://11612603.rsc.cdn77.me/GeoSuper/index.m3u8?token=test
@@ -263,11 +263,11 @@ http://142.54.172.138/premium369/playlist.m3u8?%7CReferer=https://olacast.live/&
 http://142.54.172.138/premium821/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104673&extension=m3u8
+http://103.131.214.129:9985/stream/channelid/174631324?ticket=B68A3D9462E077D1856D84A502B56C9C4F606693&profile=pass
 #http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104674&extension=m3u8
+http://103.131.214.129:9985/stream/channelid/920885750?ticket=75E57C4F6A8E975189A83FE429EC451D1F862F42&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
@@ -282,8 +282,7 @@ http://103.131.214.129:9985/stream/channelid/473383358?ticket=035A4EC0FDD861CA65
 http://103.131.214.129:9985/stream/channelid/788301201?ticket=E015E3643AC019528A3B49DA4EDBA7E04BE3FC94&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-#https://live.tsports.com/live/tsports_live_720/index.m3u8
-http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
+http://ddh2.nnotoplay.click/premium270/mono.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh_NGuSAk7fA&expires=1701358456&user=904698ac33f1493f863243acd18ff0a7
@@ -298,10 +297,12 @@ https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+http://142.54.172.138/premium33/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
 http://142.54.172.138/premium34/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+#https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
