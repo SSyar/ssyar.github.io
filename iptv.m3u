@@ -248,7 +248,7 @@ http://142.54.172.138/premium370/playlist.m3u8?%7CReferer=https://olacast.live/&
 http://142.54.172.138/premium65/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://142.54.172.138/premium368/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+https://247b.mrgamingstreams.com/mrgamingsscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://113.190.66.239:8889/ultratv.php?id=294754
@@ -291,14 +291,16 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#http://142.54.172.138/premium31/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+https://247b.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#http://142.54.172.138/premium31/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-#https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-http://142.54.172.138/premium33/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+https://247b.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#http://142.54.172.138/premium33/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
 http://142.54.172.138/premium34/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
