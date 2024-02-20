@@ -115,7 +115,7 @@ https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+http://103.131.214.129:9985/stream/channelid/1838307505?ticket=307CAD05F39D828CE2A62533058FCCAD338A6B50&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 http://175.107.244.52:4457/play/a08i/index.m3u8
@@ -263,23 +263,24 @@ http://142.54.172.138/premium369/playlist.m3u8?%7CReferer=https://olacast.live/&
 http://142.54.172.138/premium821/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://103.131.214.129:9985/stream/channelid/174631324?ticket=B68A3D9462E077D1856D84A502B56C9C4F606693&profile=pass
+http://103.2.153.38/trans1sd/smil:starsports1.smil/playlist.m3u8
 #http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://103.131.214.129:9985/stream/channelid/920885750?ticket=75E57C4F6A8E975189A83FE429EC451D1F862F42&profile=pass
+http://148.113.5.31:8106/play/a00u/index.m3u8
+#http://103.2.153.38/trans1sd/smil:starsports2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://103.131.214.129:9985/stream/channelid/226881119?ticket=5C36F2057C01782F4937ECBFF2C4A03E33680753&profile=pass
+http://103.2.153.38/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://103.131.214.129:9985/stream/channelid/473383358?ticket=035A4EC0FDD861CA6553DD92012FD53FD291AE8C&profile=pass
+http://103.2.153.38/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://103.131.214.129:9985/stream/channelid/788301201?ticket=E015E3643AC019528A3B49DA4EDBA7E04BE3FC94&profile=pass
+http://103.2.153.38/trans1sd/smil:tensports5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
