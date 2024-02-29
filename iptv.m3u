@@ -242,7 +242,7 @@ http://175.107.244.52:4457/play/a06y/index.m3u8
 https://catowrap.live/mrgamingmix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://142.54.172.138/premium370/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
@@ -268,8 +268,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/playlist.m3u8
 #http://ilookdbronx.megatv.fun/iptv/XSUQMZPLMB9EWK/2508/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://148.113.5.31:8106/play/a00u/index.m3u8
-#http://103.2.153.38/trans1sd/smil:starsports2.smil/playlist.m3u8
+#http://148.113.5.31:8106/play/a00u/index.m3u8
+http://103.2.153.38/trans1sd/smil:starsports2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
@@ -284,13 +284,13 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/playlist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-http://ddh2.nnotoplay.click/premium270/mono.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://testing.denver1769.in/51.php?id=6919
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=qXUd5oy8xJHh_NGuSAk7fA&expires=1701358456&user=904698ac33f1493f863243acd18ff0a7
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
 https://catowrap.live/mrgamingbtsport1.m3u8
