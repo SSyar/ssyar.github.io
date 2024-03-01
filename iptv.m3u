@@ -98,18 +98,8 @@ https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="Entertainment",PTV World
-https://ptvbkp.nayatel.com/transcoder/ptvworldtrc_source/playlist.m3u8
-#http://11612603.rsc.cdn77.me/PTVWorld/index.m3u8?token=test
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Entertainment",PTV National
-https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_bolan_pk.png" group-title="Entertainment",PTV Bolan
-https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -224,7 +214,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 https://catowrap.live/mrgamingasport.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://11612603.rsc.cdn77.me/GeoSuper/index.m3u8?token=test
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
@@ -414,10 +404,10 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=985
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://103.132.181.118:82/play/a006
+http://103.131.214.129:9985/stream/channelid/940961797?ticket=247AA5D4DA13DEDCF0B922FE41C9FCDC472E52BB&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+http://103.131.214.129:9985/stream/channelid/2036820770?ticket=5E21B8E61E142A31AF114FE6C05300FC98556DD2&profile=pass
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://xplore-roku.amagi.tv/playlist404-p.m3u8
