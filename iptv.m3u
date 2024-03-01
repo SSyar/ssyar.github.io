@@ -207,10 +207,10 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
-https://catowrap.live/mrgamingfs1.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57181
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-https://catowrap.live/mrgamingtsn1.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61554
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
@@ -255,7 +255,7 @@ https://catowrap.live/mrgamingsscric.m3u8
 http://113.190.66.239:8889/ultratv.php?id=294754
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
-https://hls.rtasport.live/hls/stream.m3u8
+#https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://142.54.172.138/premium369/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
@@ -335,13 +335,13 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-https://247b.mrgamingstreams.com/mrgamingcnbc.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57212
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=SzxGCWoQX_1_D3kJyFFd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
-https://sc2022.stream-link.org/tv2306.php?id=e02
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59863
 #https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
 #http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
 #http://www.filmon.com/vr-streams/27.high/playlist.m3u8
@@ -352,7 +352,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
-https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59915
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592507021420642304/l0FPfXAr_400x400.png" group-title="Information",Live NOW Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
