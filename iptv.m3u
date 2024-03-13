@@ -265,13 +265,13 @@ http://103.2.153.38/trans1sd/smil:starsports2.smil/playlist.m3u8
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://103.2.153.38/trans1sd/smil:tensports1.smil/playlist.m3u8
+https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=23816&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://103.2.153.38/trans1sd/smil:tensports2.smil/playlist.m3u8
+https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=23817&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://103.2.153.38/trans1sd/smil:tensports5.smil/playlist.m3u8
+http://103.120.172.74:5300
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://testing.denver1769.in/51.php?id=6919
