@@ -211,10 +211,11 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #http://11612603.rsc.cdn77.me/PTVSports/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-https://catowrap.live/mrgamingasport.m3u8
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1116499&extension=ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58000
+#http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58000
+https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=22157&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
