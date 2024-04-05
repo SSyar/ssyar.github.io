@@ -176,7 +176,7 @@ https://happykids-vizio.amagi.tv/playlist720lp.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=985
+https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -328,7 +328,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57212
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=SzxGCWoQX_1_D3kJyFFd
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59863
@@ -401,7 +401,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appVersion=DNT&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&sid=985
+https://r.mjh.nz/PlutoTV/640a64bd73e013000893d4e0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 http://103.131.214.129:9985/stream/channelid/940961797?ticket=247AA5D4DA13DEDCF0B922FE41C9FCDC472E52BB&profile=pass
@@ -420,6 +420,7 @@ https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://175.107.244.52:4457/play/a06u/index.m3u8
+#https://r.mjh.nz/PlutoTV/656535fc2c46f30008870fae-alt.m3u8
 #http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341517
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
