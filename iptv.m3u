@@ -327,10 +327,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57212
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59863
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
-#http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8 
-#http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -338,7 +336,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59915
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592507021420642304/l0FPfXAr_400x400.png" group-title="Information",Live NOW Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
