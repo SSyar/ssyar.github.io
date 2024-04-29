@@ -181,6 +181,9 @@ https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="Kids",Disney XD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=177333
 
