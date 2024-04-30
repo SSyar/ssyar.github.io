@@ -170,10 +170,10 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8
 https://bit.ly/41lplZ7
 
 #EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="Kids",Happy Kids
-https://happykids-vizio.amagi.tv/playlist720lp.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids Jr.
-https://happykidsjunior-vizio.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMhNf3p.jpeg" group-title="Kids",Paw Patrol
+https://r.mjh.nz/PlutoTV/62ea3ec626dc1900078e9f26-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
 https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
