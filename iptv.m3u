@@ -374,7 +374,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
-#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8?&X-Plex-Token=x5s_JCCsUaDyVNG6syd5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #https://tapmadlive.akamaized.net/tapmadold/motorvision.smil/playlist.m3u8?
 
@@ -392,7 +391,6 @@ http://198.16.100.90:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=1922
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Love-Nature.m3u8
-#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8?X-Plex-Token=WBBH6hDKRCEx9TuavKDj
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
 https://r.mjh.nz/PlutoTV/640a64bd73e013000893d4e0-alt.m3u8
@@ -413,9 +411,7 @@ https://xplore-roku.amagi.tv/playlist404-p.m3u8
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://175.107.244.52:4457/play/a06u/index.m3u8
-#https://r.mjh.nz/PlutoTV/656535fc2c46f30008870fae-alt.m3u8
-#http://livein1.com:8080/play/live.php?mac=00:1A:79:B1:85:5E&extension=ts&stream=341517
+https://r.mjh.nz/PlutoTV/656535fc2c46f30008870fae-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
