@@ -184,19 +184,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="Kids",Disney
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
 http://103.131.214.129:9985/stream/channelid/952379108?ticket=9D231D887921F2F9E0F9098E1216700D7FA70F36&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
 http://103.131.214.129:9985/stream/channelid/1181381246?ticket=F23B56630D12E1AABABA7CD15C195DD3392872EA&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="Kids",Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FS1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57181
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
@@ -232,13 +232,13 @@ http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/79402
 https://catowrap.live/mrgamingmix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://zeestb1.online/p1uiop.php?id=51939
+http://starshare.live:8080/live/Sylvia/Sylvia/143056.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://zeestb1.online/p1uiop.php?id=56351
+http://starshare.live:8080/live/Sylvia/Sylvia/148679.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://catowrap.live/mrgamingsscric.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/157939.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://113.190.66.239:8889/ultratv.php?id=294754
@@ -247,25 +247,25 @@ http://113.190.66.239:8889/ultratv.php?id=294754
 #https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/69759
+http://starshare.live:8080/live/Sylvia/Sylvia/4748.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
 http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/69761
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://zeestb1.online/p1uiop.php?id=57154
+http://103.131.214.129:9985/stream/channelid/354241180?ticket=B7ECC8C72E63D04853E4D5E81FA33D8AA78C60AB&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://zeestb1.online/p1uiop.php?id=45699
+http://103.131.214.129:9985/stream/channelid/1108496450?ticket=E6E7B284CAACF537DF01912F4B701A3AFC8741EC&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
 http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://zeestb1.online/p1uiop.php?id=46719
+http://103.131.214.129:9985/stream/channelid/1861657904?ticket=468DE211C33B07425922CC1E65ECA488A210E192&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://zeestb1.online/p1uiop.php?id=47904
+http://103.131.214.129:9985/stream/channelid/1695995393?ticket=D0A3F4AD0511DBC2F3A3AF26AB8C7B74126CA7F8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://103.131.214.129:9985/stream/channelid/2011739625?ticket=7C0743EA55FEE205186B3F8B821398A1AB2B4BF1&profile=pass
