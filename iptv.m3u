@@ -271,10 +271,10 @@ http://103.131.214.129:9985/stream/channelid/1695995393?ticket=D0A3F4AD0511DBC2F
 http://103.131.214.129:9985/stream/channelid/2011739625?ticket=7C0743EA55FEE205186B3F8B821398A1AB2B4BF1&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-http://zeestb1.online/p1uiop.php?id=55567
+http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-http://zeestb1.online/p1uiop.php?id=57730
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://zeestb1.online/p1uiop.php?id=52484
