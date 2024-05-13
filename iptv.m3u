@@ -1,12 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/qq/quran-tv-sa.png" group-title="Religious",Quran TV
-https://edge.taghtia.com/sa/7.m3u8
-#http://185.236.229.31:9981/play/a018
+http://121.91.61.106:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
-https://edge.taghtia.com/sa/6.m3u8
-#http://185.236.229.31:9981/play/a017
+#https://edge.taghtia.com/sa/6.m3u8
+http://121.91.61.106:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
 http://103.131.214.129:9985/stream/channelid/737749571?ticket=68E5EE8B501F26F45ECEF10AC9DB569ECDDC3D7C&profile=pass
@@ -164,7 +163,7 @@ https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8
+https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 https://bit.ly/41lplZ7
