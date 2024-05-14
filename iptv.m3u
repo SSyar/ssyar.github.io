@@ -236,6 +236,10 @@ http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/79402
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 https://catowrap.live/mrgamingmix.m3u8
 
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 http://starshare.live:8080/live/Sylvia/Sylvia/143056.ts
 
