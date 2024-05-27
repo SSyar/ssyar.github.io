@@ -267,9 +267,6 @@ http://103.131.214.129:9985/stream/channelid/354241180?ticket=B7ECC8C72E63D04853
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://103.131.214.129:9985/stream/channelid/1108496450?ticket=E6E7B284CAACF537DF01912F4B701A3AFC8741EC&profile=pass
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest/scale-to-width-down/250" group-title="Sports",Viaplay Xtra
-http://142.54.172.138/premium597/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
 http://103.131.214.129:9985/stream/channelid/1861657904?ticket=468DE211C33B07425922CC1E65ECA488A210E192&profile=pass
 
