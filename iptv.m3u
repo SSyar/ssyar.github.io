@@ -228,13 +228,13 @@ http://zeestb1.online/p1uiop.php?id=47014
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://zeestb1.online/p1uiop.php?id=37678
+#http://public.iptv18.tech/tata.php?id=206092&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
 http://zeestb1.online/p1uiop.php?id=37683
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/79402
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
 https://catowrap.live/mrgamingmix.m3u8
@@ -244,13 +244,13 @@ https://catowrap.live/mrgamingmix.m3u8
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://starshare.live:8080/live/Sylvia/Sylvia/143056.ts
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://starshare.live:8080/live/Sylvia/Sylvia/148679.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://starshare.live:8080/live/Sylvia/Sylvia/157939.ts
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://113.190.66.239:8889/ultratv.php?id=294754
