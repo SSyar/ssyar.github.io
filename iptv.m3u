@@ -244,7 +244,7 @@ https://catowrap.live/mrgamingmix.m3u8
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+http://public.iptv18.tech/tata.php?id=12141&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://starshare.live:8080/live/Sylvia/Sylvia/148679.ts
@@ -265,10 +265,10 @@ http://public.iptv18.tech/tata.php?id=28140&e=.m3u8
 http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/69761
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://103.131.214.129:9985/stream/channelid/354241180?ticket=B7ECC8C72E63D04853E4D5E81FA33D8AA78C60AB&profile=pass
+http://public.iptv18.tech/tata.php?id=12148&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://103.131.214.129:9985/stream/channelid/1108496450?ticket=E6E7B284CAACF537DF01912F4B701A3AFC8741EC&profile=pass
+http://public.iptv18.tech/tata.php?id=12150&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
 http://103.131.214.129:9985/stream/channelid/1861657904?ticket=468DE211C33B07425922CC1E65ECA488A210E192&profile=pass
