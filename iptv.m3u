@@ -189,10 +189,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
-http://103.131.214.129:9985/stream/channelid/952379108?ticket=9D231D887921F2F9E0F9098E1216700D7FA70F36&profile=pass
+http://public.iptv18.tech/tata.php?id=11639&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
-http://103.131.214.129:9985/stream/channelid/1181381246?ticket=F23B56630D12E1AABABA7CD15C195DD3392872EA&profile=pass
+http://public.iptv18.tech/tata.php?id=891&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
@@ -204,15 +204,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa
 https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/testmain.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57181
+http://public.iptv18.tech/tata.php?id=2059&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61554
+http://public.iptv18.tech/tata.php?id=2553&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://awstapmadstreaming.akamaized.net/hls/live/2095955/tataipl2023/level_2.m3u8
 #https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
-http://103.131.214.129:9985/stream/channelid/1036861532?ticket=77A4E24FB0F906F20471BBC61319F688309EDF60&profile=pass
+#http://103.131.214.129:9985/stream/channelid/1036861532?ticket=77A4E24FB0F906F20471BBC61319F688309EDF60&profile=pass
+http://public.iptv18.tech/tata.php?id=12166&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 #http://175.107.244.52:4457/play/a08g/index.m3u8
