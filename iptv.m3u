@@ -272,10 +272,10 @@ http://public.iptv18.tech/tata.php?id=12148&e=.m3u8
 http://public.iptv18.tech/tata.php?id=12150&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://supersonictv.live:8080/live/848695/652174/85647.m3u8
+http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://supersonictv.live:8080/live/848695/652174/85648.m3u8
+http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:0A:CA:4F
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://103.131.214.129:9985/stream/channelid/2011739625?ticket=7C0743EA55FEE205186B3F8B821398A1AB2B4BF1&profile=pass
