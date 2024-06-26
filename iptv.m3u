@@ -27,7 +27,7 @@ http://103.131.214.129:9985/stream/channelid/1583497929?ticket=B57B884894289C49B
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
-https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
+http://103.131.214.129:9985/stream/channelid/140283726?ticket=BD7B12515BF63C9B3949256392D72E815134105B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -36,16 +36,16 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
-https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
+http://103.131.214.129:9985/stream/channelid/1608163760?ticket=BB075A30BED92E7C8A1237C30BC640F58ED591DE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
-https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
+http://103.131.214.129:9985/stream/channelid/1888753550?ticket=8267B065F6170668CBD41CF56B3FEC3CFC733326&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="News",Neo News
 https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
-https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
+http://103.131.214.129:9985/stream/channelid/1771984758?ticket=EA548DF5B316B31B4C17A1B9BD24228F7E1DAB40&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
 http://103.131.214.129:9985/stream/channelid/318805830?ticket=18B4FD1A7D94C829053CA3DE2BD55268DF9FAA9F&profile=pass
@@ -63,16 +63,16 @@ https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
 https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g=s250" group-title="News",City 21
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
+#http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
-https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8
+http://103.131.214.129:9985/stream/channelid/1391256977?ticket=7F9D330CDDE3EE5B9842B647CE1632A430AA38EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
 https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w175417237_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
-https://ythls.armelin.one/channel/UCHlCp7kL8jC9HJrSVJuNJzA.m3u8
+http://103.131.214.129:9985/stream/channelid/94223935?ticket=8F1DA901207E401AAA0847691F8A86B600C6ADCC&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="News",ABN News
 https://cdn.bmstudiopk.com/abn/live/playlist.m3u8
@@ -81,7 +81,7 @@ https://cdn.bmstudiopk.com/abn/live/playlist.m3u8
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
-http://www.premiumiptvmk.com:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267564
+http://121.91.61.106:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
 https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
@@ -90,7 +90,7 @@ https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
 https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
-https://ythls.armelin.one/channel/UC6XLG5YjZfK1p5oY5MJ3NMw.m3u8
+http://121.91.61.106:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suno-tv-us.png" group-title="News",Suno TV
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
@@ -103,7 +103,7 @@ https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
-https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
+http://121.91.61.106:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -119,10 +119,10 @@ http://103.131.214.129:9985/stream/channelid/371593588?ticket=03513AA1A530F9F51B
 #https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
-http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fP9NUd-4bk2BGQFVa-N6JFo
+http://121.91.61.106:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+http://121.91.61.106:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
@@ -211,12 +211,14 @@ http://public.iptv18.tech/tata.php?id=2553&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 #https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #http://103.131.214.129:9985/stream/channelid/1036861532?ticket=77A4E24FB0F906F20471BBC61319F688309EDF60&profile=pass
-http://public.iptv18.tech/tata.php?id=12166&e=.m3u8
+#http://public.iptv18.tech/tata.php?id=12166&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 #http://175.107.244.52:4457/play/a08g/index.m3u8
-http://103.131.214.129:9985/stream/channelid/262238580?ticket=A26C5E8859EBE38945F014B83F481B6CE96869ED&profile=pass
+http://121.91.61.106:8000/play/a00l/index.m3u8
+#http://103.131.214.129:9985/stream/channelid/262238580?ticket=A26C5E8859EBE38945F014B83F481B6CE96869ED&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
 http://103.131.214.129:9985/stream/channelid/868069455?ticket=21947771BB4402C19CC86472E5D8977294B28920&profile=pass
@@ -267,16 +269,16 @@ http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/25029.m3u8
 http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/69761
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7340.m3u8
+http://103.131.214.129:9985/stream/channelid/319502366?ticket=4B81C0F24582C7BFB56747514374D4E0B4BE0F5F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7341.m3u8
+http://103.131.214.129:9985/stream/channelid/467812421?ticket=421551E675612911B5A7C2205C13DC802A9E8706&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7321.m3u8
+http://103.131.214.129:9985/stream/channelid/1910743307?ticket=4E166F178FC5F94F75B856658CF2343632CF9F30&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7322.m3u8
+http://103.131.214.129:9985/stream/channelid/278024710?ticket=4B0B95E3CBE7C7F3A08B51C43DAC448BE80C15A0&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://103.131.214.129:9985/stream/channelid/2011739625?ticket=7C0743EA55FEE205186B3F8B821398A1AB2B4BF1&profile=pass
