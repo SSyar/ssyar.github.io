@@ -221,7 +221,7 @@ http://121.91.61.106:8000/play/a00l/index.m3u8
 #http://103.131.214.129:9985/stream/channelid/262238580?ticket=A26C5E8859EBE38945F014B83F481B6CE96869ED&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://103.131.214.129:9985/stream/channelid/868069455?ticket=21947771BB4402C19CC86472E5D8977294B28920&profile=pass
+http://121.91.61.106:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 #http://zeestb1.online/p1uiop.php?id=47014
