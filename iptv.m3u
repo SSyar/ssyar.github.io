@@ -203,16 +203,16 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-http://supersonictv.live:8080/live/848695/652174/78936.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/50966.m3u8
 #http://public.iptv18.tech/tata.php?id=2059&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://supersonictv.live:8080/live/848695/652174/40467.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/57450.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-#https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 #http://121.91.61.106:8000/play/a04h/index.m3u8
-http://103.131.214.129:9985/stream/channelid/1036861532?ticket=77A4E24FB0F906F20471BBC61319F688309EDF60&profile=pass
+#http://103.131.214.129:9985/stream/channelid/1036861532?ticket=77A4E24FB0F906F20471BBC61319F688309EDF60&profile=pass
 #http://public.iptv18.tech/tata.php?id=12166&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
@@ -225,22 +225,22 @@ http://121.91.61.106:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 #http://zeestb1.online/p1uiop.php?id=47014
-http://supersonictv.live:8080/live/848695/652174/85534.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/23624.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/1683.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/29929.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/1684.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/29928.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://supersonictv.live:8080/live/848695/652174/78153.m3u8
+http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/2102.ts
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 #https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
@@ -254,10 +254,10 @@ http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/34615.m3u8
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/1415.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/4427.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/57450.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-http://supersonictv.live:8080/live/848695/652174/86870.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/57448.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
@@ -269,16 +269,16 @@ http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/25029.m3u8
 http://ott1.live:8080/GEOIPTVFHHHR45455646/pXuUuUEWJfTuFGRGTRGT/69761
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://103.131.214.129:9985/stream/channelid/319502366?ticket=4B81C0F24582C7BFB56747514374D4E0B4BE0F5F&profile=pass
+http://fabul.xyz:8080/live/301697737208119/71697737208610/53648.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://103.131.214.129:9985/stream/channelid/467812421?ticket=421551E675612911B5A7C2205C13DC802A9E8706&profile=pass
+http://fabul.xyz:8080/live/301697737208119/71697737208610/53649.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://103.131.214.129:9985/stream/channelid/1910743307?ticket=4E166F178FC5F94F75B856658CF2343632CF9F30&profile=pass
+http://fabul.xyz:8080/live/301697737208119/71697737208610/53629.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://103.131.214.129:9985/stream/channelid/278024710?ticket=4B0B95E3CBE7C7F3A08B51C43DAC448BE80C15A0&profile=pass
+http://fabul.xyz:8080/live/301697737208119/71697737208610/53630.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://103.131.214.129:9985/stream/channelid/2011739625?ticket=7C0743EA55FEE205186B3F8B821398A1AB2B4BF1&profile=pass
@@ -290,16 +290,16 @@ http://public.iptv18.tech/tata.php?id=12104&e=.m3u8
 http://supersonictv.live:8080/live/848695/652174/72671.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://public.iptv18.tech/tata.php?id=2084&e=.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/50462.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/128946.m3u8
+http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/2107.ts
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/128947.m3u8
+http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/2106.ts
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-http://supersonictv.live:8080/live/848695/652174/85647.m3u8
+http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/2105.ts
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
 http://zeestb1.online/p1uiop.php?id=56216
@@ -327,7 +327,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://public.iptv18.tech/tata.php?id=1940&e=.m3u8
+http://fabul.xyz:8080/live/301697737208119/71697737208610/50635.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
