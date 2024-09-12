@@ -170,13 +170,13 @@ https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kidoodle.tv/_ipx/s_256x256/btn-kidoodle-mobile.png" group-title="Kids",KidoodleTV
-https://jmp2.uk/SamsungTVPlus/USAK3508716A.m3u8
+https://jmp2.uk/sam-USAK3508716A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 https://bit.ly/41lplZ7
 
 #EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="Kids",Happy Kids
-https://jmp2.uk/SamsungTVPlus/USBC44000072I.m3u8
+https://jmp2.uk/sam-USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMhNf3p.jpeg" group-title="Kids",Paw Patrol
 https://jmp2.uk/PlutoTV/62ea3ec626dc1900078e9f26-alt.m3u8
@@ -188,7 +188,7 @@ https://jmp2.uk/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
-https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
+https://jmp2.uk/sam-INBD1300021X3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
 http://public.iptv18.tech/tata.php?id=11639&e=.m3u8
@@ -333,8 +333,7 @@ http://fabul.xyz:8080/live/301697737208119/71697737208610/50635.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
-https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
-#https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
+https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -342,7 +341,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+https://jmp2.uk/sam-USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592507021420642304/l0FPfXAr_400x400.png" group-title="Information",Live NOW Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -409,7 +408,7 @@ http://public.iptv18.tech/tata.php?id=2676&e=.m3u8
 http://public.iptv18.tech/tata.php?id=2665&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
-https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8
+https://jmp2.uk/sam-USBC2100008DP.m3u8
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
 #https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
