@@ -221,7 +221,8 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 http://103.131.214.129:9985/stream/channelid/262238580?ticket=A26C5E8859EBE38945F014B83F481B6CE96869ED&profile=pass
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Sports",A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
+#http://121.91.61.106:8000/play/a03o/index.m3u8
+http://103.131.214.129:9985/stream/channelid/868069455?ticket=DFE75A2BE5F9B096B9E4A01C8F877299982C7D26&profile=pass
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 #http://zeestb1.online/p1uiop.php?id=47014
@@ -269,19 +270,19 @@ http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/25029.m3u8
 http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/25031.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7340.m3u8
+http://103.131.214.129:9985/stream/channelid/319502366?ticket=21C776D23904C298D48DE8403139F7324352AEB5&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7341.m3u8
+http://103.131.214.129:9985/stream/channelid/467812421?ticket=AA07EF30CFB907556D41FC471044127625F3754B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7359.m3u8
+http://103.131.214.129:9985/stream/channelid/1910743307?ticket=8AC9ED75C19428ADB7EE5ABEAC3DD06CE23FE1D0&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/7357.m3u8
+http://103.131.214.129:9985/stream/channelid/278024710?ticket=3790EF93ADA0F6B961817105A4392C734587522E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://103.106.238.11:81/play/a05z
+http://103.131.214.129:9985/stream/channelid/158828450?ticket=A9CC60E5474613C0CBA882D73566188F99287982&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 http://public.iptv18.tech/tata.php?id=12104&e=.m3u8
