@@ -160,7 +160,7 @@ http://103.131.214.129:9985/stream/channelid/903797591?ticket=94840D4E01D4A951B7
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
 #http://208.86.19.13:81/33.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/ca/Baby_TV.png" group-title="Kids",Baby TV
 https://tapmadlive.akamaized.net/tapmadold/babytv.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
