@@ -155,7 +155,7 @@ http://103.131.214.129:9985/stream/channelid/1645737821?ticket=EF3F7604CD3A319CC
 http://103.131.214.129:9985/stream/channelid/198950354?ticket=9CDFEAF98FC0B447387EEA461BD47DBB93A5B8DA&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://103.131.214.129:9985/stream/channelid/903797591?ticket=94840D4E01D4A951B720ED87B27ECBDE0FFAAFE2&profile=pass
+http://175.107.244.52:4457/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
@@ -236,7 +236,7 @@ https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/1423.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/1424.ts
+http://175.107.244.52:4457/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/131.ts
@@ -408,7 +408,7 @@ https://jmp2.uk/plu-640a64bd73e013000893d4e0-alt.m3u8
 http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/1378.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://goldiptvofficiel.tv:25461/live/server-g-shaer/6YgGc8HkdkDHND/1379.ts
+http://175.107.244.52:4457/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://jmp2.uk/sam-USBC2100008DP.m3u8
@@ -420,7 +420,7 @@ https://jmp2.uk/sam-USBC2100008DP.m3u8
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-https://jmp2.uk/plu-656535fc2c46f30008870fae-alt.m3u8
+http://175.107.244.52:4457/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
