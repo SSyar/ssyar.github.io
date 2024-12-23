@@ -22,7 +22,8 @@ http://103.131.214.129:9985/stream/channelid/737749571?ticket=68E5EE8B501F26F45E
 #https://livestream.com/accounts/263040/events/10099734
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-http://103.131.214.129:9985/stream/channelid/1583497929?ticket=B57B884894289C49BC167B237B0F765F9748A711&profile=pass
+#http://103.131.214.129:9985/stream/channelid/1583497929?ticket=B57B884894289C49BC167B237B0F765F9748A711&profile=pass
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
@@ -383,6 +384,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #https://tapmadlive.akamaized.net/tapmadold/motorvision.smil/playlist.m3u8?
+#https://amg01329-otterainc-motorvisionnz-samsungnz-rdwm7.amagi.tv/playlist/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
