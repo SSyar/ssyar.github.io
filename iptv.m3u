@@ -180,16 +180,16 @@ https://bit.ly/41lplZ7
 https://jmp2.uk/sam-USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMhNf3p.jpeg" group-title="Kids",Paw Patrol
-https://jmp2.uk/plu-62ea3ec626dc1900078e9f26-alt.m3u8
+https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
-https://jmp2.uk/plu-60fb01a24795a6000762fe83-alt.m3u8
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
-https://jmp2.uk/sam-INBD1300021X3.m3u8
+https://bit.ly/4j03wav
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
@@ -349,6 +349,7 @@ https://jmp2.uk/sam-USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592507021420642304/l0FPfXAr_400x400.png" group-title="Information",Live NOW Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#https://stream1.cinerama.uz/1252/tracks-v1a1/playlist.m3u8
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2425ff3e-d03d-402a-b625-67f51e8276f1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
@@ -403,7 +404,7 @@ http://public.iptv18.tech/tata.php?id=2651&e=.m3u8
 https://lnc-love-nature.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
-https://jmp2.uk/plu-640a64bd73e013000893d4e0-alt.m3u8
+https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
@@ -422,6 +423,7 @@ https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://175.107.244.52:4457/play/a06u/index.m3u8
+#https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
