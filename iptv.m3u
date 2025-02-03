@@ -208,7 +208,8 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #http://public.iptv18.tech/tata.php?id=2059&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
@@ -429,6 +430,7 @@ https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
 http://175.107.244.52:4457/play/a06u/index.m3u8
+#https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 #https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
