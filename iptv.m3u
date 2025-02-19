@@ -207,7 +207,7 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.brecorder.com/primary/2023/01/63c1e52872e94.jpg" group-title="Sports",Tamasha Live
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/60/1/2025-icc-mens-champions-trophy-logo-png_seeklogo-601707.png" group-title="Sports",Tamasha Live
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?uuid=FFAAFFFF-1466-7f51-5d44-980c286e9bcb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
@@ -448,6 +448,7 @@ http://208.86.19.13:81/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
 http://92.114.85.72:8000/play/a0k2
+#http://89.36.94.225/live/956bassem/BHrMOpKtyb/34176.m3u8
 #http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
