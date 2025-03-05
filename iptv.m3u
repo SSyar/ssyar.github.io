@@ -275,9 +275,6 @@ https://starshare.live:443/live/qwe123/qwe123/415534.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
 https://starshare.live:443/live/qwe123/qwe123/415536.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-1-in.png" group-title="Sports",Sports 18
-#https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://119.156.26.155:8000/play/a069/index.m3u8
 
