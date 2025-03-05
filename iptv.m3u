@@ -208,7 +208,7 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.brecorder.com/primary/2023/01/63c1e52872e94.jpg" group-title="Sports",Tamasha Live
-https://cdn3aws.tamashaweb.com/out/v1/10dadd89fd964a53b8aea27eeb5f0e25/index.m3u8?uuid=FFAAFFFF-4f85-d71b-0eff-e248216e5406
+https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8?uuid=FFAAFFFF-2679-b44f-8b72-b0ff00ba9921
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
@@ -252,8 +252,7 @@ https://starshare.live/live/qwe123/qwe123/274214.m3u8
 http://89.36.94.225/live/956bassem/BHrMOpKtyb/1492.m3u8
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
-#https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
-https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+https://jmp2.uk/sam-IN1300001NN.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 https://starshare.live/live/qwe123/qwe123/143056.m3u8
