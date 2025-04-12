@@ -208,7 +208,7 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.brecorder.com/primary/2023/01/63c1e52872e94.jpg" group-title="Sports",Tamasha Live
-https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8?uuid=FFAAFFFF-2679-b44f-8b72-b0ff00ba9921
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?uuid=FFAAFFFF-eecd-9158-99a0-2ea86d4136cb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
@@ -223,9 +223,7 @@ http://212.102.60.231/TSN_1/index.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
-#http://175.107.244.52:4457/play/a08g/index.m3u8
-#http://121.91.61.106:8000/play/a00l/index.m3u8
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+http://121.91.61.106:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Sports",A Sports
 #http://121.91.61.106:8000/play/a03o/index.m3u8
