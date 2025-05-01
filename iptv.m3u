@@ -208,7 +208,7 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.brecorder.com/primary/2023/01/63c1e52872e94.jpg" group-title="Sports",Tamasha Live
-https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?uuid=FFAAFFFF-eecd-9158-99a0-2ea86d4136cb
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_alibaba-02.m3u8?aliyunols=on?uuid=FFAAFFFF-09bc-cc74-4a7b-e190745a33e8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
