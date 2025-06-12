@@ -69,7 +69,7 @@ https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
-http://103.131.214.129:9985/stream/channelid/1391256977?ticket=7F9D330CDDE3EE5B9842B647CE1632A430AA38EE&profile=pass
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6MzY6MDMgQU0maGFzaF92YWx1ZT1zdUF3Mmg2ZzJaNlJuVWlDK0RaNEhnPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
 https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w175417237_b748000_slEng.m3u8
@@ -84,7 +84,7 @@ https://cdn.bmstudiopk.com/abn/live/playlist.m3u8
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3kRHlXJ" group-title="News",Lahore Rang
-http://121.91.61.106:8000/play/a03q/index.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6Mzc6MzIgQU0maGFzaF92YWx1ZT1lMEhid09XZGNGdFFTRHlLT2FGczN3PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
 https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
@@ -93,7 +93,7 @@ https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
 https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
-http://121.91.61.106:8000/play/a043/index.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6Mzg6MDMgQU0maGFzaF92YWx1ZT1tKytZTHoraGhjWmx3YXhhbWRzcWxnPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/suno-tv-us.png" group-title="News",Suno TV
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
@@ -340,6 +340,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
