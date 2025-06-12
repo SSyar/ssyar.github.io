@@ -27,7 +27,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
 #http://208.86.19.13:81/621.stream/index.m3u8
-https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#https://cdn05khi.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDc6MzIgQU0maGFzaF92YWx1ZT1oV1FXTmJSbEUxUnBRby9OWVZGcjh3PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
 http://103.131.214.129:9985/stream/channelid/140283726?ticket=BD7B12515BF63C9B3949256392D72E815134105B&profile=pass
@@ -42,7 +44,7 @@ https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
-http://103.131.214.129:9985/stream/channelid/1888753550?ticket=8267B065F6170668CBD41CF56B3FEC3CFC733326&profile=pass
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NTA6NTMgQU0maGFzaF92YWx1ZT1aUmp4MGl5NVNFaTkveUtQSWh1aTJRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="News",Neo News
 https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
@@ -118,7 +120,7 @@ http://124.109.47.101/hls/stream1.m3u8
 http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
-http://175.107.244.52:4457/play/a08i/index.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDg6NTEgQU0maGFzaF92YWx1ZT1LajVDK0oyY25xVkZRdjFLOHphSTFRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
 http://103.131.214.129:9985/stream/channelid/371593588?ticket=03513AA1A530F9F51BDC975DDC02A6C0E27EA8B2&profile=pass
