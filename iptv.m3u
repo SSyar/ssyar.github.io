@@ -68,7 +68,7 @@ https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
 https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g=s250" group-title="News",City 21
-#http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw/live
+https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MzcgQU0maGFzaF92YWx1ZT1yeS9tQkFrVjgwQ2RvTkhFa1poNlpBPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6MzY6MDMgQU0maGFzaF92YWx1ZT1zdUF3Mmg2ZzJaNlJuVWlDK0RaNEhnPT0mdmFsaWRtaW51dGVzPTEw
@@ -89,7 +89,7 @@ https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6Mzc6MzIgQU0maGFzaF92YWx1ZT1lMEhid09XZGNGdFFTRHlLT2FGczN3PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
-https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/mashriqtv-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjQ6MTEgQU0maGFzaF92YWx1ZT16c0JwQnUxdnN1RFI5eVdFaDBKaTNRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g=s250" group-title="News",24 News
 https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
@@ -133,13 +133,14 @@ http://121.91.61.106:8000/play/a03r/index.m3u8
 http://121.91.61.106:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
-https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
+#https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MzA6MDQgQU0maGFzaF92YWx1ZT1OeG5nclZyTWkydHozeTAySlE0L29BPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/A-Plus_TV_Logo.png" group-title="Entertainment",A Plus
-https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp2/chunks.m3u8
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Entertainment",ATV
-https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/chunklist_w1055444500_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
@@ -151,8 +152,7 @@ http://103.131.214.129:9985/stream/channelid/98279771?ticket=186B2DEB1A0919BA8CF
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="Entertainment",Hum Masala
-#http://103.131.214.129:9985/stream/channelid/1211501350?ticket=12231317432D6B98E1E73C02445436A2D83CBD5D&profile=pass
-http://92.114.85.72:8000/play/a0oq
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MTEgQU0maGFzaF92YWx1ZT1zelFKbUJkeldnc1J4V0o5ZytUOHBBPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
 http://103.131.214.129:9985/stream/channelid/1645737821?ticket=EF3F7604CD3A319CCE78DA52C4F2C6CAD1E4C9E8&profile=pass
