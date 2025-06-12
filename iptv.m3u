@@ -38,7 +38,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="News",Dunya News
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="News",ARY News
+#EXTINF:-1 tvg-logo="https://bit.ly/4kFgiLW" group-title="News",ARY News
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
