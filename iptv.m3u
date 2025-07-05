@@ -67,7 +67,7 @@ https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GD_rvA7357ni-AI2EjFFzrm2rhchyAQImQa5wajc1i3JIQLvlcLKhKcr8RI-Ool7bhbvpm_g=s250" group-title="News",City 21
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MoCGZZpZrZMP_ZOUOXHkcPtbVFp-0_OiI8nNcfiHHVFenMtkV6Qse9Fmi_fOpwjpCzP557Gd=s400" group-title="News",City 21
 https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MzcgQU0maGFzaF92YWx1ZT1yeS9tQkFrVjgwQ2RvTkhFa1poNlpBPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_41_tv.png" group-title="News",City 41
@@ -123,8 +123,7 @@ http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDg6NTEgQU0maGFzaF92YWx1ZT1LajVDK0oyY25xVkZRdjFLOHphSTFRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="Entertainment",Hum Sitaray
-http://103.131.214.129:9985/stream/channelid/371593588?ticket=03513AA1A530F9F51BDC975DDC02A6C0E27EA8B2&profile=pass
-#https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/chunklist_w1312349368_b748000_slEng.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDEwOjMxOjA5IEFNJmhhc2hfdmFsdWU9QVJuWThlN3JNT1Vybi8wTzk3V1RXUT09JnZhbGlkbWludXRlcz0xMA==
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_pk.png" group-title="Entertainment",TV One
 http://121.91.61.106:8000/play/a03r/index.m3u8
