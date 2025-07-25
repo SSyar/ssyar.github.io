@@ -53,7 +53,7 @@ https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
 http://103.131.214.129:9985/stream/channelid/1771984758?ticket=EA548DF5B316B31B4C17A1B9BD24228F7E1DAB40&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
-http://103.131.214.129:9985/stream/channelid/318805830?ticket=18B4FD1A7D94C829053CA3DE2BD55268DF9FAA9F&profile=pass
+https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=DOpWIYzDozqJs3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Samaa_tv_pk.jpg" group-title="News",Samaa News
 https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?
