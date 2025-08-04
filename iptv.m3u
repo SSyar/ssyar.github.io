@@ -260,7 +260,7 @@ https://jmp2.uk/sam-IN1300001NN.m3u8
 https://starshare.live/live/qwe123/qwe123/143056.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-https://webhop.xyz:443/live/Santo123/Santo123/186605.m3u8
+https://CRICHDplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 https://starshare.live:443/live/qwe123/qwe123/171951.m3u8
@@ -287,7 +287,7 @@ http://119.156.26.155:8000/play/a06a/index.m3u8
 http://119.156.26.155:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://119.156.26.155:8000/play/a00c/index.m3u8
+http://182.176.185.207:7500/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://119.156.26.155:8000/play/a007/index.m3u8
@@ -415,10 +415,12 @@ https://lnc-love-nature.tubi.video/playlist.m3u8
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://212.102.60.231/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://jmp2.uk/sam-USBC2100008DP.m3u8
