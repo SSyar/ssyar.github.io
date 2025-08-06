@@ -174,6 +174,7 @@ https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="Kids",Nick Jr.
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
+#http://212.102.60.231/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",KidoodleTV
 https://jmp2.uk/sam-USAK3508716A.m3u8
@@ -433,7 +434,8 @@ http://175.107.244.52:4457/play/a06u/index.m3u8
 #https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+http://212.102.60.231/Animal_Planet/index.m3u8
 #https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
