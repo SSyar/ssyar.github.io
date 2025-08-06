@@ -220,18 +220,16 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 http://212.102.60.231/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
-#https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://175.107.244.52:4456/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Sports",A Sports
-#http://121.91.61.106:8000/play/a03o/index.m3u8
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+https://webhop.xyz/live/Santo123/Santo123/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
@@ -417,6 +415,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
 #http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#http://175.107.244.52:4457/play/a07b/index.m3u8
 http://212.102.60.231/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
@@ -434,21 +433,16 @@ http://175.107.244.52:4457/play/a06u/index.m3u8
 #https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
-http://92.114.85.72:8000/play/a0k3
-#http://89.36.94.225/live/956bassem/BHrMOpKtyb/1394.m3u8
-#http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
-#http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #http://92.114.85.72:8000/play/a0k0
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
-http://208.86.19.13:81/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-http://92.114.85.72:8000/play/a0k2
-#http://89.36.94.225/live/956bassem/BHrMOpKtyb/34176.m3u8
-#http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+https://webhop.xyz/live/Santo123/Santo123/148448.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/635px-NASA_TV.svg.png" group-title="Information",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
