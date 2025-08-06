@@ -14,24 +14,20 @@ https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
 http://175.107.244.52:4457/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
-http://103.131.214.129:9985/stream/channelid/737749571?ticket=68E5EE8B501F26F45ECEF10AC9DB569ECDDC3D7C&profile=pass
+http://175.107.244.52:4456/play/a04z/index.m3u8
 #http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 #https://livestream.com/accounts/263040/events/10099734
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="Religious",Peace TV
-#http://103.131.214.129:9985/stream/channelid/1583497929?ticket=B57B884894289C49BC167B237B0F765F9748A711&profile=pass
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_pk.png" group-title="News",GEO News
-#http://208.86.19.13:81/621.stream/index.m3u8
-#https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
-http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
-#https://cdn05khi.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDc6MzIgQU0maGFzaF92YWx1ZT1oV1FXTmJSbEUxUnBRby9OWVZGcjh3PT0mdmFsaWRtaW51dGVzPTEw
+https://cdn05khi.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDc6MzIgQU0maGFzaF92YWx1ZT1oV1FXTmJSbEUxUnBRby9OWVZGcjh3PT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
-http://103.131.214.129:9985/stream/channelid/140283726?ticket=BD7B12515BF63C9B3949256392D72E815134105B&profile=pass
+http://175.107.244.52:4456/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="News",92 News HD
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -40,7 +36,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://bit.ly/4kFgiLW" group-title="News",ARY News
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+http://175.107.244.52:4456/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NTA6NTMgQU0maGFzaF92YWx1ZT1aUmp4MGl5NVNFaTkveUtQSWh1aTJRPT0mdmFsaWRtaW51dGVzPTEw
@@ -76,7 +72,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAu
 https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w175417237_b748000_slEng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
-http://103.131.214.129:9985/stream/channelid/94223935?ticket=8F1DA901207E401AAA0847691F8A86B600C6ADCC&profile=pass
+https://cdn02khi.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114L/chunks.m3u8?nimblesessionid=28060678&wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNToxODowMiBQTSZoYXNoX3ZhbHVlPXNFTjdMaW9VbDJ6ZUl4clc5R054cUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="News",ABN News
 https://cdn.bmstudiopk.com/abn/live/playlist.m3u8
@@ -100,23 +96,20 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthS
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
-https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8
+http://175.107.244.52:4456/play/a05g/index.m3u8
 #http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@CapitalTVLive/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
-http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+http://175.107.244.52:4456/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
-http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+http://175.107.244.52:4456/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GfWLn3O.jpeg" group-title="Entertainment",Aur Life
 http://124.109.47.101/hls/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tez_pk.png" group-title="Entertainment",GEO Tezz
-http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
 https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDg6NTEgQU0maGFzaF92YWx1ZT1LajVDK0oyY25xVkZRdjFLOHphSTFRPT0mdmFsaWRtaW51dGVzPTEw
@@ -141,10 +134,10 @@ https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8?
 https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+http://175.107.244.52:4456/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://103.131.214.129:9985/stream/channelid/98279771?ticket=186B2DEB1A0919BA8CFBC2C95165CCC167FBA534&profile=pass
+http://175.107.244.52:4456/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -153,10 +146,10 @@ https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MTEgQU0maGFzaF92YWx1ZT1zelFKbUJkeldnc1J4V0o5ZytUOHBBPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music",ARY Musik
-http://103.131.214.129:9985/stream/channelid/1645737821?ticket=EF3F7604CD3A319CCE78DA52C4F2C6CAD1E4C9E8&profile=pass
+http://175.107.244.52:4456/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+http://175.107.244.52:4456/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://175.107.244.52:4457/play/a059/index.m3u8
@@ -198,10 +191,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://bit.ly/4j03wav
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+http://212.102.60.231/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
@@ -214,8 +207,7 @@ https://webhop.xyz/live/Santo123/Santo123/148680.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
-#http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#http://public.iptv18.tech/tata.php?id=2059&e=.m3u8
+#http://212.102.60.231/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
@@ -227,7 +219,8 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 http://175.107.244.52:4456/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Sports",A Sports
-https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
+http://175.107.244.52:4456/play/a04p/index.m3u8
+#https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
 https://webhop.xyz/live/Santo123/Santo123/101.m3u8
@@ -329,10 +322,9 @@ https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/5442.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
-#http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.bloomberg.com/live
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
+http://212.102.60.231/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
@@ -402,7 +394,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
-http://public.iptv18.tech/tata.php?id=2651&e=.m3u8
+https://webhop.xyz/live/Santo123/Santo123/143104.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="Information",Love Nature
 https://lnc-love-nature.tubi.video/playlist.m3u8
@@ -411,11 +403,10 @@ https://lnc-love-nature.tubi.video/playlist.m3u8
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
-#http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#http://212.102.60.231/National_Geographic/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
-#http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #http://175.107.244.52:4457/play/a07b/index.m3u8
 http://212.102.60.231/Nat_Geo_Wild/index.m3u8
 
@@ -439,7 +430,7 @@ http://212.102.60.231/Animal_Planet/index.m3u8
 #https://tapmadlive.akamaized.net/originlive/animal1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://212.102.60.231/Discovery_Channel/index.m3u8
 #http://92.114.85.72:8000/play/a0k0
 #https://tapmadlive.akamaized.net/originlive/discovery1/chunklist.m3u8
 
