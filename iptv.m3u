@@ -4,11 +4,13 @@
 #https://edge.taghtia.com/sa/7.m3u8
 #https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #http://175.107.244.52:4457/play/a068/index.m3u8
+#https://cdn12isb.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMDo1OSBBTSZoYXNoX3ZhbHVlPU1TZ3Q4OVNtaEdLQVo0Q2R1UGczQUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
 #https://edge.taghtia.com/sa/6.m3u8
 #https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+#https://cdn02khi.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMTozOSBBTSZoYXNoX3ZhbHVlPW1XZ1ovWU1EalhkbE1TVmVubG1KV0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
 http://175.107.244.52:4457/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
@@ -165,6 +167,7 @@ https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/ca/Baby_TV.png" group-title="Kids",Baby TV
 https://tapmadlive.akamaized.net/tapmadold/babytv.smil/playlist.m3u8?
+#https://cdn02khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMjoyMCBBTSZoYXNoX3ZhbHVlPStET0NhUkNpd2NoNmZobUNEdklEckE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
