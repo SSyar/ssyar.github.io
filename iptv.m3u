@@ -229,12 +229,10 @@ https://webhop.xyz/live/Santo123/Santo123/101.m3u8
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="Sports",Eurosports 1
-http://92.114.85.72:8000/play/a0gx
-#http://45.159.74.14/Eurosport/manifest.m3u8
+http://tooontv.com:999/live/ere3444h/agape/1026.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="Sports",Eurosports 2
-#http://175.107.244.52:4457/play/a06w/index.m3u8
-http://92.114.85.72:8000/play/a0gy
+http://tooontv.com:999/live/ere3444h/agape/1027.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
