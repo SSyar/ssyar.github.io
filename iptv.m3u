@@ -45,7 +45,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8?wmsAuth
 https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
-http://103.131.214.129:9985/stream/channelid/1771984758?ticket=EA548DF5B316B31B4C17A1B9BD24228F7E1DAB40&profile=pass
+http://116.90.120.149:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
 https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=DOpWIYzDozqJs3
@@ -249,10 +249,10 @@ https://jmp2.uk/sam-IN1300001NN.m3u8
 https://starshare.live/live/qwe123/qwe123/143056.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-https://CRICHDplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric&e=.m3u8
+http://116.90.120.149:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://starshare.live:443/live/qwe123/qwe123/171951.m3u8
+http://116.90.120.149:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
 http://vipplan.top:8080/live/VIP0125171786443983/43586b0e07a7/1704.m3u8
@@ -267,19 +267,19 @@ https://starshare.live:443/live/qwe123/qwe123/415534.m3u8
 https://starshare.live:443/live/qwe123/qwe123/415536.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://119.156.26.155:8000/play/a069/index.m3u8
+http://116.90.120.149:8000/play/a0ba/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://119.156.26.155:8000/play/a06a/index.m3u8
+http://116.90.120.149:8000/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://119.156.26.155:8000/play/a06b/index.m3u8
+http://116.90.120.149:8000/play/a0be/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
 http://182.176.185.207:7500/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://119.156.26.155:8000/play/a007/index.m3u8
+http://116.90.120.149:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/52500.m3u8
