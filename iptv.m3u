@@ -202,6 +202,9 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
 https://jmp2.uk/sam-GBBC430000128.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/2025_ACC_Asia_Cup.png" group-title="Sports",Asic Cup 2025
+https://cdn04khi-n.tamashaweb.com:8087/jazzauth/ASIACUP2025-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDU6MTM6MTggQU0maGFzaF92YWx1ZT1mYmh6OEV1T0N6MVdmZHNaV1lDcm13PT0mdmFsaWRtaW51dGVzPTYw
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_jQZlY9DE1xA8SGtJiIY7wDrfH6RHkPXAETvmmwGtfyzvLctStrmv-txfbRgO-2zgsmVCa8lfYU=s500" group-title="Sports",Sky Sports F1
 http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/508246.m3u8
 
@@ -214,6 +217,7 @@ http://212.102.60.231/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
+#https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjUgNzo1Nzo1MSBBTSZoYXNoX3ZhbHVlPVg2b20rbDFiZStYQ2p1dDlPaytVV3c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://175.107.244.52:4456/play/a042/index.m3u8
