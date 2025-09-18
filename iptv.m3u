@@ -206,7 +206,8 @@ https://jmp2.uk/sam-GBBC430000128.m3u8
 https://cdn04khi-n.tamashaweb.com:8087/jazzauth/ASIACUP2025-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDU6MTM6MTggQU0maGFzaF92YWx1ZT1mYmh6OEV1T0N6MVdmZHNaV1lDcm13PT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_jQZlY9DE1xA8SGtJiIY7wDrfH6RHkPXAETvmmwGtfyzvLctStrmv-txfbRgO-2zgsmVCa8lfYU=s500" group-title="Sports",Sky Sports F1
-http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/508246.m3u8
+http://178.33.239.54:8080/508/index.m3u8
+#https://7pal.short.gy/ssportsf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
@@ -242,7 +243,7 @@ http://tooontv.com:999/live/ere3444h/agape/1027.m3u8
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-https://looooooool.footfast.net/event/449.m3u8
+http://178.33.239.54:8080/507/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 https://jmp2.uk/sam-IN1300001NN.m3u8
@@ -251,8 +252,8 @@ https://jmp2.uk/sam-IN1300001NN.m3u8
 http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/699799.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/508244.m3u8
-#http://116.90.120.149:8000/play/a027/index.m3u8
+http://178.33.239.54:8080/503/index.m3u8
+#https://7pal.short.gy/ssportscrk
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 https://looooooool.footfast.net/event/368.m3u8
@@ -266,9 +267,11 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
 http://tooontv.com:999/live/ere3444h/agape/226518.m3u8
+#https://7pal.short.gy/fox501au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
 http://tooontv.com:999/live/ere3444h/agape/226516.m3u8
+#https://7pal.short.gy/fox503au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://116.90.120.149:8000/play/a0ba/index.m3u8
