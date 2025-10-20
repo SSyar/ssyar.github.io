@@ -225,7 +225,7 @@ http://175.107.244.52:4456/play/a04p/index.m3u8
 #https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-https://webhop.xyz/live/Santo123/Santo123/101.m3u8
+http://175.107.244.52:4456/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
@@ -284,6 +284,12 @@ http://182.176.185.207:7500/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://116.90.120.149:8000/play/a0bk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="Sports",AD Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Sports",AD Sports 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/52500.m3u8
