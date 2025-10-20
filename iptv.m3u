@@ -287,7 +287,7 @@ http://116.90.120.149:8000/play/a0bk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
 #https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
+https://tgn.bozztv.com/gin-dvrfl05/gin-adsport1/index.m3u8?nimblesessionid=1266488934&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNSA1OjAwOjE0IEFNJmhhc2hfdmFsdWU9eTJlZTc0ZG4xazFFYmJPN3JkNEJtdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s400" group-title="Sports",AD Sports 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
