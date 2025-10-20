@@ -285,10 +285,10 @@ http://182.176.185.207:7500/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
 http://116.90.120.149:8000/play/a0bk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" group-title="Sports",AD Sports 1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" group-title="Sports",AD Sports 2
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s400" group-title="Sports",AD Sports 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
