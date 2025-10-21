@@ -163,11 +163,10 @@ https://tapmadlive.akamaized.net/tapmadold/babytv.smil/playlist.m3u8?
 #https://cdn02khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMjoyMCBBTSZoYXNoX3ZhbHVlPStET0NhUkNpd2NoNmZobUNEdklEckE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
-https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+http://212.102.60.231/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="Kids",Nick Jr.
-https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
-#http://212.102.60.231/NICK_JR/index.m3u8
+http://212.102.60.231/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",KidoodleTV
 https://jmp2.uk/sam-USAK3508716A.m3u8
@@ -188,10 +187,10 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
-https://bit.ly/4j03wav
+#https://bit.ly/4j03wav
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
-http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+http://212.102.60.231/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="Kids",Disney Jr.
 http://212.102.60.231/DISNEY_JR/index.m3u8
@@ -200,15 +199,15 @@ http://212.102.60.231/DISNEY_JR/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
-https://jmp2.uk/sam-GBBC430000128.m3u8
+https://jmp2.uk/stvp-GBBC430000128
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_jQZlY9DE1xA8SGtJiIY7wDrfH6RHkPXAETvmmwGtfyzvLctStrmv-txfbRgO-2zgsmVCa8lfYU=s500" group-title="Sports",Sky Sports F1
 #http://178.33.239.54:8080/508/index.m3u8
 https://7pal.short.gy/ssportsf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-http://23.237.104.106:8080/USA_FS1/index.m3u8
-#http://212.102.60.231/FOX_Sports_1/index.m3u8
+#http://23.237.104.106:8080/USA_FS1/index.m3u8
+http://212.102.60.231/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
