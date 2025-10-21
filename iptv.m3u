@@ -4,8 +4,8 @@
 #https://edge.taghtia.com/sa/7.m3u8
 #https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #http://175.107.244.52:4457/play/a068/index.m3u8
-#https://cdn12isb.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMDo1OSBBTSZoYXNoX3ZhbHVlPU1TZ3Q4OVNtaEdLQVo0Q2R1UGczQUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
-https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMDo1OSBBTSZoYXNoX3ZhbHVlPU1TZ3Q4OVNtaEdLQVo0Q2R1UGczQUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#https://myco.telflex.net:8088/SAUDIQURAN-FHD/video.m3u8?token=KsR3k27_sH3n-2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
 #https://edge.taghtia.com/sa/6.m3u8
@@ -36,7 +36,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://bit.ly/4kFgiLW" group-title="News",ARY News
-http://175.107.244.52:4456/play/a04y/index.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjI5OjIxIEFNJmhhc2hfdmFsdWU9TGx4Wm5KS3czNGtoOU0yUkUveWdGUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYnews-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NTA6NTMgQU0maGFzaF92YWx1ZT1aUmp4MGl5NVNFaTkveUtQSWh1aTJRPT0mdmFsaWRtaW51dGVzPTEw
@@ -134,10 +134,10 @@ https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8?
 https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Entertainment",ARY Digital
-http://175.107.244.52:4456/play/a051/index.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjI5OjUwIEFNJmhhc2hfdmFsdWU9Mi9TVld1Q24wUEVaNTdkd3o2bStKQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Entertainment",ARY Zindagi
-http://175.107.244.52:4456/play/a050/index.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjMwOjQwIEFNJmhhc2hfdmFsdWU9dHBFNEZHZ1ZlaXpPSzJ5V2trY1FIUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="Entertainment",Play Entertainment
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
@@ -149,7 +149,7 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAut
 http://175.107.244.52:4456/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8x_music_pk.png" group-title="Music",8XM
-http://175.107.244.52:4456/play/a03x/index.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjMxOjI2IEFNJmhhc2hfdmFsdWU9dDJRODNLKzZzZTR6ekoxUjJOTDVwdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/8xm-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
 http://175.107.244.52:4457/play/a059/index.m3u8
