@@ -224,7 +224,8 @@ http://175.107.244.52:4456/play/a04p/index.m3u8
 #https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-http://175.107.244.52:4456/play/a06z/index.m3u8
+#http://175.107.244.52:4456/play/a06z/index.m3u8
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
