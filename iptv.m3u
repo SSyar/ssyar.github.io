@@ -122,7 +122,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8?wmsAu
 http://121.91.61.106:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2019/09/cropped-logo1-1.png" group-title="Entertainment",Express Entertainment
-http://121.91.61.106:8000/play/a01e/index.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNSA1OjE2OjIyIFBNJmhhc2hfdmFsdWU9TUl0RWYxRnJJZ2tqdGxwRW5KcVQ3UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="Entertainment",AAJ Entertainment
 #https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w604634018_b748000_slEng.m3u8
