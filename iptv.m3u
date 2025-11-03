@@ -431,9 +431,8 @@ https://jmp2.uk/sam-USBC2100008DP.m3u8
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
-http://175.107.244.52:4457/play/a06u/index.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BBC-Earth-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI1IDEwOjEzOjM3IEFNJmhhc2hfdmFsdWU9Y0I4WUwrVUZCNzFnK1gva0RxU1hCQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/BBC-Earth-abr/playlist.m3u8
 #https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
-#https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
 #https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
