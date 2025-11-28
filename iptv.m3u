@@ -98,13 +98,15 @@ https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRh8ABCNIZdvj7mcXqq38T-XrROcIFGt5xlgypp-Q=s250" group-title="News",Capital TV
 http://175.107.244.52:4456/play/a05g/index.m3u8
-#http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.youtube.com/@CapitalTVLive/live
+#https://ml-pull-dvc-myco.io:2096/CAPITAL_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="News",PTV News
 http://175.107.244.52:4456/play/a040/index.m3u8
+#https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNSA2OjM1OjI4IEFNJmhhc2hfdmFsdWU9UEN1YWptTlJraG9NTFh5YXN0ODh6UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNews-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Entertainment",PTV Home
 http://175.107.244.52:4456/play/a03z/index.m3u8
+#https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNSA2OjM2OjE5IEFNJmhhc2hfdmFsdWU9bzI3ejMvTVBnKzZUZFh4Y0NGeUtpUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVHome-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_me.png" group-title="Entertainment",GEO Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -222,6 +224,7 @@ https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV Sports
 http://175.107.244.52:4456/play/a042/index.m3u8
+#https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNSA2OjM3OjAzIEFNJmhhc2hfdmFsdWU9UHA4a3hGd2dBWWwzS2QrTEx0ZDRHQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="Sports",A Sports
 http://175.107.244.52:4456/play/a04p/index.m3u8
@@ -281,13 +284,13 @@ http://116.90.120.149:8000/play/a0ba/index.m3u8
 http://116.90.120.149:8000/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://116.90.120.149:8000/play/a0be/index.m3u8
+http://51.15.7.9:2905/ten1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://182.176.185.207:7500/play/a06z/index.m3u8
+http://51.15.7.9:2905/ten2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://116.90.120.149:8000/play/a0bk/index.m3u8
+http://51.15.7.9:2905/ten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
