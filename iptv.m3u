@@ -206,7 +206,7 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 https://jmp2.uk/stvp-GBBC430000128
 
 #EXTINF:-1 tvg-logo="https://iili.io/KZN8SXj.jpg" group-title="Sports",Tamasha Live
-https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_alibaba-02.m3u8?aliyunols=on
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_jQZlY9DE1xA8SGtJiIY7wDrfH6RHkPXAETvmmwGtfyzvLctStrmv-txfbRgO-2zgsmVCa8lfYU=s500" group-title="Sports",Sky Sports F1
 #http://178.33.239.54:8080/508/index.m3u8
