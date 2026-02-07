@@ -50,7 +50,7 @@ https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
 http://116.90.120.149:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="News",AbbTak News
-https://myco.telflex.net:8088/ABBTAKNEWS_FHD/video.m3u8?token=DOpWIYzDozqJs3
+https://cdn05khi.tamashaweb.com:8087/jazzauth/abbtak-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgODoxMzoxOCBBTSZoYXNoX3ZhbHVlPXNoWGdoQm0wUXkxeUFEbk9iQ3VHcVE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/abbtak-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Samaa_tv_pk.jpg" group-title="News",Samaa News
 https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?
@@ -217,7 +217,7 @@ https://7pal.short.gy/ssportsf1
 http://212.102.60.231/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://212.102.60.231/TSN_1/index.m3u8
+https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
@@ -232,8 +232,7 @@ http://175.107.244.52:4456/play/a04p/index.m3u8
 #https://webhop.xyz/live/Santo123/Santo123/43444.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/39Q0SS9" group-title="Sports",GEO Super
-#http://175.107.244.52:4456/play/a06z/index.m3u8
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v1a1/mono.ts.m3u8
+http://175.107.244.52:4456/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports",Eurosports
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
@@ -271,11 +270,9 @@ https://looooooool.footfast.net/event/420.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-#http://tooontv.com:999/live/ere3444h/agape/226518.m3u8
 https://7pal.short.gy/fox501au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-#http://tooontv.com:999/live/ere3444h/agape/226516.m3u8
 https://7pal.short.gy/fox503au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
