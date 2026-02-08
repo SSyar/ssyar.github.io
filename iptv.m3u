@@ -291,10 +291,10 @@ http://51.15.7.9:2905/ten2/index.m3u8
 http://51.15.7.9:2905/ten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s400" group-title="Sports",AD Sports 2
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
 https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/52500.m3u8
