@@ -277,7 +277,7 @@ https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=fab64b19
 https://7pal.short.gy/fox503au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://116.90.120.149:8000/play/a0ba/index.m3u8
+http://110.39.27.47:8001/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://116.90.120.149:8000/play/a0bo/index.m3u8
@@ -298,10 +298,10 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-https://starshare.live:443/live/rvdgdf7647564/bvchgfd235454/52500.m3u8
+http://103.229.254.25:7001/play/a0g4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
-http://supersonictv.live:8080/live/848695/652174/72671.m3u8
+http://103.229.254.25:7001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
 http://fortv.cc:8080/live/clarencekingrh@hotmail.com/pKgSdl4ZFX/58847.m3u8
