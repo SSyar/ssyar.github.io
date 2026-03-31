@@ -270,8 +270,7 @@ https://looooooool.footfast.net/event/420.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-#https://7pal.short.gy/fox501au
-https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=fab64b19bad8e83e8f736bf15aea46ea&exp=1774860806
+https://7pal.short.gy/fox501au
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
 https://7pal.short.gy/fox503au
