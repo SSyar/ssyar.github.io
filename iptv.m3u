@@ -284,23 +284,9 @@ http://110.39.27.47:8001/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
 http://116.90.120.149:8000/play/a0bo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports 1
-http://51.15.7.9:2905/ten1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports 2
-http://51.15.7.9:2905/ten2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Sports 5
-http://51.15.7.9:2905/ten5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s400" group-title="Sports",AD Sports 2
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-bd.png" group-title="Sports",TSports
-http://103.229.254.25:7001/play/a0g4/index.m3u8
+#http://103.229.254.25:7001/play/a0g4/index.m3u8
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gazi-tv-bd.png" group-title="Sports",Gazi TV
 http://103.229.254.25:7001/play/a06t/index.m3u8
