@@ -318,13 +318,13 @@ https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/313px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
