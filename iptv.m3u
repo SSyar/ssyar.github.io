@@ -250,13 +250,13 @@ http://tooontv.com:999/live/ere3444h/agape/1026.m3u8
 http://tooontv.com:999/live/ere3444h/agape/1027.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9kb2trbzEvcHJlbWl1bTkxL21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://178.33.239.54:8080/507/index.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9kZHk2L3ByZW1pdW00NDkvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
-https://jmp2.uk/sam-IN1300001NN.m3u8
+https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
 http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/699799.m3u8
@@ -265,11 +265,10 @@ http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/699799.m3u8
 https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9kb2trbzEvcHJlbWl1bTY1L21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://looooooool.footfast.net/event/368.m3u8
-#http://116.90.120.149:8000/play/a026/index.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9kb2trbzEvcHJlbWl1bTM2OC9tb25vLm0zdTglMjZkYXRhJTNEVDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBJTNEJTNE&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-https://looooooool.footfast.net/event/420.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS93aW5kL3ByZW1pdW00MjAvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
@@ -278,7 +277,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9kZHk2L3ByZW1pdW0zNjkvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-https://7pal.short.gy/fox503au
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW04MjEvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://110.39.27.47:8001/play/a006/index.m3u8
@@ -294,7 +293,7 @@ https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 http://103.229.254.25:7001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-http://fortv.cc:8080/live/clarencekingrh@hotmail.com/pKgSdl4ZFX/58847.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
 http://7pal.short.gy/tntspts1
@@ -349,10 +348,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="Information",Live NOW Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#https://stream1.cinerama.uz/1252/tracks-v1a1/playlist.m3u8
-#https://d2vv1kwm3dofeu.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2425ff3e-d03d-402a-b625-67f51e8276f1/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="Information",Fox News
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW0zNDcvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NBC-News-Now.m3u8
