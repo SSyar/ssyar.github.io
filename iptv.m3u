@@ -296,16 +296,16 @@ http://103.229.254.25:7001/play/a06t/index.m3u8
 https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-http://7pal.short.gy/tntspts1
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9uZnMvcHJlbWl1bTMxL21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-http://7pal.short.gy/tntspts2
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9uZnMvcHJlbWl1bTMyL21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-http://7pal.short.gy/tntspts3
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9uZnMvcHJlbWl1bTMzL21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
-http://7pal.short.gy/tntspts4
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS9uZnMvcHJlbWl1bTM0L21vbm8ubTN1OCUyNmRhdGElM0RUM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkElM0QlM0Q=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
@@ -323,16 +323,13 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-news-australia-us-au.png" group-title="Sports",Fox Sports News AU
-http://tooontv.com:999/live/ere3444h/agape/226513.m3u8
+#http://tooontv.com:999/live/ere3444h/agape/226513.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="Information",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_us.png" group-title="Information",CNBC
 https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW0zMDkvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Information",Rueters
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
