@@ -350,16 +350,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Information",Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
+https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS93aW5kL3ByZW1pdW0zNjYvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="Information",Fox News
 https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS96ZWtvL3ByZW1pdW0zNDcvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc-news-now-us.png" group-title="Information",NBC News
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NBC-News-Now.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="Information",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_9.m3u8
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/54c8fed7-7c36-4fef-9ed4-beda2cde6460:BRU/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s250" group-title="Information",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
