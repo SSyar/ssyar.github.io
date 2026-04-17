@@ -156,7 +156,7 @@ http://175.107.244.52:4456/play/a04x/index.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjMxOjI2IEFNJmhhc2hfdmFsdWU9dDJRODNLKzZzZTR6ekoxUjJOTDVwdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/8xm-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="Music",B4U Music
-http://175.107.244.52:4457/play/a059/index.m3u8
+http://103.180.212.191:3500/live/183.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
@@ -191,7 +191,7 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
-#https://bit.ly/4j03wav
+http://103.180.212.191:3500/live/559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
 http://212.102.60.231/DISNEY/index.m3u8
@@ -200,7 +200,7 @@ http://212.102.60.231/DISNEY/index.m3u8
 http://212.102.60.231/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
-https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+http://103.180.212.191:3500/live/554.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
 https://jmp2.uk/stvp-GBBC430000128
@@ -430,4 +430,4 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6989/index.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6968/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-https://tv.6giptv.net:443/live/9272862862/9262772627/659546.ts
+http://103.180.212.191:3500/live/568.m3u8
