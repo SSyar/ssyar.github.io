@@ -210,10 +210,10 @@ https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664a
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9283/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
+https://cdtest.global.ssl.fastly.net/1787066474~58b1619b9ecc29283a089620ac4ab5e6/channel/7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6521/index.m3u8
+https://cdtest.global.ssl.fastly.net/1787066474~bad63033d505ecd5d730df46fcad0da1/channel/58/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
@@ -254,11 +254,11 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9310/index.m3u8
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_cricket_my.png" group-title="Sports",ASTRO Cricket
-http://jmrk.xyz:5050/live/wm8237351@gmail.com/LkaZHX6Zvj/699799.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg" group-title="Sports",Cricbuzz
+https://cdtest.global.ssl.fastly.net/1787066474~7bea5e4d222bb61d1310d8b4d4b35489/channel/104/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
+https://cdtest.global.ssl.fastly.net/1787066474~b79fb00a193ff0e167d7698140a5cb26/channel/99/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
 https://tv.6giptv.net:443/live/9272862862/9262772627/2496.ts
