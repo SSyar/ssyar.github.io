@@ -10,13 +10,12 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religious",Sunnah TV
 #https://edge.taghtia.com/sa/6.m3u8
 #https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
-#https://cdn02khi.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMTozOSBBTSZoYXNoX3ZhbHVlPW1XZ1ovWU1EalhkbE1TVmVubG1KV0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
-http://175.107.244.52:4457/play/a069/index.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMTozOSBBTSZoYXNoX3ZhbHVlPW1XZ1ovWU1EalhkbE1TVmVubG1KV0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#http://175.107.244.52:4457/play/a069/index.m3u8
 #https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Religious",ARY QTV
 http://175.107.244.52:4456/play/a04z/index.m3u8
-#http://208.86.19.13:81/822.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/minhaj_tv_pk.png" group-title="Religious",Minhaj TV
 #https://livestream.com/accounts/263040/events/10099734
@@ -44,7 +43,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8?wmsAuthS
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NTA6NTMgQU0maGFzaF92YWx1ZT1aUmp4MGl5NVNFaTkveUtQSWh1aTJRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="News",Neo News
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/playlist.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6NDI6MTggQU0maGFzaF92YWx1ZT1TejBEM2NWRlBMOVU1Vzkvb09acENBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/NeoNews-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-news-pk.png" group-title="News",Hum News
 http://116.90.120.149:8000/play/a024/index.m3u8
@@ -53,13 +52,13 @@ http://116.90.120.149:8000/play/a024/index.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/abbtak-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgODoxMzoxOCBBTSZoYXNoX3ZhbHVlPXNoWGdoQm0wUXkxeUFEbk9iQ3VHcVE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/abbtak-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Samaa_tv_pk.jpg" group-title="News",Samaa News
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/playlist.m3u8?
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzQ6MjYgQU0maGFzaF92YWx1ZT1MTHBxdVhRMDlmNzhDT1h1YnVqK2lBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/samaaTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="News",Aaj News
-https://tapmadlive.akamaized.net/tapmadold/aajnews.smil/playlist.m3u8?
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6Mjc6MzQgQU0maGFzaF92YWx1ZT1zRGdqOHkxR1VMVG1iWENLNWZ1K2xnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/AajNews-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3olBAE6" group-title="News",GNN
-https://tapmadlive.akamaized.net/tapmadold/jaagtv.smil/playlist.m3u8?
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6Mjg6MjMgQU0maGFzaF92YWx1ZT13Z1BBL0lOaEtITDZPRHpnNTUrUkJRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/GNN-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
@@ -71,7 +70,7 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8?wmsAuthSi
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6MzY6MDMgQU0maGFzaF92YWx1ZT1zdUF3Mmg2ZzJaNlJuVWlDK0RaNEhnPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/city_42_tv.png" group-title="News",City 42
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w175417237_b748000_slEng.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzM6MTcgQU0maGFzaF92YWx1ZT1NVmg2Mmd0VHJjQ28xVWVsU3JpMFJnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi_tv_pk.png" group-title="News",Rohi TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114L/chunks.m3u8?nimblesessionid=28060678&wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNToxODowMiBQTSZoYXNoX3ZhbHVlPXNFTjdMaW9VbDJ6ZUl4clc5R054cUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
@@ -89,7 +88,7 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8?wmsAu
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/mashriqtv-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjQ6MTEgQU0maGFzaF92YWx1ZT16c0JwQnUxdnN1RFI5eVdFaDBKaTNRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g=s250" group-title="News",24 News
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w2055364197_b1248000_slEng.m3u8
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzU6MTQgQU0maGFzaF92YWx1ZT1OczVaKzQrT1BzbSt3eXZYWldTY3FRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/24News-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-network-pk.png" group-title="News",GTV News
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6Mzg6MDMgQU0maGFzaF92YWx1ZT1tKytZTHoraGhjWmx3YXhhbWRzcWxnPT0mdmFsaWRtaW51dGVzPTEw
@@ -132,7 +131,7 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MzA6MDQgQU0maGFzaF92YWx1ZT1OeG5nclZyTWkydHozeTAySlE0L29BPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/A-Plus_TV_Logo.png" group-title="Entertainment",A Plus
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/playlist.m3u8?
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzU6NDIgQU0maGFzaF92YWx1ZT1ia3dDa1VxZEV4NWVNN3dWVURHQVp3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Aplus-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="Entertainment",ATV
 https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
@@ -163,8 +162,7 @@ https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/ca/Baby_TV.png" group-title="Kids",Baby TV
-https://tapmadlive.akamaized.net/tapmadold/babytv.smil/playlist.m3u8?
-#https://cdn02khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNTowMjoyMCBBTSZoYXNoX3ZhbHVlPStET0NhUkNpd2NoNmZobUNEdklEckE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6Mzk6MDMgQU0maGFzaF92YWx1ZT1MdkIrRWhqU2ptWmtCVEpNaW5ycXNBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BabyTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
 http://212.102.60.231/NICKELODEON/index.m3u8
@@ -341,7 +339,6 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/962/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="Information",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #https://ve-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:ww_bbc_stream_051/pc_hd_abr_v2.mpd
-#https://tapmadlive.akamaized.net/tapmadold/bbcnews.smil/playlist.m3u8?
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="Information",CNN
