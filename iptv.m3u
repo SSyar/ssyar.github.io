@@ -246,10 +246,10 @@ https://tv.6giptv.net:443/live/9272862862/9262772627/605126.ts
 https://tv.6giptv.net:443/live/9272862862/9262772627/605127.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6123/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MSIsInRzIjoxNzg3MjE5ODUzNTc1fQ
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9310/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0NDkiLCJ0cyI6MTc4NzIxOTgyMDQyM30
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
@@ -261,19 +261,19 @@ https://cdtest.global.ssl.fastly.net/1787315601~f0346e1b00f244e8bc4579741fee413e
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://tv.6giptv.net:443/live/9272862862/9262772627/2496.ts
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNjgiLCJ0cyI6MTc4NzIxOTYxMzk0MX0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-https://playlist.freecdnllm.sbs/?url=aHR0cHMlM0EvL3NlYy5haS1obHMuc2l0ZS9wcm94eS93aW5kL3ByZW1pdW00MjAvbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MjAiLCJ0cyI6MTc4NzIxOTY1NDU3N30
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNjkiLCJ0cyI6MTc4NzIxOTUwNTk4N30
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-https://tv.6giptv.net:443/live/9272862862/9262772627/4750.ts
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4MjEiLCJ0cyI6MTc4NzIxOTU3MDUxN30
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2508/index.m3u8
@@ -293,16 +293,16 @@ http://103.229.254.25:7001/play/a06t/index.m3u8
 https://cdtest.global.ssl.fastly.net/1787315601~0e63f277b44a36b347c0c0bb3e8455e4/channel/97/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6566/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMSIsInRzIjoxNzg3MjE5NzExODcwfQ
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2506/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMSIsInRzIjoxNzg3MjE5NzExODcwfQ
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6564/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMyIsInRzIjoxNzg3MjE5NzYxOTMxfQ
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19054/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNCIsInRzIjoxNzg3MjE5Nzc2NzQxfQ
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
