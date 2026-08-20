@@ -246,10 +246,10 @@ https://tv.6giptv.net:443/live/9272862862/9262772627/605126.ts
 https://tv.6giptv.net:443/live/9272862862/9262772627/605127.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI5MSIsInRzIjoxNzg3MjE5ODUzNTc1fQ
+https://bein-sports-1-arabic.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0NDkiLCJ0cyI6MTc4NzIxOTgyMDQyM30
+https://sky-sports-mix-uk.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
