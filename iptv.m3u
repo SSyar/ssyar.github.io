@@ -261,19 +261,19 @@ https://cdtest.global.ssl.fastly.net/1787315601~f0346e1b00f244e8bc4579741fee413e
 https://xemzi.short.gy/2000006
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNjgiLCJ0cyI6MTc4NzIxOTYxMzk0MX0
+https://supersport-cricket.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI0MjAiLCJ0cyI6MTc4NzIxOTY1NDU3N30
+https://supersport-action.paheshare.workers.dev/
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNjkiLCJ0cyI6MTc4NzIxOTUwNTk4N30
+https://fox-501.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI4MjEiLCJ0cyI6MTc4NzIxOTU3MDUxN30
+https://fox-sports-503-au.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2508/index.m3u8
@@ -293,16 +293,16 @@ http://103.229.254.25:7001/play/a06t/index.m3u8
 https://cdtest.global.ssl.fastly.net/1787315601~0e63f277b44a36b347c0c0bb3e8455e4/channel/97/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMSIsInRzIjoxNzg3MjE5NzExODcwfQ
+https://tnt-sports-1.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMSIsInRzIjoxNzg3MjE5NzExODcwfQ
+https://tnt-sports-2.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMyIsInRzIjoxNzg3MjE5NzYxOTMxfQ
+https://tnt-sports-3.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
-https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzNCIsInRzIjoxNzg3MjE5Nzc2NzQxfQ
+https://tnt-sports-4.paheshare.workers.dev/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
