@@ -240,10 +240,10 @@ http://tooontv.com:999/live/ere3444h/agape/1026.m3u8
 http://tooontv.com:999/live/ere3444h/agape/1027.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
-https://tv.6giptv.net:443/live/9272862862/9262772627/605126.ts
+https://playlist.ssyar.workers.dev/600.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yj5xJkeTn-PPLmQaweAG_a8gHkIbdiR0qQQVwhvsULz7Ogr4xj-dTWPTGChhN9e1PGwbYZBIfA=s400" group-title="Sports",AD Sports 2
-https://tv.6giptv.net:443/live/9272862862/9262772627/605127.ts
+https://playlist.ssyar.workers.dev/601.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1 AR
 https://playlist.ssyar.workers.dev/91.m3u8
