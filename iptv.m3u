@@ -87,7 +87,7 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8?wmsAu
 #EXTINF:-1 tvg-logo="https://mashriqtv.pk/wp-content/uploads/Logo_Mashriq-footer.png" group-title="News",Mashriq TV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/mashriqtv-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjQ6MTEgQU0maGFzaF92YWx1ZT16c0JwQnUxdnN1RFI5eVdFaDBKaTNRPT0mdmFsaWRtaW51dGVzPTEw
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iii--yRY_qTPIGFBgEL4CbVzUThr_Heoo7jUxfTzyl2P_P0X9qr4zsmFwyqaOixJva9NZiBx7g=s250" group-title="News",24 News
+#EXTINF:-1 tvg-logo="https://www.worldcall.net.pk/images/channels_list/24_News_HD.jpg" group-title="News",24 News
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzU6MTQgQU0maGFzaF92YWx1ZT1OczVaKzQrT1BzbSt3eXZYWldTY3FRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/24News-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XeYSR3.png" group-title="News",GTV News
@@ -176,7 +176,7 @@ https://jmp2.uk/sam-USAK3508716A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 https://bit.ly/41lplZ7
 
-#EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="Kids",Happy Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",Happy Kids
 https://jmp2.uk/sam-USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMhNf3p.jpeg" group-title="Kids",Paw Patrol
@@ -257,7 +257,7 @@ https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg" group-title="Sports",Cricbuzz
 https://playlist.ssyar.workers.dev/370.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/84e5d5dd-5699-5d1f-96f2-1f5fe5f04abe.png" group-title="Sports",Sky Sports Cricket
 https://playlist.ssyar.workers.dev/369.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="Sports",Super Sports Cricket
@@ -321,7 +321,7 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Information",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://versantmediahub.com/_next/image?url=%2Fversant-logo-2026-v1.png&w=256&q=75" group-title="Information",CNBC
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/CNBC-Logo-tumb-1.png" group-title="Information",CNBC
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/962/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/bbc-news-logo-png_seeklogo-519158.png" group-title="Information",BBC World News
@@ -382,7 +382,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo-tumb.jpg" group-title="Information",History Channel
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7006/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Information",Love Nature
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2026/05/lovenature.png" group-title="Information",Love Nature
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6864/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
