@@ -210,10 +210,10 @@ https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664a
 https://xemzi.short.gy/2000005
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
-https://cdtest.global.ssl.fastly.net/1787315601~2b846c6d76414aa37d4b5414a63ed812/channel/7/chunks.m3u8
+https://playlist.ssyar.workers.dev/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-https://cdtest.global.ssl.fastly.net/1787315601~73616b276d636310362208c8f3036296/channel/58/chunks.m3u8
+https://playlist.ssyar.workers.dev/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="Sports",Ten Sports
 https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
@@ -246,34 +246,34 @@ https://tv.6giptv.net:443/live/9272862862/9262772627/605126.ts
 https://tv.6giptv.net:443/live/9272862862/9262772627/605127.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Sports",Bein Sports 1 AR
-https://bein-sports-1-arabic.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/91.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="Sports",Sky Sports Mix
-https://sky-sports-mix-uk.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/449.m3u8
 
 #EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-300x300-square.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Q3mUXMkM63Z-Dh5YCasJtTEkU6r7kLyn8m6b3-2-MwdK6jlZnxTRXrRstdMAahKLrg" group-title="Sports",Cricbuzz
-https://cdtest.global.ssl.fastly.net/1787315601~f0346e1b00f244e8bc4579741fee413e/channel/104/chunks.m3u8
+https://playlist.ssyar.workers.dev/370.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-https://xemzi.short.gy/2000006
+https://playlist.ssyar.workers.dev/369.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",Super Sports Cricket
-https://supersport-cricket.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/368.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="Sports",Super Sports Action
-https://supersport-action.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/420.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-https://fox-501.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/369.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-503-us-au.png" group-title="Sports",Fox 503
-https://fox-sports-503-au.ssyar.workers.dev/
+https://playlist.ssyar.workers.dev/821.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2508/index.m3u8
@@ -289,8 +289,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 http://103.229.254.25:7001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/willow_us.png" group-title="Sports",Willow Cricket
-#https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
-https://cdtest.global.ssl.fastly.net/1787315601~0e63f277b44a36b347c0c0bb3e8455e4/channel/97/chunks.m3u8
+https://playlist.ssyar.workers.dev/346.m3u8
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
 https://playlist.ssyar.workers.dev/31.m3u8
