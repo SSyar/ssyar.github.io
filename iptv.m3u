@@ -364,56 +364,56 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Information",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/voa_tv_us.png" group-title="Information",VOA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="Information",VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="Information",Motorvision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Information",Motorvision
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #https://tapmadlive.akamaized.net/tapmadold/motorvision.smil/playlist.m3u8?
 #https://amg01329-otterainc-motorvisionnz-samsungnz-rdwm7.amagi.tv/playlist/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discover-pakistan-pk.png" group-title="Information",Discover Pakistan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Information",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Information",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rt_doc_ru.png" group-title="Information",RT Documentary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Information",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="Information",History Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Information",History Channel
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7006/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love-nature-ca.png" group-title="Information",Love Nature
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Information",Love Nature
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6864/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb1A9TfYw3GnuHNsKSm24dOT0r5SXzVpLiZEjQk7Q=s250" group-title="Information",PBS Nature
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Information",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Information",National Geographic
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7018/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="Information",NAT GEO Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title="Information",NAT GEO Wild
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/inwild.jpg" group-title="Information",InWild
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Information",InWild
 #https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wildearth-za.png" group-title="Information",Wild Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Information",Wild Earth
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Information",BBC Earth
+#EXTINF:-1 tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" group-title="Information",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="Information",Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Information",Animal Planet
 #https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6989/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Information",Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Information",Discovery
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6968/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
