@@ -288,16 +288,16 @@ http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports",Willow Cricket
 https://playlist.ssyar.workers.dev/346.m3u8
 
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="Sports",TNT Sports 1
 https://playlist.ssyar.workers.dev/31.m3u8
 
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="Sports",TNT Sports 2
 https://playlist.ssyar.workers.dev/32.m3u8
 
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 3
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="Sports",TNT Sports 3
 https://playlist.ssyar.workers.dev/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sports",TNT Sports 4
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="Sports",TNT Sports 4
 https://playlist.ssyar.workers.dev/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel
