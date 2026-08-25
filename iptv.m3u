@@ -193,10 +193,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://103.180.212.191:3500/live/559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
-https://myco.ssyar.workers.dev/689c529413d8d1168ffa302f.m3u8
+https://myco.ssyar.workers.dev/68dd21b658291f57d26eeafb.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-tumb-1.png" group-title="Kids",Disney Jr.
-https://myco.ssyar.workers.dev/68dd21b658291f57d26eeafb.m3u8
+https://myco.ssyar.workers.dev/689c529413d8d1168ffa302f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
 http://103.180.212.191:3500/live/554.m3u8
