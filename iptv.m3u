@@ -158,7 +158,8 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8?wmsAuthSign=
 http://103.180.212.191:3500/live/183.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/06/Cartoon-Network-Logo.jpg" group-title="Kids",Cartoon Network
-https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
+#https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/playlist.m3u8?
+https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI2IDQ6NDU6MzYgQU0maGFzaF92YWx1ZT1pT1JEak1HbHpJUjBZNXZ5QzFVV05BPT0mdmFsaWRtaW51dGVzPTE=
 #http://208.86.19.13:81/33.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/ca/Baby_TV.png" group-title="Kids",Baby TV
