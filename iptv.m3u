@@ -166,10 +166,10 @@ https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2
 https://cdn05khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6Mzk6MDMgQU0maGFzaF92YWx1ZT1MdkIrRWhqU2ptWmtCVEpNaW5ycXNBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BabyTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
-http://212.102.60.231/NICKELODEON/index.m3u8
+https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="Kids",Nick Jr.
-http://212.102.60.231/NICK_JR/index.m3u8
+https://sra72yz.s.gy/NICK_JR_US.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",KidoodleTV
 https://jmp2.uk/sam-USAK3508716A.m3u8
@@ -181,7 +181,7 @@ https://bit.ly/41lplZ7
 https://jmp2.uk/sam-USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMhNf3p.jpeg" group-title="Kids",Paw Patrol
-https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
+#https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
@@ -190,16 +190,16 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",POGO
-http://103.180.212.191:3500/live/559.m3u8
+#http://103.180.212.191:3500/live/559.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney
-https://myco.ssyar.workers.dev/68dd21b658291f57d26eeafb.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-tumb-1.png" group-title="Kids",Disney Jr.
 https://myco.ssyar.workers.dev/689c529413d8d1168ffa302f.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-tumb-1.png" group-title="Kids",Disney Jr.
+https://myco.ssyar.workers.dev/68dd21b658291f57d26eeafb.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids
-http://103.180.212.191:3500/live/554.m3u8
+#http://103.180.212.191:3500/live/554.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",Pop
 https://jmp2.uk/stvp-GBBC430000128
@@ -368,8 +368,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Information",Motorvision
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#https://tapmadlive.akamaized.net/tapmadold/motorvision.smil/playlist.m3u8?
-#https://amg01329-otterainc-motorvisionnz-samsungnz-rdwm7.amagi.tv/playlist/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Information",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream3/chunks.m3u8
@@ -390,10 +388,10 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/06/National-Geographic-Logo.jpg" group-title="Information",National Geographic
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7018/index.m3u8
+http://myco.ssyar.workers.dev/69bbe6ec4fa9f4565cbe1e11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title="Information",NAT GEO Wild
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7010/index.m3u8
+http://myco.ssyar.workers.dev/69bbe377aa485c207cdb6b99.m3u8 
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991765/250x250.webp?type=color_onWhite" group-title="Information",Xplore
 https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8
