@@ -339,7 +339,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-tumb.png" group-title="Information",Fox News
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19147/index.m3u8
+http://45.190.28.50/FOX_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Information",CBS News
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
@@ -379,7 +379,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo-tumb.jpg" group-title="Information",History Channel
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7006/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
  
 #EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2026/05/lovenature.png" group-title="Information",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
@@ -403,14 +403,13 @@ https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" group-title="Information",BBC Earth
-https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo-tumb.jpg" group-title="Information",Animal Planet
-#https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6989/index.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNjo1MDoyNyBBTSZoYXNoX3ZhbHVlPWNNcDhWUXg0RTNMMUxxUlptZEEwaUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/01/Discovery-logo-tumb.jpg" group-title="Information",Discovery
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6968/index.m3u8
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI2IDk6MjQ6MzMgQU0maGFzaF92YWx1ZT1pM3Y0Zm1mVlF5QmtzRENNTi9aZEh3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
 http://103.180.212.191:3500/live/568.m3u8
