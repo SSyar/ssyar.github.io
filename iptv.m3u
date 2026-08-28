@@ -217,8 +217,7 @@ https://playlist.ssyar.workers.dev/39.m3u8
 https://playlist.ssyar.workers.dev/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.worldcall.net.pk/images/channels_list/Ten_Sports_Pakistan.jpg" group-title="Sports",Ten Sports
-https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8
-#https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjUgNzo1Nzo1MSBBTSZoYXNoX3ZhbHVlPVg2b20rbDFiZStYQ2p1dDlPaytVV3c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+http://175.107.244.52:4456/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
 http://175.107.244.52:4456/play/a042/index.m3u8
@@ -341,7 +340,7 @@ https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-tumb.png" group-title="Information",Fox News
 http://45.190.28.50/FOX_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Information",CBS News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Information",CBC News
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="Information",ABC News
@@ -397,7 +396,7 @@ http://myco.ssyar.workers.dev/69bbe377aa485c207cdb6b99.m3u8
 https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Information",InWild
-#https://inwild-samsungau.amagi.tv/playlist540-p.m3u8
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Information",Wild Earth
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
