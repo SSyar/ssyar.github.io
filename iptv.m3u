@@ -234,10 +234,10 @@ http://175.107.244.52:4456/play/a06z/index.m3u8
 https://tapmadlive.akamaized.net/tapmadold/eurosports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosports 1
-http://tooontv.com:999/live/ere3444h/agape/1026.m3u8
+http://141.94.193.53/Eurosport_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosports 2
-http://tooontv.com:999/live/ere3444h/agape/1027.m3u8
+http://141.94.193.53/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hHBhwcoCzaf557Ir6wBg5v5a2UCgCShrU_2ul7c0mSvc7zenGz5WQEe5MTSHFQdrTftgZ1hp5w=s400" group-title="Sports",AD Sports 1
 https://playlist.ssyar.workers.dev/600.m3u8
@@ -258,7 +258,7 @@ https://streams2.sofast.tv/scheduler/scheduleMaster/418/variant/22100033.m3u8
 https://playlist.ssyar.workers.dev/370.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/84e5d5dd-5699-5d1f-96f2-1f5fe5f04abe.png" group-title="Sports",Sky Sports Cricket
-https://playlist.ssyar.workers.dev/369.m3u8
+https://playlist.ssyar.workers.dev/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="Sports",Super Sports Cricket
 https://playlist.ssyar.workers.dev/368.m3u8
