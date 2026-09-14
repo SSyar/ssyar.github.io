@@ -338,7 +338,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-tumb.png" group-title="Information",Fox News
-http://45.190.28.50/FOX_NEWS/index.m3u8
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Information",CBC News
 https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
@@ -410,5 +410,5 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8?wms
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/01/Discovery-logo-tumb.jpg" group-title="Information",Discovery
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI2IDk6MjQ6MzMgQU0maGFzaF92YWx1ZT1pM3Y0Zm1mVlF5QmtzRENNTi9aZEh3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Information",Discovery Science
-http://103.180.212.191:3500/live/568.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Information",InWonder
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
