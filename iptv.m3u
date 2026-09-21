@@ -133,9 +133,6 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="Entertainment",A Plus
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzU6NDIgQU0maGFzaF92YWx1ZT1ia3dDa1VxZEV4NWVNN3dWVURHQVp3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Aplus-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.worldcall.net.pk/images/channels_list/ATV.jpg" group-title="Entertainment",ATV
-https://tapmadlive.akamaized.net/tapmadold/atv.smil/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Entertainment",ARY Digital
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjI5OjUwIEFNJmhhc2hfdmFsdWU9Mi9TVld1Q24wUEVaNTdkd3o2bStKQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8
 
@@ -143,7 +140,7 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAu
 https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjMwOjQwIEFNJmhhc2hfdmFsdWU9dHBFNEZHZ1ZlaXpPSzJ5V2trY1FIUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnNNDrE.png" group-title="Entertainment",Play Entertainment
-https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1304597753_b748000_slEng.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI2IDQ6NTI6NTcgQU0maGFzaF92YWx1ZT13NithQVNhK1k3Q3dKYzFSU3RZcVlnPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://e.pba.org.pk/Logos/15e6da29-f68e-4f0e-87bb-4bca263d9683__MasalaTV.jpg" group-title="Entertainment",Hum Masala
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MTEgQU0maGFzaF92YWx1ZT1zelFKbUJkeldnc1J4V0o5ZytUOHBBPT0mdmFsaWRtaW51dGVzPTEw
