@@ -163,10 +163,10 @@ https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2
 https://cdn05khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6Mzk6MDMgQU0maGFzaF92YWx1ZT1MdkIrRWhqU2ptWmtCVEpNaW5ycXNBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/BabyTV-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/thumbnail.jpg" group-title="Kids",Nick
-https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+https://playlist.ssyar.workers.dev/330.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/thumbnail.jpg" group-title="Kids",Nick Jr.
-https://sra72yz.s.gy/NICK_JR_US.m3u8
+https://playlist.ssyar.workers.dev/329.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="Kids",KidoodleTV
 https://jmp2.uk/sam-USAK3508716A.m3u8
@@ -205,7 +205,7 @@ https://jmp2.uk/stvp-GBBC430000128
 https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_jQZlY9DE1xA8SGtJiIY7wDrfH6RHkPXAETvmmwGtfyzvLctStrmv-txfbRgO-2zgsmVCa8lfYU=s500" group-title="Sports",Sky Sports F1
-https://xemzi.short.gy/2000005
+https://playlist.ssyar.workers.dev/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1
 https://playlist.ssyar.workers.dev/39.m3u8
