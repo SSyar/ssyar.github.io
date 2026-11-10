@@ -17,7 +17,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #https://ml-pull-dvc-myco.io:2096/PEACETV-URDU/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kTij1G.png" group-title="News",GEO News
-https://cdn05khi.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6NDc6MzIgQU0maGFzaF92YWx1ZT1oV1FXTmJSbEUxUnBRby9OWVZGcjh3PT0mdmFsaWRtaW51dGVzPTEw
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozNjoyMiBBTSZoYXNoX3ZhbHVlPXRoa2Q4bmswZ1NvWFl4RGxWcW1sT2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg9xjWBY6LTcI8dF_XZwzp-ZCrPAW7lOeWJUQN7w=s250" group-title="News",Express News
 http://175.107.244.52:4456/play/a037/index.m3u8
@@ -29,7 +29,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://pkimob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="https://bit.ly/4kFgiLW" group-title="News",ARY News
-https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjI5OjIxIEFNJmhhc2hfdmFsdWU9TGx4Wm5KS3czNGtoOU0yUkUveWdGUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYnews-abr/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozNjo1MiBBTSZoYXNoX3ZhbHVlPXZzQzBTMEVSbWZXZkZVYzlIejcwcmc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="News",Dawn News
 http://116.90.120.149:8000/play/a0ry/index.m3u8
@@ -56,13 +56,13 @@ http://116.90.120.149:8000/play/a0sw/index.m3u8
 https://cdn.bmstudiopk.com/suchnews/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MoCGZZpZrZMP_ZOUOXHkcPtbVFp-0_OiI8nNcfiHHVFenMtkV6Qse9Fmi_fOpwjpCzP557Gd=s400" group-title="News",City 21
-https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDc6MjU6MzcgQU0maGFzaF92YWx1ZT1yeS9tQkFrVjgwQ2RvTkhFa1poNlpBPT0mdmFsaWRtaW51dGVzPTEw
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozODowMyBBTSZoYXNoX3ZhbHVlPVhUcUVabENYN3hGTmM3dXJJOGE0TXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://www.worldcall.net.pk/images/channels_list/City_41.jpg" group-title="News",City 41
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI1IDU6MzY6MDMgQU0maGFzaF92YWx1ZT1zdUF3Mmg2ZzJaNlJuVWlDK0RaNEhnPT0mdmFsaWRtaW51dGVzPTEw
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozODo0NyBBTSZoYXNoX3ZhbHVlPU1RN3ZzdmJyejRLNzNJT0tCSW9RRXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vcSFetk.png" group-title="News",City 42
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzM6MTcgQU0maGFzaF92YWx1ZT1NVmg2Mmd0VHJjQ28xVWVsU3JpMFJnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozOToyNSBBTSZoYXNoX3ZhbHVlPU8xL0NLTlF0cmtJR29rcDlNbVBUUHc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zC8hXi4.png" group-title="News",Rohi TV
 https://cdn02khi.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114L/chunks.m3u8?nimblesessionid=28060678&wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgNToxODowMiBQTSZoYXNoX3ZhbHVlPXNFTjdMaW9VbDJ6ZUl4clc5R054cUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
@@ -124,7 +124,7 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI2IDY6MzU6NDIgQU0maGFzaF92YWx1ZT1ia3dDa1VxZEV4NWVNN3dWVURHQVp3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Aplus-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Entertainment",ARY Digital
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjI5OjUwIEFNJmhhc2hfdmFsdWU9Mi9TVld1Q24wUEVaNTdkd3o2bStKQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozNTo1NyBBTSZoYXNoX3ZhbHVlPUJjNGc0QkZ6a0lzdGJKaVByM0Q3d2c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGjDpGt0/ARY-Zindagi.png" group-title="Entertainment",ARY Zindagi
 https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNSA1OjMwOjQwIEFNJmhhc2hfdmFsdWU9dHBFNEZHZ1ZlaXpPSzJ5V2trY1FIUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
@@ -133,7 +133,7 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8?wmsAu
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI2IDQ6NTI6NTcgQU0maGFzaF92YWx1ZT13NithQVNhK1k3Q3dKYzFSU3RZcVlnPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://e.pba.org.pk/Logos/15e6da29-f68e-4f0e-87bb-4bca263d9683__MasalaTV.jpg" group-title="Entertainment",Hum Masala
-https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMTozNzoyNiBBTSZoYXNoX3ZhbHVlPTJ1NnN5bGhSWExRK2dHOG1mdCtGdUE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eH1CezW.jpeg" group-title="Music",ARY Musik
 http://175.107.244.52:4456/play/a04x/index.m3u8
